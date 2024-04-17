@@ -1,0 +1,5571 @@
+UF,COD_UF,COD_MUNIC,NOME_DO_MUNICIPIO,Populacao_2022
+RO,11,00015,Alta Floresta D'Oeste, 21 494
+RO,11,00023,Ariquemes, 96 833
+RO,11,00031,Cabixi, 5 351
+RO,11,00049,Cacoal, 86 887
+RO,11,00056,Cerejeiras, 15 890
+RO,11,00064,Colorado do Oeste, 15 663
+RO,11,00072,Corumbiara, 7 519
+RO,11,00080,Costa Marques, 12 627
+RO,11,00098,Espigão D'Oeste, 29 414
+RO,11,00106,Guajará-Mirim, 39 387
+RO,11,00114,Jaru, 50 591
+RO,11,00122,Ji-Paraná, 124 333
+RO,11,00130,Machadinho D'Oeste, 30 707
+RO,11,00148,Nova Brasilândia D'Oeste, 15 679
+RO,11,00155,Ouro Preto do Oeste, 35 044
+RO,11,00189,Pimenta Bueno, 35 079
+RO,11,00205,Porto Velho, 460 434
+RO,11,00254,Presidente Médici, 19 327
+RO,11,00262,Rio Crespo, 3 471
+RO,11,00288,Rolim de Moura, 56 406
+RO,11,00296,Santa Luzia D'Oeste, 7 419
+RO,11,00304,Vilhena, 95 832
+RO,11,00320,São Miguel do Guaporé, 21 635
+RO,11,00338,Nova Mamoré, 25 444
+RO,11,00346,Alvorada D'Oeste, 13 117
+RO,11,00379,Alto Alegre dos Parecis, 11 479
+RO,11,00403,Alto Paraíso, 16 320
+RO,11,00452,Buritis, 27 992
+RO,11,00502,Novo Horizonte do Oeste, 7 667
+RO,11,00601,Cacaulândia, 4 150
+RO,11,00700,Campo Novo de Rondônia, 8 844
+RO,11,00809,Candeias do Jamari, 22 310
+RO,11,00908,Castanheiras, 3 233
+RO,11,00924,Chupinguaia, 9 324
+RO,11,00940,Cujubim, 14 863
+RO,11,01005,Governador Jorge Teixeira, 8 001
+RO,11,01104,Itapuã do Oeste, 8 548
+RO,11,01203,Ministro Andreazza, 6 466
+RO,11,01302,Mirante da Serra, 9 235
+RO,11,01401,Monte Negro, 11 548
+RO,11,01435,Nova União, 6 200
+RO,11,01450,Parecis, 4 125
+RO,11,01468,Pimenteiras do Oeste, 2 156
+RO,11,01476,Primavera de Rondônia, 3 076
+RO,11,01484,São Felipe D'Oeste, 5 258
+RO,11,01492,São Francisco do Guaporé, 16 286
+RO,11,01500,Seringueiras, 11 171
+RO,11,01559,Teixeirópolis, 4 256
+RO,11,01609,Theobroma, 8 113
+RO,11,01708,Urupá, 10 725
+RO,11,01757,Vale do Anari, 7 788
+RO,11,01807,Vale do Paraíso, 6 479
+AC,12,00013,Acrelândia, 14 021
+AC,12,00054,Assis Brasil, 8 100
+AC,12,00104,Brasiléia, 26 000
+AC,12,00138,Bujari, 12 917
+AC,12,00179,Capixaba, 10 392
+AC,12,00203,Cruzeiro do Sul, 91 888
+AC,12,00252,Epitaciolândia, 18 757
+AC,12,00302,Feijó, 35 426
+AC,12,00328,Jordão, 9 222
+AC,12,00336,Mâncio Lima, 19 294
+AC,12,00344,Manoel Urbano, 11 996
+AC,12,00351,Marechal Thaumaturgo, 17 093
+AC,12,00385,Plácido de Castro, 16 560
+AC,12,00393,Porto Walter, 10 735
+AC,12,00401,Rio Branco, 364 756
+AC,12,00427,Rodrigues Alves, 14 938
+AC,12,00435,Santa Rosa do Purus, 6 723
+AC,12,00450,Senador Guiomard, 21 454
+AC,12,00500,Sena Madureira, 41 343
+AC,12,00609,Tarauacá, 43 467
+AC,12,00708,Xapuri, 18 243
+AC,12,00807,Porto Acre, 16 693
+AM,13,00029,Alvarães, 15 866
+AM,13,00060,Amaturá, 10 819
+AM,13,00086,Anamã, 9 962
+AM,13,00102,Anori, 17 194
+AM,13,00144,Apuí, 20 647
+AM,13,00201,Atalaia do Norte, 15 314
+AM,13,00300,Autazes, 41 564
+AM,13,00409,Barcelos, 18 834
+AM,13,00508,Barreirinha, 31 051
+AM,13,00607,Benjamin Constant, 37 648
+AM,13,00631,Beruri, 20 718
+AM,13,00680,Boa Vista do Ramos, 23 785
+AM,13,00706,Boca do Acre, 35 447
+AM,13,00805,Borba, 33 080
+AM,13,00839,Caapiranga, 13 469
+AM,13,00904,Canutama, 16 869
+AM,13,01001,Carauari, 28 742
+AM,13,01100,Careiro, 30 792
+AM,13,01159,Careiro da Várzea, 19 637
+AM,13,01209,Coari, 70 616
+AM,13,01308,Codajás, 23 549
+AM,13,01407,Eirunepé, 33 170
+AM,13,01506,Envira, 17 186
+AM,13,01605,Fonte Boa, 25 871
+AM,13,01654,Guajará, 13 815
+AM,13,01704,Humaitá, 57 473
+AM,13,01803,Ipixuna, 24 311
+AM,13,01852,Iranduba, 61 163
+AM,13,01902,Itacoatiara, 103 598
+AM,13,01951,Itamarati, 10 937
+AM,13,02009,Itapiranga, 10 162
+AM,13,02108,Japurá, 8 858
+AM,13,02207,Juruá, 10 742
+AM,13,02306,Jutaí, 25 172
+AM,13,02405,Lábrea, 45 448
+AM,13,02504,Manacapuru, 101 883
+AM,13,02553,Manaquiri, 17 107
+AM,13,02603,Manaus,2 063 689
+AM,13,02702,Manicoré, 53 914
+AM,13,02801,Maraã, 15 529
+AM,13,02900,Maués, 61 204
+AM,13,03007,Nhamundá, 20 136
+AM,13,03106,Nova Olinda do Norte, 27 062
+AM,13,03205,Novo Airão, 15 761
+AM,13,03304,Novo Aripuanã, 23 818
+AM,13,03403,Parintins, 96 372
+AM,13,03502,Pauini, 19 373
+AM,13,03536,Presidente Figueiredo, 30 668
+AM,13,03569,Rio Preto da Eva, 24 936
+AM,13,03601,Santa Isabel do Rio Negro, 14 164
+AM,13,03700,Santo Antônio do Içá, 28 211
+AM,13,03809,São Gabriel da Cachoeira, 51 795
+AM,13,03908,São Paulo de Olivença, 32 967
+AM,13,03957,São Sebastião do Uatumã, 11 670
+AM,13,04005,Silves, 11 559
+AM,13,04062,Tabatinga, 66 764
+AM,13,04104,Tapauá, 19 599
+AM,13,04203,Tefé, 73 669
+AM,13,04237,Tonantins, 19 247
+AM,13,04260,Uarini, 14 431
+AM,13,04302,Urucará, 18 631
+AM,13,04401,Urucurituba, 23 945
+RR,14,00027,Amajari, 13 927
+RR,14,00050,Alto Alegre, 21 096
+RR,14,00100,Boa Vista, 413 486
+RR,14,00159,Bonfim, 13 923
+RR,14,00175,Cantá, 18 682
+RR,14,00209,Caracaraí, 20 957
+RR,14,00233,Caroebe, 10 656
+RR,14,00282,Iracema, 10 023
+RR,14,00308,Mucajaí, 18 095
+RR,14,00407,Normandia, 13 986
+RR,14,00456,Pacaraima, 19 305
+RR,14,00472,Rorainópolis, 32 647
+RR,14,00506,São João da Baliza, 8 858
+RR,14,00605,São Luiz, 7 315
+RR,14,00704,Uiramutã, 13 751
+PA,15,00107,Abaetetuba, 158 188
+PA,15,00131,Abel Figueiredo, 6 136
+PA,15,00206,Acará, 59 023
+PA,15,00305,Afuá, 37 765
+PA,15,00347,Água Azul do Norte, 18 080
+PA,15,00404,Alenquer, 69 377
+PA,15,00503,Almeirim, 34 280
+PA,15,00602,Altamira, 126 279
+PA,15,00701,Anajás, 28 011
+PA,15,00800,Ananindeua, 478 778
+PA,15,00859,Anapu, 31 850
+PA,15,00909,Augusto Corrêa, 44 573
+PA,15,00958,Aurora do Pará, 23 774
+PA,15,01006,Aveiro, 18 290
+PA,15,01105,Bagre, 31 892
+PA,15,01204,Baião, 51 641
+PA,15,01253,Bannach, 4 031
+PA,15,01303,Barcarena, 126 650
+PA,15,01402,Belém,1 303 403
+PA,15,01451,Belterra, 18 099
+PA,15,01501,Benevides, 63 567
+PA,15,01576,Bom Jesus do Tocantins, 18 005
+PA,15,01600,Bonito, 12 622
+PA,15,01709,Bragança, 123 082
+PA,15,01725,Brasil Novo, 24 718
+PA,15,01758,Brejo Grande do Araguaia, 6 783
+PA,15,01782,Breu Branco, 45 712
+PA,15,01808,Breves, 106 968
+PA,15,01907,Bujaru, 24 383
+PA,15,01956,Cachoeira do Piriá, 19 630
+PA,15,02004,Cachoeira do Arari, 23 981
+PA,15,02103,Cametá, 134 184
+PA,15,02152,Canaã dos Carajás, 77 079
+PA,15,02202,Capanema, 70 394
+PA,15,02301,Capitão Poço, 56 506
+PA,15,02400,Castanhal, 192 256
+PA,15,02509,Chaves, 20 757
+PA,15,02608,Colares, 12 868
+PA,15,02707,Conceição do Araguaia, 44 617
+PA,15,02756,Concórdia do Pará, 26 881
+PA,15,02764,Cumaru do Norte, 14 036
+PA,15,02772,Curionópolis, 19 950
+PA,15,02806,Curralinho, 33 903
+PA,15,02855,Curuá, 14 117
+PA,15,02905,Curuçá, 41 262
+PA,15,02939,Dom Eliseu, 58 484
+PA,15,02954,Eldorado do Carajás, 28 192
+PA,15,03002,Faro, 8 728
+PA,15,03044,Floresta do Araguaia, 17 898
+PA,15,03077,Garrafão do Norte, 24 703
+PA,15,03093,Goianésia do Pará, 26 362
+PA,15,03101,Gurupá, 31 786
+PA,15,03200,Igarapé-Açu, 35 797
+PA,15,03309,Igarapé-Miri, 64 831
+PA,15,03408,Inhangapi, 10 325
+PA,15,03457,Ipixuna do Pará, 30 329
+PA,15,03507,Irituia, 30 955
+PA,15,03606,Itaituba, 123 314
+PA,15,03705,Itupiranga, 49 754
+PA,15,03754,Jacareacanga, 24 042
+PA,15,03804,Jacundá, 37 707
+PA,15,03903,Juruti, 50 881
+PA,15,04000,Limoeiro do Ajuru, 29 569
+PA,15,04059,Mãe do Rio, 34 353
+PA,15,04109,Magalhães Barata, 8 115
+PA,15,04208,Marabá, 266 533
+PA,15,04307,Maracanã, 25 971
+PA,15,04406,Marapanim, 26 573
+PA,15,04422,Marituba, 111 785
+PA,15,04455,Medicilândia, 27 094
+PA,15,04505,Melgaço, 27 881
+PA,15,04604,Mocajuba, 27 198
+PA,15,04703,Moju, 84 094
+PA,15,04752,Mojuí dos Campos, 23 501
+PA,15,04802,Monte Alegre, 60 012
+PA,15,04901,Muaná, 45 368
+PA,15,04950,Nova Esperança do Piriá, 20 478
+PA,15,04976,Nova Ipixuna, 13 955
+PA,15,05007,Nova Timboteua, 12 806
+PA,15,05031,Novo Progresso, 33 638
+PA,15,05064,Novo Repartimento, 60 732
+PA,15,05106,Óbidos, 52 229
+PA,15,05205,Oeiras do Pará, 33 844
+PA,15,05304,Oriximiná, 68 294
+PA,15,05403,Ourém, 17 855
+PA,15,05437,Ourilândia do Norte, 32 467
+PA,15,05486,Pacajá, 41 097
+PA,15,05494,Palestina do Pará, 6 885
+PA,15,05502,Paragominas, 105 550
+PA,15,05536,Parauapebas, 267 836
+PA,15,05551,Pau D'Arco, 6 931
+PA,15,05601,Peixe-Boi, 8 285
+PA,15,05635,Piçarra, 12 832
+PA,15,05650,Placas, 18 668
+PA,15,05700,Ponta de Pedras, 24 984
+PA,15,05809,Portel, 62 503
+PA,15,05908,Porto de Moz, 40 597
+PA,15,06005,Prainha, 35 577
+PA,15,06104,Primavera, 10 851
+PA,15,06112,Quatipuru, 11 524
+PA,15,06138,Redenção, 85 597
+PA,15,06161,Rio Maria, 18 384
+PA,15,06187,Rondon do Pará, 53 143
+PA,15,06195,Rurópolis, 35 769
+PA,15,06203,Salinópolis, 44 772
+PA,15,06302,Salvaterra, 24 129
+PA,15,06351,Santa Bárbara do Pará, 21 087
+PA,15,06401,Santa Cruz do Arari, 7 445
+PA,15,06500,Santa Izabel do Pará, 73 019
+PA,15,06559,Santa Luzia do Pará, 20 370
+PA,15,06583,Santa Maria das Barreiras, 16 548
+PA,15,06609,Santa Maria do Pará, 24 624
+PA,15,06708,Santana do Araguaia, 32 413
+PA,15,06807,Santarém, 331 942
+PA,15,06906,Santarém Novo, 6 116
+PA,15,07003,Santo Antônio do Tauá, 27 461
+PA,15,07102,São Caetano de Odivelas, 16 666
+PA,15,07151,São Domingos do Araguaia, 21 092
+PA,15,07201,São Domingos do Capim, 30 599
+PA,15,07300,São Félix do Xingu, 65 418
+PA,15,07409,São Francisco do Pará, 14 894
+PA,15,07458,São Geraldo do Araguaia, 24 255
+PA,15,07466,São João da Ponta, 4 430
+PA,15,07474,São João de Pirabas, 20 689
+PA,15,07508,São João do Araguaia, 13 664
+PA,15,07607,São Miguel do Guamá, 52 894
+PA,15,07706,São Sebastião da Boa Vista, 25 643
+PA,15,07755,Sapucaia, 5 847
+PA,15,07805,Senador José Porfírio, 22 576
+PA,15,07904,Soure, 24 204
+PA,15,07953,Tailândia, 72 493
+PA,15,07961,Terra Alta, 10 400
+PA,15,07979,Terra Santa, 18 782
+PA,15,08001,Tomé-Açu, 67 585
+PA,15,08035,Tracuateua, 28 595
+PA,15,08050,Trairão, 15 242
+PA,15,08084,Tucumã, 39 550
+PA,15,08100,Tucuruí, 91 306
+PA,15,08126,Ulianópolis, 37 972
+PA,15,08159,Uruará, 43 558
+PA,15,08209,Vigia, 50 832
+PA,15,08308,Viseu, 58 692
+PA,15,08357,Vitória do Xingu, 15 607
+PA,15,08407,Xinguara, 52 893
+AP,16,00055,Serra do Navio, 4 673
+AP,16,00105,Amapá, 7 943
+AP,16,00154,Pedra Branca do Amapari, 12 847
+AP,16,00204,Calçoene, 10 612
+AP,16,00212,Cutias, 4 461
+AP,16,00238,Ferreira Gomes, 6 666
+AP,16,00253,Itaubal, 5 599
+AP,16,00279,Laranjal do Jari, 35 114
+AP,16,00303,Macapá, 442 933
+AP,16,00402,Mazagão, 21 924
+AP,16,00501,Oiapoque, 27 482
+AP,16,00535,Porto Grande, 17 848
+AP,16,00550,Pracuúba, 3 803
+AP,16,00600,Santana, 107 618
+AP,16,00709,Tartarugalzinho, 12 945
+AP,16,00808,Vitória do Jari, 11 291
+TO,17,00251,Abreulândia, 2 576
+TO,17,00301,Aguiarnópolis, 4 497
+TO,17,00350,Aliança do Tocantins, 5 147
+TO,17,00400,Almas, 6 499
+TO,17,00707,Alvorada, 8 802
+TO,17,01002,Ananás, 10 325
+TO,17,01051,Angico, 2 876
+TO,17,01101,Aparecida do Rio Negro, 4 856
+TO,17,01309,Aragominas, 5 290
+TO,17,01903,Araguacema, 5 927
+TO,17,02000,Araguaçu, 8 133
+TO,17,02109,Araguaína, 171 301
+TO,17,02158,Araguanã, 4 310
+TO,17,02208,Araguatins, 31 918
+TO,17,02307,Arapoema, 5 550
+TO,17,02406,Arraias, 10 287
+TO,17,02554,Augustinópolis, 17 484
+TO,17,02703,Aurora do Tocantins, 3 342
+TO,17,02901,Axixá do Tocantins, 10 262
+TO,17,03008,Babaçulândia, 7 880
+TO,17,03057,Bandeirantes do Tocantins, 3 407
+TO,17,03073,Barra do Ouro, 4 476
+TO,17,03107,Barrolândia, 4 846
+TO,17,03206,Bernardo Sayão, 4 229
+TO,17,03305,Bom Jesus do Tocantins, 4 038
+TO,17,03602,Brasilândia do Tocantins, 1 974
+TO,17,03701,Brejinho de Nazaré, 4 725
+TO,17,03800,Buriti do Tocantins, 10 307
+TO,17,03826,Cachoeirinha, 1 961
+TO,17,03842,Campos Lindos, 8 653
+TO,17,03867,Cariri do Tocantins, 4 007
+TO,17,03883,Carmolândia, 2 201
+TO,17,03891,Carrasco Bonito, 3 318
+TO,17,03909,Caseara, 4 847
+TO,17,04105,Centenário, 2 131
+TO,17,04600,Chapada de Areia, 1 501
+TO,17,05102,Chapada da Natividade, 3 117
+TO,17,05508,Colinas do Tocantins, 34 233
+TO,17,05557,Combinado, 4 756
+TO,17,05607,Conceição do Tocantins, 3 887
+TO,17,06001,Couto Magalhães, 5 331
+TO,17,06100,Cristalândia, 6 371
+TO,17,06258,Crixás do Tocantins, 1 470
+TO,17,06506,Darcinópolis, 5 827
+TO,17,07009,Dianópolis, 17 739
+TO,17,07108,Divinópolis do Tocantins, 7 024
+TO,17,07207,Dois Irmãos do Tocantins, 6 327
+TO,17,07306,Dueré, 4 248
+TO,17,07405,Esperantina, 7 530
+TO,17,07553,Fátima, 3 467
+TO,17,07652,Figueirópolis, 5 211
+TO,17,07702,Filadélfia, 7 712
+TO,17,08205,Formoso do Araguaia, 18 881
+TO,17,08254,Tabocão, 3 455
+TO,17,08304,Goianorte, 4 738
+TO,17,09005,Goiatins, 12 433
+TO,17,09302,Guaraí, 24 775
+TO,17,09500,Gurupi, 85 125
+TO,17,09807,Ipueiras, 1 590
+TO,17,10508,Itacajá, 6 819
+TO,17,10706,Itaguatins, 5 172
+TO,17,10904,Itapiratins, 3 577
+TO,17,11100,Itaporã do Tocantins, 2 404
+TO,17,11506,Jaú do Tocantins, 3 334
+TO,17,11803,Juarina, 2 243
+TO,17,11902,Lagoa da Confusão, 15 288
+TO,17,11951,Lagoa do Tocantins, 3 516
+TO,17,12009,Lajeado, 3 357
+TO,17,12157,Lavandeira, 1 626
+TO,17,12405,Lizarda, 2 999
+TO,17,12454,Luzinópolis, 2 717
+TO,17,12504,Marianópolis do Tocantins, 4 615
+TO,17,12702,Mateiros, 2 748
+TO,17,12801,Maurilândia do Tocantins, 3 095
+TO,17,13205,Miracema do Tocantins, 18 566
+TO,17,13304,Miranorte, 12 701
+TO,17,13601,Monte do Carmo, 5 694
+TO,17,13700,Monte Santo do Tocantins, 2 396
+TO,17,13809,Palmeiras do Tocantins, 4 872
+TO,17,13957,Muricilândia, 3 367
+TO,17,14203,Natividade, 8 754
+TO,17,14302,Nazaré, 4 521
+TO,17,14880,Nova Olinda, 10 367
+TO,17,15002,Nova Rosalândia, 3 362
+TO,17,15101,Novo Acordo, 3 969
+TO,17,15150,Novo Alegre, 1 846
+TO,17,15259,Novo Jardim, 2 230
+TO,17,15507,Oliveira de Fátima, 1 164
+TO,17,15705,Palmeirante, 4 798
+TO,17,15754,Palmeirópolis, 6 975
+TO,17,16109,Paraíso do Tocantins, 52 360
+TO,17,16208,Paranã, 10 542
+TO,17,16307,Pau D'Arco, 4 043
+TO,17,16505,Pedro Afonso, 14 055
+TO,17,16604,Peixe, 9 317
+TO,17,16653,Pequizeiro, 4 921
+TO,17,16703,Colméia, 8 941
+TO,17,17008,Pindorama do Tocantins, 4 478
+TO,17,17206,Piraquê, 2 282
+TO,17,17503,Pium, 7 128
+TO,17,17800,Ponte Alta do Bom Jesus, 4 220
+TO,17,17909,Ponte Alta do Tocantins, 7 586
+TO,17,18006,Porto Alegre do Tocantins, 2 866
+TO,17,18204,Porto Nacional, 64 418
+TO,17,18303,Praia Norte, 9 044
+TO,17,18402,Presidente Kennedy, 3 047
+TO,17,18451,Pugmil, 2 193
+TO,17,18501,Recursolândia, 3 421
+TO,17,18550,Riachinho, 3 960
+TO,17,18659,Rio da Conceição, 1 768
+TO,17,18709,Rio dos Bois, 2 738
+TO,17,18758,Rio Sono, 4 841
+TO,17,18808,Sampaio, 4 215
+TO,17,18840,Sandolândia, 3 723
+TO,17,18865,Santa Fé do Araguaia, 7 216
+TO,17,18881,Santa Maria do Tocantins, 2 680
+TO,17,18899,Santa Rita do Tocantins, 2 219
+TO,17,18907,Santa Rosa do Tocantins, 4 653
+TO,17,19004,Santa Tereza do Tocantins, 2 781
+TO,17,20002,Santa Terezinha do Tocantins, 2 406
+TO,17,20101,São Bento do Tocantins, 5 654
+TO,17,20150,São Félix do Tocantins, 1 783
+TO,17,20200,São Miguel do Tocantins, 13 241
+TO,17,20259,São Salvador do Tocantins, 2 385
+TO,17,20309,São Sebastião do Tocantins, 4 100
+TO,17,20499,São Valério, 4 422
+TO,17,20655,Silvanópolis, 5 108
+TO,17,20804,Sítio Novo do Tocantins, 10 830
+TO,17,20853,Sucupira, 1 577
+TO,17,20903,Taguatinga, 14 011
+TO,17,20937,Taipas do Tocantins, 2 021
+TO,17,20978,Talismã, 2 456
+TO,17,21000,Palmas, 302 692
+TO,17,21109,Tocantínia, 7 459
+TO,17,21208,Tocantinópolis, 22 615
+TO,17,21257,Tupirama, 1 909
+TO,17,21307,Tupiratins, 1 874
+TO,17,22081,Wanderlândia, 10 522
+TO,17,22107,Xambioá, 10 517
+MA,21,00055,Açailândia, 106 550
+MA,21,00105,Afonso Cunha, 6 144
+MA,21,00154,Água Doce do Maranhão, 12 142
+MA,21,00204,Alcântara, 18 467
+MA,21,00303,Aldeias Altas, 23 286
+MA,21,00402,Altamira do Maranhão, 6 447
+MA,21,00436,Alto Alegre do Maranhão, 24 048
+MA,21,00477,Alto Alegre do Pindaré, 25 710
+MA,21,00501,Alto Parnaíba, 11 109
+MA,21,00550,Amapá do Maranhão, 7 170
+MA,21,00600,Amarante do Maranhão, 37 085
+MA,21,00709,Anajatuba, 25 322
+MA,21,00808,Anapurus, 13 793
+MA,21,00832,Apicum-Açu, 17 519
+MA,21,00873,Araguanã, 11 181
+MA,21,00907,Araioses, 39 052
+MA,21,00956,Arame, 25 517
+MA,21,01004,Arari, 29 472
+MA,21,01103,Axixá, 11 790
+MA,21,01202,Bacabal, 103 711
+MA,21,01251,Bacabeira, 16 966
+MA,21,01301,Bacuri, 16 290
+MA,21,01350,Bacurituba, 5 252
+MA,21,01400,Balsas, 101 767
+MA,21,01509,Barão de Grajaú, 18 984
+MA,21,01608,Barra do Corda, 84 532
+MA,21,01707,Barreirinhas, 65 589
+MA,21,01731,Belágua, 8 460
+MA,21,01772,Bela Vista do Maranhão, 11 750
+MA,21,01806,Benedito Leite, 5 469
+MA,21,01905,Bequimão, 19 584
+MA,21,01939,Bernardo do Mearim, 5 840
+MA,21,01970,Boa Vista do Gurupi, 7 574
+MA,21,02002,Bom Jardim, 33 100
+MA,21,02036,Bom Jesus das Selvas, 28 599
+MA,21,02077,Bom Lugar, 12 212
+MA,21,02101,Brejo, 34 120
+MA,21,02150,Brejo de Areia, 9 218
+MA,21,02200,Buriti, 29 685
+MA,21,02309,Buriti Bravo, 22 455
+MA,21,02325,Buriticupu, 55 499
+MA,21,02358,Buritirana, 12 918
+MA,21,02374,Cachoeira Grande, 9 732
+MA,21,02408,Cajapió, 10 121
+MA,21,02507,Cajari, 16 412
+MA,21,02556,Campestre do Maranhão, 12 301
+MA,21,02606,Cândido Mendes, 19 932
+MA,21,02705,Cantanhede, 24 303
+MA,21,02754,Capinzal do Norte, 11 374
+MA,21,02804,Carolina, 24 062
+MA,21,02903,Carutapera, 24 238
+MA,21,03000,Caxias, 156 973
+MA,21,03109,Cedral, 10 208
+MA,21,03125,Central do Maranhão, 7 094
+MA,21,03158,Centro do Guilherme, 12 342
+MA,21,03174,Centro Novo do Maranhão, 16 267
+MA,21,03208,Chapadinha, 81 386
+MA,21,03257,Cidelândia, 12 878
+MA,21,03307,Codó, 114 275
+MA,21,03406,Coelho Neto, 41 658
+MA,21,03505,Colinas, 40 316
+MA,21,03554,Conceição do Lago-Açu, 14 915
+MA,21,03604,Coroatá, 59 566
+MA,21,03703,Cururupu, 31 558
+MA,21,03752,Davinópolis, 14 404
+MA,21,03802,Dom Pedro, 23 053
+MA,21,03901,Duque Bacelar, 10 223
+MA,21,04008,Esperantinópolis, 18 311
+MA,21,04057,Estreito, 33 294
+MA,21,04073,Feira Nova do Maranhão, 8 048
+MA,21,04081,Fernando Falcão, 10 873
+MA,21,04099,Formosa da Serra Negra, 17 719
+MA,21,04107,Fortaleza dos Nogueiras, 12 640
+MA,21,04206,Fortuna, 16 976
+MA,21,04305,Godofredo Viana, 10 186
+MA,21,04404,Gonçalves Dias, 17 206
+MA,21,04503,Governador Archer, 10 231
+MA,21,04552,Governador Edison Lobão, 18 411
+MA,21,04602,Governador Eugênio Barros, 13 930
+MA,21,04628,Governador Luiz Rocha, 7 063
+MA,21,04651,Governador Newton Bello, 10 713
+MA,21,04677,Governador Nunes Freire, 23 128
+MA,21,04701,Graça Aranha, 6 023
+MA,21,04800,Grajaú, 73 872
+MA,21,04909,Guimarães, 10 290
+MA,21,05005,Humberto de Campos, 25 680
+MA,21,05104,Icatu, 24 794
+MA,21,05153,Igarapé do Meio, 13 974
+MA,21,05203,Igarapé Grande, 10 231
+MA,21,05302,Imperatriz, 273 110
+MA,21,05351,Itaipava do Grajaú, 13 828
+MA,21,05401,Itapecuru Mirim, 60 440
+MA,21,05427,Itinga do Maranhão, 22 513
+MA,21,05450,Jatobá, 7 471
+MA,21,05476,Jenipapo dos Vieiras, 17 076
+MA,21,05500,João Lisboa, 24 709
+MA,21,05609,Joselândia, 14 924
+MA,21,05658,Junco do Maranhão, 5 146
+MA,21,05708,Lago da Pedra, 44 403
+MA,21,05807,Lago do Junco, 9 506
+MA,21,05906,Lago Verde, 14 769
+MA,21,05922,Lagoa do Mato, 10 572
+MA,21,05948,Lago dos Rodrigues, 8 758
+MA,21,05963,Lagoa Grande do Maranhão, 11 411
+MA,21,05989,Lajeado Novo, 7 057
+MA,21,06003,Lima Campos, 11 297
+MA,21,06102,Loreto, 11 597
+MA,21,06201,Luís Domingues, 7 161
+MA,21,06300,Magalhães de Almeida, 13 807
+MA,21,06326,Maracaçumé, 21 149
+MA,21,06359,Marajá do Sena, 7 027
+MA,21,06375,Maranhãozinho, 13 761
+MA,21,06409,Mata Roma, 17 090
+MA,21,06508,Matinha, 22 034
+MA,21,06607,Matões, 32 174
+MA,21,06631,Matões do Norte, 17 432
+MA,21,06672,Milagres do Maranhão, 8 818
+MA,21,06706,Mirador, 21 030
+MA,21,06755,Miranda do Norte, 23 864
+MA,21,06805,Mirinzal, 13 978
+MA,21,06904,Monção, 27 751
+MA,21,07001,Montes Altos, 9 106
+MA,21,07100,Morros, 18 554
+MA,21,07209,Nina Rodrigues, 14 176
+MA,21,07258,Nova Colinas, 5 021
+MA,21,07308,Nova Iorque, 4 320
+MA,21,07357,Nova Olinda do Maranhão, 14 314
+MA,21,07407,Olho d'Água das Cunhãs, 17 919
+MA,21,07456,Olinda Nova do Maranhão, 13 577
+MA,21,07506,Paço do Lumiar, 145 643
+MA,21,07605,Palmeirândia, 21 059
+MA,21,07704,Paraibano, 18 274
+MA,21,07803,Parnarama, 31 250
+MA,21,07902,Passagem Franca, 17 220
+MA,21,08009,Pastos Bons, 18 802
+MA,21,08058,Paulino Neves, 17 056
+MA,21,08108,Paulo Ramos, 20 341
+MA,21,08207,Pedreiras, 37 050
+MA,21,08256,Pedro do Rosário, 24 320
+MA,21,08306,Penalva, 32 511
+MA,21,08405,Peri Mirim, 11 108
+MA,21,08454,Peritoró, 20 479
+MA,21,08504,Pindaré-Mirim, 31 429
+MA,21,08603,Pinheiro, 84 621
+MA,21,08702,Pio XII, 21 886
+MA,21,08801,Pirapemas, 17 714
+MA,21,08900,Poção de Pedras, 17 161
+MA,21,09007,Porto Franco, 23 903
+MA,21,09056,Porto Rico do Maranhão, 5 954
+MA,21,09106,Presidente Dutra, 45 155
+MA,21,09205,Presidente Juscelino, 11 356
+MA,21,09239,Presidente Médici, 4 696
+MA,21,09270,Presidente Sarney, 17 511
+MA,21,09304,Presidente Vargas, 10 549
+MA,21,09403,Primeira Cruz, 13 614
+MA,21,09452,Raposa, 30 839
+MA,21,09502,Riachão, 22 145
+MA,21,09551,Ribamar Fiquene, 7 420
+MA,21,09601,Rosário, 38 475
+MA,21,09700,Sambaíba, 5 568
+MA,21,09759,Santa Filomena do Maranhão, 6 697
+MA,21,09809,Santa Helena, 41 561
+MA,21,09908,Santa Inês, 85 014
+MA,21,10005,Santa Luzia, 57 635
+MA,21,10039,Santa Luzia do Paruá, 24 307
+MA,21,10104,Santa Quitéria do Maranhão, 23 957
+MA,21,10203,Santa Rita, 37 035
+MA,21,10237,Santana do Maranhão, 10 567
+MA,21,10278,Santo Amaro do Maranhão, 13 949
+MA,21,10302,Santo Antônio dos Lopes, 14 304
+MA,21,10401,São Benedito do Rio Preto, 18 364
+MA,21,10500,São Bento, 46 395
+MA,21,10609,São Bernardo, 26 943
+MA,21,10658,São Domingos do Azeitão, 7 992
+MA,21,10708,São Domingos do Maranhão, 34 034
+MA,21,10807,São Félix de Balsas, 4 402
+MA,21,10856,São Francisco do Brejão, 9 051
+MA,21,10906,São Francisco do Maranhão, 12 064
+MA,21,11003,São João Batista, 18 544
+MA,21,11029,São João do Carú, 12 251
+MA,21,11052,São João do Paraíso, 9 904
+MA,21,11078,São João do Soter, 16 889
+MA,21,11102,São João dos Patos, 25 020
+MA,21,11201,São José de Ribamar, 244 579
+MA,21,11250,São José dos Basílios, 6 957
+MA,21,11300,São Luís,1 037 775
+MA,21,11409,São Luís Gonzaga do Maranhão, 17 818
+MA,21,11508,São Mateus do Maranhão, 38 829
+MA,21,11532,São Pedro da Água Branca, 14 338
+MA,21,11573,São Pedro dos Crentes, 5 783
+MA,21,11607,São Raimundo das Mangabeiras, 18 672
+MA,21,11631,São Raimundo do Doca Bezerra, 5 650
+MA,21,11672,São Roberto, 4 544
+MA,21,11706,São Vicente Ferrer, 19 498
+MA,21,11722,Satubinha, 8 784
+MA,21,11748,Senador Alexandre Costa, 10 207
+MA,21,11763,Senador La Rocque, 14 700
+MA,21,11789,Serrano do Maranhão, 10 202
+MA,21,11805,Sítio Novo, 17 074
+MA,21,11904,Sucupira do Norte, 10 238
+MA,21,11953,Sucupira do Riachão, 4 985
+MA,21,12001,Tasso Fragoso, 8 862
+MA,21,12100,Timbiras, 26 484
+MA,21,12209,Timon, 174 465
+MA,21,12233,Trizidela do Vale, 22 484
+MA,21,12274,Tufilândia, 5 507
+MA,21,12308,Tuntum, 36 251
+MA,21,12407,Turiaçu, 37 491
+MA,21,12456,Turilândia, 31 638
+MA,21,12506,Tutóia, 53 356
+MA,21,12605,Urbano Santos, 32 812
+MA,21,12704,Vargem Grande, 43 261
+MA,21,12803,Viana, 51 442
+MA,21,12852,Vila Nova dos Martírios, 10 362
+MA,21,12902,Vitória do Mearim, 30 805
+MA,21,13009,Vitorino Freire, 30 845
+MA,21,14007,Zé Doca, 40 801
+PI,22,00053,Acauã, 6 420
+PI,22,00103,Agricolândia, 4 940
+PI,22,00202,Água Branca, 17 573
+PI,22,00251,Alagoinha do Piauí, 6 819
+PI,22,00277,Alegrete do Piauí, 4 634
+PI,22,00301,Alto Longá, 13 479
+PI,22,00400,Altos, 47 453
+PI,22,00459,Alvorada do Gurguéia, 5 322
+PI,22,00509,Amarante, 17 234
+PI,22,00608,Angical do Piauí, 6 827
+PI,22,00707,Anísio de Abreu, 9 407
+PI,22,00806,Antônio Almeida, 3 152
+PI,22,00905,Aroazes, 5 369
+PI,22,00954,Aroeiras do Itaim, 2 690
+PI,22,01002,Arraial, 4 520
+PI,22,01051,Assunção do Piauí, 7 452
+PI,22,01101,Avelino Lopes, 10 866
+PI,22,01150,Baixa Grande do Ribeiro, 13 272
+PI,22,01176,Barra D'Alcântara, 3 995
+PI,22,01200,Barras, 47 938
+PI,22,01309,Barreiras do Piauí, 3 264
+PI,22,01408,Barro Duro, 6 640
+PI,22,01507,Batalha, 26 300
+PI,22,01556,Bela Vista do Piauí, 4 091
+PI,22,01572,Belém do Piauí, 3 423
+PI,22,01606,Beneditinos, 9 929
+PI,22,01705,Bertolínia, 5 562
+PI,22,01739,Betânia do Piauí, 6 220
+PI,22,01770,Boa Hora, 6 902
+PI,22,01804,Bocaina, 4 078
+PI,22,01903,Bom Jesus, 28 796
+PI,22,01919,Bom Princípio do Piauí, 5 636
+PI,22,01929,Bonfim do Piauí, 5 913
+PI,22,01945,Boqueirão do Piauí, 6 545
+PI,22,01960,Brasileira, 8 436
+PI,22,01988,Brejo do Piauí, 3 904
+PI,22,02000,Buriti dos Lopes, 19 654
+PI,22,02026,Buriti dos Montes, 7 434
+PI,22,02059,Cabeceiras do Piauí, 10 212
+PI,22,02075,Cajazeiras do Piauí, 3 108
+PI,22,02083,Cajueiro da Praia, 7 957
+PI,22,02091,Caldeirão Grande do Piauí, 5 503
+PI,22,02109,Campinas do Piauí, 4 938
+PI,22,02117,Campo Alegre do Fidalgo, 4 616
+PI,22,02133,Campo Grande do Piauí, 6 020
+PI,22,02174,Campo Largo do Piauí, 7 419
+PI,22,02208,Campo Maior, 45 793
+PI,22,02251,Canavieira, 3 414
+PI,22,02307,Canto do Buriti, 19 365
+PI,22,02406,Capitão de Campos, 11 100
+PI,22,02455,Capitão Gervásio Oliveira, 3 974
+PI,22,02505,Caracol, 10 318
+PI,22,02539,Caraúbas do Piauí, 5 630
+PI,22,02554,Caridade do Piauí, 5 033
+PI,22,02604,Castelo do Piauí, 19 288
+PI,22,02653,Caxingó, 5 496
+PI,22,02703,Cocal, 28 212
+PI,22,02711,Cocal de Telha, 4 911
+PI,22,02729,Cocal dos Alves, 6 386
+PI,22,02737,Coivaras, 4 117
+PI,22,02752,Colônia do Gurguéia, 6 150
+PI,22,02778,Colônia do Piauí, 6 994
+PI,22,02802,Conceição do Canindé, 4 932
+PI,22,02851,Coronel José Dias, 4 250
+PI,22,02901,Corrente, 27 278
+PI,22,03008,Cristalândia do Piauí, 7 356
+PI,22,03107,Cristino Castro, 10 503
+PI,22,03206,Curimatá, 11 270
+PI,22,03230,Currais, 4 854
+PI,22,03255,Curralinhos, 4 413
+PI,22,03271,Curral Novo do Piauí, 5 073
+PI,22,03305,Demerval Lobão, 16 352
+PI,22,03354,Dirceu Arcoverde, 7 054
+PI,22,03404,Dom Expedito Lopes, 6 320
+PI,22,03420,Domingos Mourão, 4 075
+PI,22,03453,Dom Inocêncio, 9 159
+PI,22,03503,Elesbão Veloso, 13 607
+PI,22,03602,Eliseu Martins, 4 377
+PI,22,03701,Esperantina, 40 970
+PI,22,03750,Fartura do Piauí, 5 284
+PI,22,03800,Flores do Piauí, 4 414
+PI,22,03859,Floresta do Piauí, 2 333
+PI,22,03909,Floriano, 62 036
+PI,22,04006,Francinópolis, 4 505
+PI,22,04105,Francisco Ayres, 4 412
+PI,22,04154,Francisco Macedo, 2 929
+PI,22,04204,Francisco Santos, 8 237
+PI,22,04303,Fronteiras, 10 259
+PI,22,04352,Geminiano, 5 445
+PI,22,04402,Gilbués, 10 892
+PI,22,04501,Guadalupe, 10 270
+PI,22,04550,Guaribas, 4 276
+PI,22,04600,Hugo Napoleão, 3 518
+PI,22,04659,Ilha Grande, 9 274
+PI,22,04709,Inhuma, 14 958
+PI,22,04808,Ipiranga do Piauí, 9 420
+PI,22,04907,Isaías Coelho, 7 774
+PI,22,05003,Itainópolis, 10 790
+PI,22,05102,Itaueira, 10 323
+PI,22,05151,Jacobina do Piauí, 5 613
+PI,22,05201,Jaicós, 17 527
+PI,22,05250,Jardim do Mulato, 4 180
+PI,22,05276,Jatobá do Piauí, 4 494
+PI,22,05300,Jerumenha, 4 497
+PI,22,05359,João Costa, 2 970
+PI,22,05409,Joaquim Pires, 13 886
+PI,22,05458,Joca Marques, 5 394
+PI,22,05508,José de Freitas, 42 559
+PI,22,05516,Juazeiro do Piauí, 5 214
+PI,22,05524,Júlio Borges, 5 388
+PI,22,05532,Jurema, 4 425
+PI,22,05540,Lagoinha do Piauí, 2 939
+PI,22,05557,Lagoa Alegre, 8 256
+PI,22,05565,Lagoa do Barro do Piauí, 4 995
+PI,22,05573,Lagoa de São Francisco, 6 331
+PI,22,05581,Lagoa do Piauí, 4 810
+PI,22,05599,Lagoa do Sítio, 4 520
+PI,22,05607,Landri Sales, 5 213
+PI,22,05706,Luís Correia, 30 641
+PI,22,05805,Luzilândia, 25 375
+PI,22,05854,Madeiro, 8 032
+PI,22,05904,Manoel Emídio, 5 209
+PI,22,05953,Marcolândia, 8 533
+PI,22,06001,Marcos Parente, 4 724
+PI,22,06050,Massapê do Piauí, 5 218
+PI,22,06100,Matias Olímpio, 10 641
+PI,22,06209,Miguel Alves, 32 150
+PI,22,06308,Miguel Leão, 1 318
+PI,22,06357,Milton Brandão, 6 542
+PI,22,06407,Monsenhor Gil, 10 255
+PI,22,06506,Monsenhor Hipólito, 7 577
+PI,22,06605,Monte Alegre do Piauí, 10 660
+PI,22,06654,Morro Cabeça no Tempo, 4 377
+PI,22,06670,Morro do Chapéu do Piauí, 6 425
+PI,22,06696,Murici dos Portelas, 9 797
+PI,22,06704,Nazaré do Piauí, 6 665
+PI,22,06720,Nazária, 10 262
+PI,22,06753,Nossa Senhora de Nazaré, 5 228
+PI,22,06803,Nossa Senhora dos Remédios, 8 525
+PI,22,06902,Novo Oriente do Piauí, 6 097
+PI,22,06951,Novo Santo Antônio, 2 827
+PI,22,07009,Oeiras, 38 161
+PI,22,07108,Olho D'Água do Piauí, 2 637
+PI,22,07207,Padre Marcos, 6 382
+PI,22,07306,Paes Landim, 4 088
+PI,22,07355,Pajeú do Piauí, 3 000
+PI,22,07405,Palmeira do Piauí, 4 952
+PI,22,07504,Palmeirais, 13 264
+PI,22,07553,Paquetá, 3 813
+PI,22,07603,Parnaguá, 10 103
+PI,22,07702,Parnaíba, 162 159
+PI,22,07751,Passagem Franca do Piauí, 4 135
+PI,22,07777,Patos do Piauí, 5 425
+PI,22,07793,Pau D'Arco do Piauí, 3 880
+PI,22,07801,Paulistana, 21 055
+PI,22,07850,Pavussu, 3 628
+PI,22,07900,Pedro II, 37 894
+PI,22,07934,Pedro Laurentino, 2 458
+PI,22,07959,Nova Santa Rita, 4 076
+PI,22,08007,Picos, 83 090
+PI,22,08106,Pimenteiras, 11 341
+PI,22,08205,Pio IX, 17 613
+PI,22,08304,Piracuruca, 28 846
+PI,22,08403,Piripiri, 65 538
+PI,22,08502,Porto, 12 052
+PI,22,08551,Porto Alegre do Piauí, 2 364
+PI,22,08601,Prata do Piauí, 3 042
+PI,22,08650,Queimada Nova, 8 738
+PI,22,08700,Redenção do Gurguéia, 8 394
+PI,22,08809,Regeneração, 17 133
+PI,22,08858,Riacho Frio, 4 165
+PI,22,08874,Ribeira do Piauí, 4 055
+PI,22,08908,Ribeiro Gonçalves, 6 164
+PI,22,09005,Rio Grande do Piauí, 5 801
+PI,22,09104,Santa Cruz do Piauí, 5 831
+PI,22,09153,Santa Cruz dos Milagres, 3 435
+PI,22,09203,Santa Filomena, 6 087
+PI,22,09302,Santa Luz, 5 336
+PI,22,09351,Santana do Piauí, 4 125
+PI,22,09377,Santa Rosa do Piauí, 4 650
+PI,22,09401,Santo Antônio de Lisboa, 5 839
+PI,22,09450,Santo Antônio dos Milagres, 2 138
+PI,22,09500,Santo Inácio do Piauí, 3 646
+PI,22,09559,São Braz do Piauí, 4 358
+PI,22,09609,São Félix do Piauí, 2 842
+PI,22,09658,São Francisco de Assis do Piauí, 5 572
+PI,22,09708,São Francisco do Piauí, 5 392
+PI,22,09757,São Gonçalo do Gurguéia, 2 947
+PI,22,09807,São Gonçalo do Piauí, 4 837
+PI,22,09856,São João da Canabrava, 4 242
+PI,22,09872,São João da Fronteira, 5 522
+PI,22,09906,São João da Serra, 6 114
+PI,22,09955,São João da Varjota, 4 383
+PI,22,09971,São João do Arraial, 8 186
+PI,22,10003,São João do Piauí, 21 421
+PI,22,10052,São José do Divino, 4 841
+PI,22,10102,São José do Peixe, 3 297
+PI,22,10201,São José do Piauí, 6 597
+PI,22,10300,São Julião, 6 025
+PI,22,10359,São Lourenço do Piauí, 4 410
+PI,22,10375,São Luis do Piauí, 2 309
+PI,22,10383,São Miguel da Baixa Grande, 2 269
+PI,22,10391,São Miguel do Fidalgo, 2 829
+PI,22,10409,São Miguel do Tapuio, 17 554
+PI,22,10508,São Pedro do Piauí, 13 755
+PI,22,10607,São Raimundo Nonato, 38 934
+PI,22,10623,Sebastião Barros, 3 202
+PI,22,10631,Sebastião Leal, 4 446
+PI,22,10656,Sigefredo Pacheco, 9 460
+PI,22,10706,Simões, 14 350
+PI,22,10805,Simplício Mendes, 13 870
+PI,22,10904,Socorro do Piauí, 4 141
+PI,22,10938,Sussuapara, 6 220
+PI,22,10953,Tamboril do Piauí, 2 949
+PI,22,10979,Tanque do Piauí, 2 316
+PI,22,11001,Teresina, 866 300
+PI,22,11100,União, 46 119
+PI,22,11209,Uruçuí, 25 203
+PI,22,11308,Valença do Piauí, 22 279
+PI,22,11357,Várzea Branca, 5 055
+PI,22,11407,Várzea Grande, 4 417
+PI,22,11506,Vera Mendes, 3 185
+PI,22,11605,Vila Nova do Piauí, 2 935
+PI,22,11704,Wall Ferraz, 4 059
+CE,23,00101,Abaiara, 10 038
+CE,23,00150,Acarape, 14 027
+CE,23,00200,Acaraú, 65 264
+CE,23,00309,Acopiara, 44 962
+CE,23,00408,Aiuaba, 14 076
+CE,23,00507,Alcântaras, 11 369
+CE,23,00606,Altaneira, 6 782
+CE,23,00705,Alto Santo, 14 155
+CE,23,00754,Amontada, 42 156
+CE,23,00804,Antonina do Norte, 7 245
+CE,23,00903,Apuiarés, 12 928
+CE,23,01000,Aquiraz, 80 645
+CE,23,01109,Aracati, 75 113
+CE,23,01208,Aracoiaba, 25 553
+CE,23,01257,Ararendá, 11 096
+CE,23,01307,Araripe, 19 783
+CE,23,01406,Aratuba, 11 224
+CE,23,01505,Arneiroz, 7 429
+CE,23,01604,Assaré, 21 697
+CE,23,01703,Aurora, 23 714
+CE,23,01802,Baixio, 5 704
+CE,23,01851,Banabuiú, 17 195
+CE,23,01901,Barbalha, 75 033
+CE,23,01950,Barreira, 22 392
+CE,23,02008,Barro, 19 381
+CE,23,02057,Barroquinha, 14 567
+CE,23,02107,Baturité, 35 218
+CE,23,02206,Beberibe, 53 114
+CE,23,02305,Bela Cruz, 32 775
+CE,23,02404,Boa Viagem, 50 411
+CE,23,02503,Brejo Santo, 51 090
+CE,23,02602,Camocim, 62 326
+CE,23,02701,Campos Sales, 25 135
+CE,23,02800,Canindé, 74 174
+CE,23,02909,Capistrano, 17 254
+CE,23,03006,Caridade, 16 377
+CE,23,03105,Cariré, 17 632
+CE,23,03204,Caririaçu, 26 320
+CE,23,03303,Cariús, 17 015
+CE,23,03402,Carnaubal, 17 210
+CE,23,03501,Cascavel, 72 720
+CE,23,03600,Catarina, 10 243
+CE,23,03659,Catunda, 10 444
+CE,23,03709,Caucaia, 355 679
+CE,23,03808,Cedro, 22 344
+CE,23,03907,Chaval, 12 462
+CE,23,03931,Choró, 12 113
+CE,23,03956,Chorozinho, 20 163
+CE,23,04004,Coreaú, 20 953
+CE,23,04103,Crateús, 76 390
+CE,23,04202,Crato, 131 050
+CE,23,04236,Croatá, 17 481
+CE,23,04251,Cruz, 29 761
+CE,23,04269,Deputado Irapuan Pinheiro, 8 932
+CE,23,04277,Ereré, 6 474
+CE,23,04285,Eusébio, 74 170
+CE,23,04301,Farias Brito, 18 217
+CE,23,04350,Forquilha, 24 173
+CE,23,04400,Fortaleza,2 428 708
+CE,23,04459,Fortim, 17 294
+CE,23,04509,Frecheirinha, 15 657
+CE,23,04608,General Sampaio, 6 734
+CE,23,04657,Graça, 13 801
+CE,23,04707,Granja, 53 344
+CE,23,04806,Granjeiro, 4 841
+CE,23,04905,Groaíras, 10 910
+CE,23,04954,Guaiúba, 24 325
+CE,23,05001,Guaraciaba do Norte, 42 053
+CE,23,05100,Guaramiranga, 5 654
+CE,23,05209,Hidrolândia, 17 855
+CE,23,05233,Horizonte, 74 755
+CE,23,05266,Ibaretama, 11 956
+CE,23,05308,Ibiapina, 23 965
+CE,23,05332,Ibicuitinga, 11 611
+CE,23,05357,Icapuí, 21 433
+CE,23,05407,Icó, 62 642
+CE,23,05506,Iguatu, 98 064
+CE,23,05605,Independência, 24 024
+CE,23,05654,Ipaporanga, 11 575
+CE,23,05704,Ipaumirim, 12 083
+CE,23,05803,Ipu, 41 081
+CE,23,05902,Ipueiras, 36 798
+CE,23,06009,Iracema, 14 001
+CE,23,06108,Irauçuba, 23 915
+CE,23,06207,Itaiçaba, 7 536
+CE,23,06256,Itaitinga, 64 650
+CE,23,06306,Itapajé, 46 426
+CE,23,06405,Itapipoca, 131 123
+CE,23,06504,Itapiúna, 17 841
+CE,23,06553,Itarema, 42 957
+CE,23,06603,Itatira, 20 424
+CE,23,06702,Jaguaretama, 17 232
+CE,23,06801,Jaguaribara, 10 356
+CE,23,06900,Jaguaribe, 33 726
+CE,23,07007,Jaguaruana, 31 701
+CE,23,07106,Jardim, 27 411
+CE,23,07205,Jati, 7 861
+CE,23,07254,Jijoca de Jericoacoara, 25 555
+CE,23,07304,Juazeiro do Norte, 286 120
+CE,23,07403,Jucás, 23 922
+CE,23,07502,Lavras da Mangabeira, 30 802
+CE,23,07601,Limoeiro do Norte, 59 560
+CE,23,07635,Madalena, 16 896
+CE,23,07650,Maracanaú, 234 509
+CE,23,07700,Maranguape, 105 093
+CE,23,07809,Marco, 25 799
+CE,23,07908,Martinópole, 10 846
+CE,23,08005,Massapê, 37 697
+CE,23,08104,Mauriti, 45 561
+CE,23,08203,Meruoca, 15 157
+CE,23,08302,Milagres, 25 900
+CE,23,08351,Milhã, 14 123
+CE,23,08377,Miraíma, 14 196
+CE,23,08401,Missão Velha, 36 822
+CE,23,08500,Mombaça, 37 735
+CE,23,08609,Monsenhor Tabosa, 17 149
+CE,23,08708,Morada Nova, 61 443
+CE,23,08807,Moraújo, 8 254
+CE,23,08906,Morrinhos, 22 753
+CE,23,09003,Mucambo, 13 666
+CE,23,09102,Mulungu, 10 569
+CE,23,09201,Nova Olinda, 15 399
+CE,23,09300,Nova Russas, 30 699
+CE,23,09409,Novo Oriente, 27 545
+CE,23,09458,Ocara, 24 493
+CE,23,09508,Orós, 19 675
+CE,23,09607,Pacajus, 70 983
+CE,23,09706,Pacatuba, 81 524
+CE,23,09805,Pacoti, 11 186
+CE,23,09904,Pacujá, 6 175
+CE,23,10001,Palhano, 9 346
+CE,23,10100,Palmácia, 10 242
+CE,23,10209,Paracuru, 38 980
+CE,23,10258,Paraipaba, 32 216
+CE,23,10308,Parambu, 31 445
+CE,23,10407,Paramoti, 10 384
+CE,23,10506,Pedra Branca, 40 187
+CE,23,10605,Penaforte, 8 972
+CE,23,10704,Pentecoste, 37 813
+CE,23,10803,Pereiro, 15 274
+CE,23,10852,Pindoretama, 23 391
+CE,23,10902,Piquet Carneiro, 16 616
+CE,23,10951,Pires Ferreira, 10 606
+CE,23,11009,Poranga, 12 065
+CE,23,11108,Porteiras, 17 050
+CE,23,11207,Potengi, 8 833
+CE,23,11231,Potiretama, 5 974
+CE,23,11264,Quiterianópolis, 20 213
+CE,23,11306,Quixadá, 84 168
+CE,23,11355,Quixelô, 15 910
+CE,23,11405,Quixeramobim, 82 177
+CE,23,11504,Quixeré, 20 874
+CE,23,11603,Redenção, 27 214
+CE,23,11702,Reriutaba, 18 606
+CE,23,11801,Russas, 72 928
+CE,23,11900,Saboeiro, 13 854
+CE,23,11959,Salitre, 16 633
+CE,23,12007,Santana do Acaraú, 30 628
+CE,23,12106,Santana do Cariri, 16 954
+CE,23,12205,Santa Quitéria, 40 183
+CE,23,12304,São Benedito, 47 640
+CE,23,12403,São Gonçalo do Amarante, 54 143
+CE,23,12502,São João do Jaguaribe, 5 855
+CE,23,12601,São Luís do Curu, 10 822
+CE,23,12700,Senador Pompeu, 24 266
+CE,23,12809,Senador Sá, 7 262
+CE,23,12908,Sobral, 203 023
+CE,23,13005,Solonópole, 18 179
+CE,23,13104,Tabuleiro do Norte, 30 652
+CE,23,13203,Tamboril, 24 815
+CE,23,13252,Tarrafas, 7 529
+CE,23,13302,Tauá, 61 227
+CE,23,13351,Tejuçuoca, 17 154
+CE,23,13401,Tianguá, 81 506
+CE,23,13500,Trairi, 58 415
+CE,23,13559,Tururu, 15 412
+CE,23,13609,Ubajara, 32 767
+CE,23,13708,Umari, 6 871
+CE,23,13757,Umirim, 17 470
+CE,23,13807,Uruburetama, 20 189
+CE,23,13906,Uruoca, 13 746
+CE,23,13955,Varjota, 18 105
+CE,23,14003,Várzea Alegre, 38 984
+CE,23,14102,Viçosa do Ceará, 59 712
+RN,24,00109,Acari, 10 597
+RN,24,00208,Açu, 56 496
+RN,24,00307,Afonso Bezerra, 10 839
+RN,24,00406,Água Nova, 2 946
+RN,24,00505,Alexandria, 13 640
+RN,24,00604,Almino Afonso, 4 687
+RN,24,00703,Alto do Rodrigues, 12 484
+RN,24,00802,Angicos, 11 632
+RN,24,00901,Antônio Martins, 6 577
+RN,24,01008,Apodi, 36 093
+RN,24,01107,Areia Branca, 24 093
+RN,24,01206,Arês, 13 251
+RN,24,01305,Campo Grande, 9 730
+RN,24,01404,Baía Formosa, 8 825
+RN,24,01453,Baraúna, 26 913
+RN,24,01503,Barcelona, 3 986
+RN,24,01602,Bento Fernandes, 4 807
+RN,24,01651,Bodó, 2 306
+RN,24,01701,Bom Jesus, 9 952
+RN,24,01800,Brejinho, 12 202
+RN,24,01859,Caiçara do Norte, 6 293
+RN,24,01909,Caiçara do Rio do Vento, 3 268
+RN,24,02006,Caicó, 61 146
+RN,24,02105,Campo Redondo, 10 215
+RN,24,02204,Canguaretama, 29 668
+RN,24,02303,Caraúbas, 19 727
+RN,24,02402,Carnaúba dos Dantas, 7 992
+RN,24,02501,Carnaubais, 9 714
+RN,24,02600,Ceará-Mirim, 79 115
+RN,24,02709,Cerro Corá, 11 000
+RN,24,02808,Coronel Ezequiel, 5 117
+RN,24,02907,Coronel João Pessoa, 4 237
+RN,24,03004,Cruzeta, 8 005
+RN,24,03103,Currais Novos, 41 313
+RN,24,03202,Doutor Severiano, 7 044
+RN,24,03251,Parnamirim, 252 716
+RN,24,03301,Encanto, 6 016
+RN,24,03400,Equador, 5 360
+RN,24,03509,Espírito Santo, 10 620
+RN,24,03608,Extremoz, 61 635
+RN,24,03707,Felipe Guerra, 5 944
+RN,24,03756,Fernando Pedroza, 2 938
+RN,24,03806,Florânia, 10 196
+RN,24,03905,Francisco Dantas, 2 700
+RN,24,04002,Frutuoso Gomes, 4 122
+RN,24,04101,Galinhos, 2 104
+RN,24,04200,Goianinha, 26 741
+RN,24,04309,Governador Dix-Sept Rosado, 11 938
+RN,24,04408,Grossos, 9 924
+RN,24,04507,Guamaré, 15 295
+RN,24,04606,Ielmo Marinho, 11 615
+RN,24,04705,Ipanguaçu, 14 131
+RN,24,04804,Ipueira, 2 035
+RN,24,04853,Itajá, 7 292
+RN,24,04903,Itaú, 5 320
+RN,24,05009,Jaçanã, 7 834
+RN,24,05108,Jandaíra, 6 562
+RN,24,05207,Janduís, 4 746
+RN,24,05306,Januário Cicco, 9 051
+RN,24,05405,Japi, 5 117
+RN,24,05504,Jardim de Angicos, 2 437
+RN,24,05603,Jardim de Piranhas, 13 977
+RN,24,05702,Jardim do Seridó, 11 655
+RN,24,05801,João Câmara, 33 290
+RN,24,05900,João Dias, 2 076
+RN,24,06007,José da Penha, 5 803
+RN,24,06106,Jucurutu, 17 793
+RN,24,06155,Jundiá, 3 739
+RN,24,06205,Lagoa d'Anta, 6 654
+RN,24,06304,Lagoa de Pedras, 7 338
+RN,24,06403,Lagoa de Velhos, 2 567
+RN,24,06502,Lagoa Nova, 15 573
+RN,24,06601,Lagoa Salgada, 8 319
+RN,24,06700,Lajes, 9 866
+RN,24,06809,Lajes Pintadas, 4 787
+RN,24,06908,Lucrécia, 3 490
+RN,24,07005,Luís Gomes, 9 070
+RN,24,07104,Macaíba, 82 249
+RN,24,07203,Macau, 27 369
+RN,24,07252,Major Sales, 3 924
+RN,24,07302,Marcelino Vieira, 7 896
+RN,24,07401,Martins, 8 179
+RN,24,07500,Maxaranguape, 10 255
+RN,24,07609,Messias Targino, 4 274
+RN,24,07708,Montanhas, 11 444
+RN,24,07807,Monte Alegre, 23 031
+RN,24,07906,Monte das Gameleiras, 2 276
+RN,24,08003,Mossoró, 264 577
+RN,24,08102,Natal, 751 300
+RN,24,08201,Nísia Floresta, 31 942
+RN,24,08300,Nova Cruz, 34 269
+RN,24,08409,Olho d'Água do Borges, 3 905
+RN,24,08508,Ouro Branco, 4 913
+RN,24,08607,Paraná, 3 934
+RN,24,08706,Paraú, 3 579
+RN,24,08805,Parazinho, 4 801
+RN,24,08904,Parelhas, 21 499
+RN,24,08953,Rio do Fogo, 10 351
+RN,24,09100,Passa e Fica, 10 896
+RN,24,09209,Passagem, 3 115
+RN,24,09308,Patu, 11 007
+RN,24,09332,Santa Maria, 4 847
+RN,24,09407,Pau dos Ferros, 30 479
+RN,24,09506,Pedra Grande, 3 618
+RN,24,09605,Pedra Preta, 2 441
+RN,24,09704,Pedro Avelino, 6 242
+RN,24,09803,Pedro Velho, 13 824
+RN,24,09902,Pendências, 12 278
+RN,24,10009,Pilões, 2 965
+RN,24,10108,Poço Branco, 12 390
+RN,24,10207,Portalegre, 7 601
+RN,24,10256,Porto do Mangue, 5 228
+RN,24,10306,Serra Caiada, 10 125
+RN,24,10405,Pureza, 9 362
+RN,24,10504,Rafael Fernandes, 5 432
+RN,24,10603,Rafael Godeiro, 2 934
+RN,24,10702,Riacho da Cruz, 2 701
+RN,24,10801,Riacho de Santana, 4 127
+RN,24,10900,Riachuelo, 7 389
+RN,24,11007,Rodolfo Fernandes, 4 242
+RN,24,11056,Tibau, 5 382
+RN,24,11106,Ruy Barbosa, 3 206
+RN,24,11205,Santa Cruz, 37 313
+RN,24,11403,Santana do Matos, 12 456
+RN,24,11429,Santana do Seridó, 2 696
+RN,24,11502,Santo Antônio, 22 177
+RN,24,11601,São Bento do Norte, 3 304
+RN,24,11700,São Bento do Trairí, 3 792
+RN,24,11809,São Fernando, 3 492
+RN,24,11908,São Francisco do Oeste, 4 161
+RN,24,12005,São Gonçalo do Amarante, 115 838
+RN,24,12104,São João do Sabugi, 5 956
+RN,24,12203,São José de Mipibu, 47 286
+RN,24,12302,São José do Campestre, 11 121
+RN,24,12401,São José do Seridó, 4 558
+RN,24,12500,São Miguel, 23 537
+RN,24,12559,São Miguel do Gostoso, 10 221
+RN,24,12609,São Paulo do Potengi, 16 786
+RN,24,12708,São Pedro, 5 776
+RN,24,12807,São Rafael, 7 711
+RN,24,12906,São Tomé, 9 972
+RN,24,13003,São Vicente, 6 310
+RN,24,13102,Senador Elói de Souza, 5 965
+RN,24,13201,Senador Georgino Avelino, 4 065
+RN,24,13300,Serra de São Bento, 5 703
+RN,24,13359,Serra do Mel, 13 091
+RN,24,13409,Serra Negra do Norte, 7 597
+RN,24,13508,Serrinha, 6 436
+RN,24,13557,Serrinha dos Pintos, 4 659
+RN,24,13607,Severiano Melo, 5 487
+RN,24,13706,Sítio Novo, 4 654
+RN,24,13805,Taboleiro Grande, 2 338
+RN,24,13904,Taipu, 11 422
+RN,24,14001,Tangará, 13 281
+RN,24,14100,Tenente Ananias, 10 262
+RN,24,14159,Tenente Laurentino Cruz, 5 891
+RN,24,14209,Tibau do Sul, 16 929
+RN,24,14308,Timbaúba dos Batistas, 2 348
+RN,24,14407,Touros, 33 035
+RN,24,14456,Triunfo Potiguar, 3 376
+RN,24,14506,Umarizal, 10 078
+RN,24,14605,Upanema, 13 577
+RN,24,14704,Várzea, 5 233
+RN,24,14753,Venha-Ver, 3 014
+RN,24,14803,Vera Cruz, 10 735
+RN,24,14902,Viçosa, 1 822
+RN,24,15008,Vila Flor, 3 174
+PB,25,00106,Água Branca, 9 335
+PB,25,00205,Aguiar, 5 003
+PB,25,00304,Alagoa Grande, 26 062
+PB,25,00403,Alagoa Nova, 21 013
+PB,25,00502,Alagoinha, 13 725
+PB,25,00536,Alcantil, 5 578
+PB,25,00577,Algodão de Jandaíra, 2 953
+PB,25,00601,Alhandra, 21 730
+PB,25,00700,São João do Rio do Peixe, 17 964
+PB,25,00734,Amparo, 2 234
+PB,25,00775,Aparecida, 7 960
+PB,25,00809,Araçagi, 16 646
+PB,25,00908,Arara, 12 212
+PB,25,01005,Araruna, 17 189
+PB,25,01104,Areia, 22 633
+PB,25,01153,Areia de Baraúnas, 2 005
+PB,25,01203,Areial, 7 128
+PB,25,01302,Aroeiras, 18 705
+PB,25,01351,Assunção, 4 152
+PB,25,01401,Baía da Traição, 9 224
+PB,25,01500,Bananeiras, 23 134
+PB,25,01534,Baraúna, 4 762
+PB,25,01575,Barra de Santana, 8 059
+PB,25,01609,Barra de Santa Rosa, 12 904
+PB,25,01708,Barra de São Miguel, 5 906
+PB,25,01807,Bayeux, 82 742
+PB,25,01906,Belém, 16 401
+PB,25,02003,Belém do Brejo do Cruz, 6 268
+PB,25,02052,Bernardino Batista, 3 504
+PB,25,02102,Boa Ventura, 5 207
+PB,25,02151,Boa Vista, 6 377
+PB,25,02201,Bom Jesus, 2 286
+PB,25,02300,Bom Sucesso, 4 661
+PB,25,02409,Bonito de Santa Fé, 10 252
+PB,25,02508,Boqueirão, 17 598
+PB,25,02607,Igaracy, 5 648
+PB,25,02706,Borborema, 4 214
+PB,25,02805,Brejo do Cruz, 13 613
+PB,25,02904,Brejo dos Santos, 5 742
+PB,25,03001,Caaporã, 21 193
+PB,25,03100,Cabaceiras, 5 335
+PB,25,03209,Cabedelo, 66 519
+PB,25,03308,Cachoeira dos Índios, 9 151
+PB,25,03407,Cacimba de Areia, 3 291
+PB,25,03506,Cacimba de Dentro, 16 064
+PB,25,03555,Cacimbas, 7 223
+PB,25,03605,Caiçara, 6 602
+PB,25,03704,Cajazeiras, 63 239
+PB,25,03753,Cajazeirinhas, 2 740
+PB,25,03803,Caldas Brandão, 5 753
+PB,25,03902,Camalaú, 6 085
+PB,25,04009,Campina Grande, 419 379
+PB,25,04033,Capim, 6 970
+PB,25,04074,Caraúbas, 3 944
+PB,25,04108,Carrapateira, 2 312
+PB,25,04157,Casserengue, 6 889
+PB,25,04207,Catingueira, 4 491
+PB,25,04306,Catolé do Rocha, 30 661
+PB,25,04355,Caturité, 5 254
+PB,25,04405,Conceição, 18 260
+PB,25,04504,Condado, 6 451
+PB,25,04603,Conde, 27 605
+PB,25,04702,Congo, 4 933
+PB,25,04801,Coremas, 14 683
+PB,25,04850,Coxixola, 1 824
+PB,25,04900,Cruz do Espírito Santo, 17 095
+PB,25,05006,Cubati, 7 580
+PB,25,05105,Cuité, 19 719
+PB,25,05204,Cuitegi, 6 730
+PB,25,05238,Cuité de Mamanguape, 6 251
+PB,25,05279,Curral de Cima, 5 254
+PB,25,05303,Curral Velho, 2 292
+PB,25,05352,Damião, 4 982
+PB,25,05402,Desterro, 8 067
+PB,25,05501,Vista Serrana, 3 641
+PB,25,05600,Diamante, 6 299
+PB,25,05709,Dona Inês, 10 380
+PB,25,05808,Duas Estradas, 3 327
+PB,25,05907,Emas, 3 011
+PB,25,06004,Esperança, 31 231
+PB,25,06103,Fagundes, 11 049
+PB,25,06202,Frei Martinho, 2 846
+PB,25,06251,Gado Bravo, 8 179
+PB,25,06301,Guarabira, 57 484
+PB,25,06400,Gurinhém, 13 766
+PB,25,06509,Gurjão, 3 242
+PB,25,06608,Ibiara, 5 631
+PB,25,06707,Imaculada, 10 392
+PB,25,06806,Ingá, 17 692
+PB,25,06905,Itabaiana, 23 182
+PB,25,07002,Itaporanga, 23 940
+PB,25,07101,Itapororoca, 18 382
+PB,25,07200,Itatuba, 10 499
+PB,25,07309,Jacaraú, 14 477
+PB,25,07408,Jericó, 7 516
+PB,25,07507,João Pessoa, 833 932
+PB,25,07606,Juarez Távora, 7 796
+PB,25,07705,Juazeirinho, 17 007
+PB,25,07804,Junco do Seridó, 6 793
+PB,25,07903,Juripiranga, 10 012
+PB,25,08000,Juru, 9 234
+PB,25,08109,Lagoa, 4 415
+PB,25,08208,Lagoa de Dentro, 7 819
+PB,25,08307,Lagoa Seca, 27 730
+PB,25,08406,Lastro, 3 162
+PB,25,08505,Livramento, 6 877
+PB,25,08554,Logradouro, 4 797
+PB,25,08604,Lucena, 12 560
+PB,25,08703,Mãe d'Água, 3 583
+PB,25,08802,Malta, 6 046
+PB,25,08901,Mamanguape, 44 599
+PB,25,09008,Manaíra, 10 434
+PB,25,09057,Marcação, 8 999
+PB,25,09107,Mari, 21 512
+PB,25,09156,Marizópolis, 6 705
+PB,25,09206,Massaranduba, 14 139
+PB,25,09305,Mataraca, 8 244
+PB,25,09339,Matinhas, 4 571
+PB,25,09370,Mato Grosso, 2 543
+PB,25,09396,Maturéia, 6 433
+PB,25,09404,Mogeiro, 13 899
+PB,25,09503,Montadas, 5 812
+PB,25,09602,Monte Horebe, 4 338
+PB,25,09701,Monteiro, 32 277
+PB,25,09800,Mulungu, 8 791
+PB,25,09909,Natuba, 8 945
+PB,25,10006,Nazarezinho, 7 203
+PB,25,10105,Nova Floresta, 9 724
+PB,25,10204,Nova Olinda, 5 787
+PB,25,10303,Nova Palmeira, 4 259
+PB,25,10402,Olho d'Água, 6 060
+PB,25,10501,Olivedos, 3 580
+PB,25,10600,Ouro Velho, 2 918
+PB,25,10659,Parari, 1 720
+PB,25,10709,Passagem, 2 463
+PB,25,10808,Patos, 103 165
+PB,25,10907,Paulista, 11 834
+PB,25,11004,Pedra Branca, 3 739
+PB,25,11103,Pedra Lavrada, 6 859
+PB,25,11202,Pedras de Fogo, 29 662
+PB,25,11301,Piancó, 16 441
+PB,25,11400,Picuí, 18 333
+PB,25,11509,Pilar, 12 311
+PB,25,11608,Pilões, 6 815
+PB,25,11707,Pilõezinhos, 5 329
+PB,25,11806,Pirpirituba, 9 340
+PB,25,11905,Pitimbu, 16 751
+PB,25,12002,Pocinhos, 17 469
+PB,25,12036,Poço Dantas, 3 830
+PB,25,12077,Poço de José de Moura, 4 006
+PB,25,12101,Pombal, 32 473
+PB,25,12200,Prata, 3 915
+PB,25,12309,Princesa Isabel, 21 114
+PB,25,12408,Puxinanã, 14 277
+PB,25,12507,Queimadas, 47 658
+PB,25,12606,Quixaba, 1 743
+PB,25,12705,Remígio, 17 885
+PB,25,12721,Pedro Régis, 5 766
+PB,25,12747,Riachão, 2 927
+PB,25,12754,Riachão do Bacamarte, 4 690
+PB,25,12762,Riachão do Poço, 4 738
+PB,25,12788,Riacho de Santo Antônio, 1 955
+PB,25,12804,Riacho dos Cavalos, 8 493
+PB,25,12903,Rio Tinto, 24 581
+PB,25,13000,Salgadinho, 3 355
+PB,25,13109,Salgado de São Félix, 11 505
+PB,25,13158,Santa Cecília, 7 670
+PB,25,13208,Santa Cruz, 5 947
+PB,25,13307,Santa Helena, 5 865
+PB,25,13356,Santa Inês, 3 227
+PB,25,13406,Santa Luzia, 14 959
+PB,25,13505,Santana de Mangueira, 5 010
+PB,25,13604,Santana dos Garrotes, 6 569
+PB,25,13653,Joca Claudino, 2 539
+PB,25,13703,Santa Rita, 149 910
+PB,25,13802,Santa Teresinha, 4 402
+PB,25,13851,Santo André, 2 622
+PB,25,13901,São Bento, 32 235
+PB,25,13927,São Bentinho, 4 327
+PB,25,13943,São Domingos do Cariri, 2 585
+PB,25,13968,São Domingos, 2 595
+PB,25,13984,São Francisco, 3 137
+PB,25,14008,São João do Cariri, 4 226
+PB,25,14107,São João do Tigre, 4 263
+PB,25,14206,São José da Lagoa Tapada, 7 126
+PB,25,14305,São José de Caiana, 5 034
+PB,25,14404,São José de Espinharas, 4 083
+PB,25,14453,São José dos Ramos, 5 891
+PB,25,14503,São José de Piranhas, 19 067
+PB,25,14552,São José de Princesa, 3 416
+PB,25,14602,São José do Bonfim, 3 242
+PB,25,14651,São José do Brejo do Cruz, 1 699
+PB,25,14701,São José do Sabugi, 4 138
+PB,25,14800,São José dos Cordeiros, 3 411
+PB,25,14909,São Mamede, 7 470
+PB,25,15005,São Miguel de Taipu, 7 066
+PB,25,15104,São Sebastião de Lagoa de Roça, 11 040
+PB,25,15203,São Sebastião do Umbuzeiro, 3 279
+PB,25,15302,Sapé, 51 306
+PB,25,15401,São Vicente do Seridó, 10 291
+PB,25,15500,Serra Branca, 13 614
+PB,25,15609,Serra da Raiz, 3 094
+PB,25,15708,Serra Grande, 2 942
+PB,25,15807,Serra Redonda, 6 828
+PB,25,15906,Serraria, 4 885
+PB,25,15930,Sertãozinho, 5 054
+PB,25,15971,Sobrado, 8 236
+PB,25,16003,Solânea, 26 774
+PB,25,16102,Soledade, 13 968
+PB,25,16151,Sossêgo, 3 345
+PB,25,16201,Sousa, 67 259
+PB,25,16300,Sumé, 17 166
+PB,25,16409,Tacima, 8 010
+PB,25,16508,Taperoá, 14 068
+PB,25,16607,Tavares, 14 101
+PB,25,16706,Teixeira, 14 631
+PB,25,16755,Tenório, 2 966
+PB,25,16805,Triunfo, 9 892
+PB,25,16904,Uiraúna, 14 930
+PB,25,17001,Umbuzeiro, 9 124
+PB,25,17100,Várzea, 2 668
+PB,25,17209,Vieirópolis, 4 864
+PB,25,17407,Zabelê, 2 228
+PE,26,00054,Abreu e Lima, 98 462
+PE,26,00104,Afogados da Ingazeira, 40 241
+PE,26,00203,Afrânio, 18 674
+PE,26,00302,Agrestina, 23 779
+PE,26,00401,Água Preta, 26 461
+PE,26,00500,Águas Belas, 41 548
+PE,26,00609,Alagoinha, 13 542
+PE,26,00708,Aliança, 35 741
+PE,26,00807,Altinho, 20 674
+PE,26,00906,Amaraji, 18 205
+PE,26,01003,Angelim, 10 241
+PE,26,01052,Araçoiaba, 19 243
+PE,26,01102,Araripina, 85 088
+PE,26,01201,Arcoverde, 77 742
+PE,26,01300,Barra de Guabiraba, 12 263
+PE,26,01409,Barreiros, 40 121
+PE,26,01508,Belém de Maria, 10 378
+PE,26,01607,Belém do São Francisco, 18 301
+PE,26,01706,Belo Jardim, 79 507
+PE,26,01805,Betânia, 11 232
+PE,26,01904,Bezerros, 61 694
+PE,26,02001,Bodocó, 34 478
+PE,26,02100,Bom Conselho, 44 294
+PE,26,02209,Bom Jardim, 37 629
+PE,26,02308,Bonito, 37 474
+PE,26,02407,Brejão, 9 079
+PE,26,02506,Brejinho, 7 720
+PE,26,02605,Brejo da Madre de Deus, 48 648
+PE,26,02704,Buenos Aires, 12 808
+PE,26,02803,Buíque, 52 097
+PE,26,02902,Cabo de Santo Agostinho, 203 440
+PE,26,03009,Cabrobó, 30 294
+PE,26,03108,Cachoeirinha, 19 899
+PE,26,03207,Caetés, 28 827
+PE,26,03306,Calçado, 11 093
+PE,26,03405,Calumbi, 5 228
+PE,26,03454,Camaragibe, 147 771
+PE,26,03504,Camocim de São Félix, 17 419
+PE,26,03603,Camutanga, 7 750
+PE,26,03702,Canhotinho, 24 329
+PE,26,03801,Capoeiras, 18 338
+PE,26,03900,Carnaíba, 18 644
+PE,26,03926,Carnaubeira da Penha, 12 239
+PE,26,04007,Carpina, 79 293
+PE,26,04106,Caruaru, 378 048
+PE,26,04155,Casinhas, 12 967
+PE,26,04205,Catende, 32 156
+PE,26,04304,Cedro, 10 518
+PE,26,04403,Chã de Alegria, 12 984
+PE,26,04502,Chã Grande, 20 546
+PE,26,04601,Condado, 24 587
+PE,26,04700,Correntes, 17 131
+PE,26,04809,Cortês, 10 198
+PE,26,04908,Cumaru, 15 920
+PE,26,05004,Cupira, 23 518
+PE,26,05103,Custódia, 37 699
+PE,26,05152,Dormentes, 17 188
+PE,26,05202,Escada, 59 891
+PE,26,05301,Exu, 31 843
+PE,26,05400,Feira Nova, 21 427
+PE,26,05459,Fernando de Noronha, 3 167
+PE,26,05509,Ferreiros, 15 026
+PE,26,05608,Flores, 20 347
+PE,26,05707,Floresta, 30 137
+PE,26,05806,Frei Miguelinho, 13 636
+PE,26,05905,Gameleira, 18 214
+PE,26,06002,Garanhuns, 142 506
+PE,26,06101,Glória do Goitá, 29 347
+PE,26,06200,Goiana, 81 055
+PE,26,06309,Granito, 6 967
+PE,26,06408,Gravatá, 86 516
+PE,26,06507,Iati, 17 165
+PE,26,06606,Ibimirim, 26 593
+PE,26,06705,Ibirajuba, 7 140
+PE,26,06804,Igarassu, 115 196
+PE,26,06903,Iguaracy, 11 081
+PE,26,07000,Inajá, 25 603
+PE,26,07109,Ingazeira, 4 765
+PE,26,07208,Ipojuca, 98 932
+PE,26,07307,Ipubi, 29 009
+PE,26,07406,Itacuruba, 4 284
+PE,26,07505,Itaíba, 32 650
+PE,26,07604,Ilha de Itamaracá, 24 540
+PE,26,07653,Itambé, 34 935
+PE,26,07703,Itapetim, 13 791
+PE,26,07752,Itapissuma, 27 749
+PE,26,07802,Itaquitinga, 16 554
+PE,26,07901,Jaboatão dos Guararapes, 644 037
+PE,26,07950,Jaqueira, 10 247
+PE,26,08008,Jataúba, 15 843
+PE,26,08057,Jatobá, 14 020
+PE,26,08107,João Alfredo, 27 725
+PE,26,08206,Joaquim Nabuco, 13 269
+PE,26,08255,Jucati, 11 517
+PE,26,08305,Jupi, 15 329
+PE,26,08404,Jurema, 13 648
+PE,26,08453,Lagoa do Carro, 17 981
+PE,26,08503,Lagoa de Itaenga, 19 003
+PE,26,08602,Lagoa do Ouro, 11 933
+PE,26,08701,Lagoa dos Gatos, 14 076
+PE,26,08750,Lagoa Grande, 24 088
+PE,26,08800,Lajedo, 39 582
+PE,26,08909,Limoeiro, 56 510
+PE,26,09006,Macaparana, 23 879
+PE,26,09105,Machados, 11 333
+PE,26,09154,Manari, 23 763
+PE,26,09204,Maraial, 9 359
+PE,26,09303,Mirandiba, 14 166
+PE,26,09402,Moreno, 55 292
+PE,26,09501,Nazaré da Mata, 30 648
+PE,26,09600,Olinda, 349 976
+PE,26,09709,Orobó, 21 808
+PE,26,09808,Orocó, 13 613
+PE,26,09907,Ouricuri, 65 245
+PE,26,10004,Palmares, 54 584
+PE,26,10103,Palmeirina, 7 031
+PE,26,10202,Panelas, 22 991
+PE,26,10301,Paranatama, 12 199
+PE,26,10400,Parnamirim, 18 612
+PE,26,10509,Passira, 28 340
+PE,26,10608,Paudalho, 56 665
+PE,26,10707,Paulista, 342 167
+PE,26,10806,Pedra, 22 795
+PE,26,10905,Pesqueira, 62 722
+PE,26,11002,Petrolândia, 34 161
+PE,26,11101,Petrolina, 386 791
+PE,26,11200,Poção, 10 500
+PE,26,11309,Pombos, 27 552
+PE,26,11408,Primavera, 13 838
+PE,26,11507,Quipapá, 17 928
+PE,26,11533,Quixaba, 6 554
+PE,26,11606,Recife,1 488 920
+PE,26,11705,Riacho das Almas, 20 639
+PE,26,11804,Ribeirão, 33 507
+PE,26,11903,Rio Formoso, 20 009
+PE,26,12000,Sairé, 10 887
+PE,26,12109,Salgadinho, 5 727
+PE,26,12208,Salgueiro, 62 372
+PE,26,12307,Saloá, 13 836
+PE,26,12406,Sanharó, 18 624
+PE,26,12455,Santa Cruz, 13 841
+PE,26,12471,Santa Cruz da Baixa Verde, 11 567
+PE,26,12505,Santa Cruz do Capibaribe, 98 254
+PE,26,12554,Santa Filomena, 12 106
+PE,26,12604,Santa Maria da Boa Vista, 40 578
+PE,26,12703,Santa Maria do Cambucá, 14 013
+PE,26,12802,Santa Terezinha, 10 244
+PE,26,12901,São Benedito do Sul, 13 113
+PE,26,13008,São Bento do Una, 49 449
+PE,26,13107,São Caitano, 37 126
+PE,26,13206,São João, 23 837
+PE,26,13305,São Joaquim do Monte, 20 037
+PE,26,13404,São José da Coroa Grande, 18 825
+PE,26,13503,São José do Belmonte, 34 843
+PE,26,13602,São José do Egito, 31 004
+PE,26,13701,São Lourenço da Mata, 111 249
+PE,26,13800,São Vicente Férrer, 16 677
+PE,26,13909,Serra Talhada, 92 228
+PE,26,14006,Serrita, 18 207
+PE,26,14105,Sertânia, 32 811
+PE,26,14204,Sirinhaém, 37 596
+PE,26,14303,Moreilândia, 10 540
+PE,26,14402,Solidão, 5 210
+PE,26,14501,Surubim, 64 120
+PE,26,14600,Tabira, 27 681
+PE,26,14709,Tacaimbó, 13 738
+PE,26,14808,Tacaratu, 23 902
+PE,26,14857,Tamandaré, 23 561
+PE,26,15003,Taquaritinga do Norte, 24 736
+PE,26,15102,Terezinha, 6 513
+PE,26,15201,Terra Nova, 8 920
+PE,26,15300,Timbaúba, 46 147
+PE,26,15409,Toritama, 41 137
+PE,26,15508,Tracunhaém, 13 867
+PE,26,15607,Trindade, 30 321
+PE,26,15706,Triunfo, 14 705
+PE,26,15805,Tupanatinga, 26 937
+PE,26,15904,Tuparetama, 8 005
+PE,26,16001,Venturosa, 17 251
+PE,26,16100,Verdejante, 9 169
+PE,26,16183,Vertente do Lério, 7 558
+PE,26,16209,Vertentes, 21 959
+PE,26,16308,Vicência, 26 359
+PE,26,16407,Vitória de Santo Antão, 134 084
+PE,26,16506,Xexéu, 11 611
+AL,27,00102,Água Branca, 19 008
+AL,27,00201,Anadia, 13 966
+AL,27,00300,Arapiraca, 234 696
+AL,27,00409,Atalaia, 37 512
+AL,27,00508,Barra de Santo Antônio, 16 365
+AL,27,00607,Barra de São Miguel, 7 944
+AL,27,00706,Batalha, 16 448
+AL,27,00805,Belém, 4 722
+AL,27,00904,Belo Monte, 5 936
+AL,27,01001,Boca da Mata, 21 187
+AL,27,01100,Branquinha, 9 603
+AL,27,01209,Cacimbinhas, 10 482
+AL,27,01308,Cajueiro, 16 024
+AL,27,01357,Campestre, 6 665
+AL,27,01407,Campo Alegre, 32 106
+AL,27,01506,Campo Grande, 8 143
+AL,27,01605,Canapi, 15 559
+AL,27,01704,Capela, 15 032
+AL,27,01803,Carneiros, 8 999
+AL,27,01902,Chã Preta, 5 910
+AL,27,02009,Coité do Nóia, 10 810
+AL,27,02108,Colônia Leopoldina, 15 816
+AL,27,02207,Coqueiro Seco, 5 581
+AL,27,02306,Coruripe, 50 414
+AL,27,02355,Craíbas, 25 397
+AL,27,02405,Delmiro Gouveia, 51 318
+AL,27,02504,Dois Riachos, 9 805
+AL,27,02553,Estrela de Alagoas, 15 429
+AL,27,02603,Feira Grande, 22 712
+AL,27,02702,Feliz Deserto, 3 963
+AL,27,02801,Flexeiras, 9 618
+AL,27,02900,Girau do Ponciano, 36 102
+AL,27,03007,Ibateguara, 13 731
+AL,27,03106,Igaci, 23 995
+AL,27,03205,Igreja Nova, 21 372
+AL,27,03304,Inhapi, 15 167
+AL,27,03403,Jacaré dos Homens, 5 083
+AL,27,03502,Jacuípe, 5 352
+AL,27,03601,Japaratinga, 9 219
+AL,27,03700,Jaramataia, 4 985
+AL,27,03759,Jequiá da Praia, 9 470
+AL,27,03809,Joaquim Gomes, 17 150
+AL,27,03908,Jundiá, 4 092
+AL,27,04005,Junqueiro, 23 907
+AL,27,04104,Lagoa da Canoa, 18 457
+AL,27,04203,Limoeiro de Anadia, 24 740
+AL,27,04302,Maceió, 957 916
+AL,27,04401,Major Isidoro, 17 700
+AL,27,04500,Maragogi, 32 174
+AL,27,04609,Maravilha, 9 534
+AL,27,04708,Marechal Deodoro, 60 370
+AL,27,04807,Maribondo, 13 679
+AL,27,04906,Mar Vermelho, 3 155
+AL,27,05002,Mata Grande, 21 844
+AL,27,05101,Matriz de Camaragibe, 23 857
+AL,27,05200,Messias, 15 405
+AL,27,05309,Minador do Negrão, 4 845
+AL,27,05408,Monteirópolis, 7 184
+AL,27,05507,Murici, 25 187
+AL,27,05606,Novo Lino, 10 020
+AL,27,05705,Olho d'Água das Flores, 20 695
+AL,27,05804,Olho d'Água do Casado, 8 349
+AL,27,05903,Olho d'Água Grande, 4 330
+AL,27,06000,Olivença, 10 812
+AL,27,06109,Ouro Branco, 11 446
+AL,27,06208,Palestina, 4 325
+AL,27,06307,Palmeira dos Índios, 71 574
+AL,27,06406,Pão de Açúcar, 23 823
+AL,27,06422,Pariconha, 10 573
+AL,27,06448,Paripueira, 13 835
+AL,27,06505,Passo de Camaragibe, 13 804
+AL,27,06604,Paulo Jacinto, 6 576
+AL,27,06703,Penedo, 58 650
+AL,27,06802,Piaçabuçu, 15 908
+AL,27,06901,Pilar, 35 370
+AL,27,07008,Pindoba, 2 731
+AL,27,07107,Piranhas, 22 609
+AL,27,07206,Poço das Trincheiras, 12 518
+AL,27,07305,Porto Calvo, 24 071
+AL,27,07404,Porto de Pedras, 9 295
+AL,27,07503,Porto Real do Colégio, 20 082
+AL,27,07602,Quebrangulo, 11 080
+AL,27,07701,Rio Largo, 93 927
+AL,27,07800,Roteiro, 6 474
+AL,27,07909,Santa Luzia do Norte, 6 919
+AL,27,08006,Santana do Ipanema, 46 220
+AL,27,08105,Santana do Mundaú, 11 323
+AL,27,08204,São Brás, 6 555
+AL,27,08303,São José da Laje, 20 813
+AL,27,08402,São José da Tapera, 30 604
+AL,27,08501,São Luís do Quitunde, 30 873
+AL,27,08600,São Miguel dos Campos, 51 990
+AL,27,08709,São Miguel dos Milagres, 8 482
+AL,27,08808,São Sebastião, 31 786
+AL,27,08907,Satuba, 24 278
+AL,27,08956,Senador Rui Palmeira, 12 303
+AL,27,09004,Tanque d'Arca, 5 796
+AL,27,09103,Taquarana, 19 032
+AL,27,09152,Teotônio Vilela, 38 053
+AL,27,09202,Traipu, 23 565
+AL,27,09301,União dos Palmares, 59 280
+AL,27,09400,Viçosa, 24 092
+SE,28,00100,Amparo do São Francisco, 2 170
+SE,28,00209,Aquidabã, 20 131
+SE,28,00308,Aracaju, 602 757
+SE,28,00407,Arauá, 10 318
+SE,28,00506,Areia Branca, 18 081
+SE,28,00605,Barra dos Coqueiros, 41 511
+SE,28,00670,Boquim, 24 636
+SE,28,00704,Brejo Grande, 7 841
+SE,28,01009,Campo do Brito, 18 149
+SE,28,01108,Canhoba, 3 791
+SE,28,01207,Canindé de São Francisco, 26 834
+SE,28,01306,Capela, 31 645
+SE,28,01405,Carira, 19 939
+SE,28,01504,Carmópolis, 13 853
+SE,28,01603,Cedro de São João, 5 391
+SE,28,01702,Cristinápolis, 17 100
+SE,28,01900,Cumbe, 3 824
+SE,28,02007,Divina Pastora, 4 340
+SE,28,02106,Estância, 65 078
+SE,28,02205,Feira Nova, 5 975
+SE,28,02304,Frei Paulo, 14 530
+SE,28,02403,Gararu, 11 096
+SE,28,02502,General Maynard, 3 037
+SE,28,02601,Gracho Cardoso, 5 834
+SE,28,02700,Ilha das Flores, 8 321
+SE,28,02809,Indiaroba, 16 549
+SE,28,02908,Itabaiana, 103 440
+SE,28,03005,Itabaianinha, 40 678
+SE,28,03104,Itabi, 4 745
+SE,28,03203,Itaporanga d'Ajuda, 34 411
+SE,28,03302,Japaratuba, 16 209
+SE,28,03401,Japoatã, 13 407
+SE,28,03500,Lagarto, 101 579
+SE,28,03609,Laranjeiras, 23 975
+SE,28,03708,Macambira, 6 838
+SE,28,03807,Malhada dos Bois, 3 579
+SE,28,03906,Malhador, 11 533
+SE,28,04003,Maruim, 15 719
+SE,28,04102,Moita Bonita, 11 050
+SE,28,04201,Monte Alegre de Sergipe, 14 336
+SE,28,04300,Muribeca, 7 822
+SE,28,04409,Neópolis, 16 426
+SE,28,04458,Nossa Senhora Aparecida, 9 232
+SE,28,04508,Nossa Senhora da Glória, 41 212
+SE,28,04607,Nossa Senhora das Dores, 24 996
+SE,28,04706,Nossa Senhora de Lourdes, 6 268
+SE,28,04805,Nossa Senhora do Socorro, 192 330
+SE,28,04904,Pacatuba, 12 502
+SE,28,05000,Pedra Mole, 2 778
+SE,28,05109,Pedrinhas, 7 396
+SE,28,05208,Pinhão, 5 677
+SE,28,05307,Pirambu, 7 913
+SE,28,05406,Poço Redondo, 33 439
+SE,28,05505,Poço Verde, 21 794
+SE,28,05604,Porto da Folha, 26 576
+SE,28,05703,Propriá, 26 618
+SE,28,05802,Riachão do Dantas, 18 313
+SE,28,05901,Riachuelo, 8 748
+SE,28,06008,Ribeirópolis, 17 033
+SE,28,06107,Rosário do Catete, 9 295
+SE,28,06206,Salgado, 20 279
+SE,28,06305,Santa Luzia do Itanhy, 13 616
+SE,28,06404,Santana do São Francisco, 7 346
+SE,28,06503,Santa Rosa de Lima, 3 937
+SE,28,06602,Santo Amaro das Brotas, 11 092
+SE,28,06701,São Cristóvão, 95 612
+SE,28,06800,São Domingos, 10 327
+SE,28,06909,São Francisco, 3 243
+SE,28,07006,São Miguel do Aleixo, 3 434
+SE,28,07105,Simão Dias, 42 578
+SE,28,07204,Siriri, 7 834
+SE,28,07303,Telha, 3 274
+SE,28,07402,Tobias Barreto, 50 905
+SE,28,07501,Tomar do Geru, 12 012
+SE,28,07600,Umbaúba, 23 917
+BA,29,00108,Abaíra, 7 301
+BA,29,00207,Abaré, 17 639
+BA,29,00306,Acajutiba, 13 795
+BA,29,00355,Adustina, 14 201
+BA,29,00405,Água Fria, 14 497
+BA,29,00504,Érico Cardoso, 10 604
+BA,29,00603,Aiquara, 4 447
+BA,29,00702,Alagoinhas, 151 055
+BA,29,00801,Alcobaça, 24 530
+BA,29,00900,Almadina, 5 218
+BA,29,01007,Amargosa, 36 521
+BA,29,01106,Amélia Rodrigues, 24 138
+BA,29,01155,América Dourada, 15 137
+BA,29,01205,Anagé, 25 438
+BA,29,01304,Andaraí, 13 080
+BA,29,01353,Andorinha, 15 012
+BA,29,01403,Angical, 13 732
+BA,29,01502,Anguera, 11 031
+BA,29,01601,Antas, 14 206
+BA,29,01700,Antônio Cardoso, 11 146
+BA,29,01809,Antônio Gonçalves, 10 862
+BA,29,01908,Aporá, 15 922
+BA,29,01957,Apuarema, 6 913
+BA,29,02005,Aracatu, 13 936
+BA,29,02054,Araçás, 11 557
+BA,29,02104,Araci, 48 294
+BA,29,02203,Aramari, 9 833
+BA,29,02252,Arataca, 10 191
+BA,29,02302,Aratuípe, 8 677
+BA,29,02401,Aurelino Leal, 11 179
+BA,29,02500,Baianópolis, 13 614
+BA,29,02609,Baixa Grande, 18 220
+BA,29,02658,Banzaê, 11 958
+BA,29,02708,Barra, 51 092
+BA,29,02807,Barra da Estiva, 26 026
+BA,29,02906,Barra do Choça, 36 539
+BA,29,03003,Barra do Mendes, 13 836
+BA,29,03102,Barra do Rocha, 5 775
+BA,29,03201,Barreiras, 159 734
+BA,29,03235,Barro Alto, 13 453
+BA,29,03276,Barrocas, 15 203
+BA,29,03300,Barro Preto, 5 833
+BA,29,03409,Belmonte, 20 121
+BA,29,03508,Belo Campo, 18 412
+BA,29,03607,Biritinga, 15 146
+BA,29,03706,Boa Nova, 13 690
+BA,29,03805,Boa Vista do Tupim, 16 873
+BA,29,03904,Bom Jesus da Lapa, 65 550
+BA,29,03953,Bom Jesus da Serra, 9 730
+BA,29,04001,Boninal, 13 622
+BA,29,04050,Bonito, 15 844
+BA,29,04100,Boquira, 19 322
+BA,29,04209,Botuporã, 11 024
+BA,29,04308,Brejões, 12 943
+BA,29,04407,Brejolândia, 9 108
+BA,29,04506,Brotas de Macaúbas, 11 765
+BA,29,04605,Brumado, 70 510
+BA,29,04704,Buerarema, 14 804
+BA,29,04753,Buritirama, 19 589
+BA,29,04803,Caatiba, 6 205
+BA,29,04852,Cabaceiras do Paraguaçu, 16 559
+BA,29,04902,Cachoeira, 29 250
+BA,29,05008,Caculé, 22 462
+BA,29,05107,Caém, 10 384
+BA,29,05156,Caetanos, 11 266
+BA,29,05206,Caetité, 52 012
+BA,29,05305,Cafarnaum, 17 466
+BA,29,05404,Cairu, 17 761
+BA,29,05503,Caldeirão Grande, 13 080
+BA,29,05602,Camacan, 22 579
+BA,29,05701,Camaçari, 300 372
+BA,29,05800,Camamu, 30 469
+BA,29,05909,Campo Alegre de Lourdes, 30 671
+BA,29,06006,Campo Formoso, 71 377
+BA,29,06105,Canápolis, 10 225
+BA,29,06204,Canarana, 24 206
+BA,29,06303,Canavieiras, 32 683
+BA,29,06402,Candeal, 7 772
+BA,29,06501,Candeias, 72 382
+BA,29,06600,Candiba, 13 016
+BA,29,06709,Cândido Sales, 25 247
+BA,29,06808,Cansanção, 37 439
+BA,29,06824,Canudos, 16 105
+BA,29,06857,Capela do Alto Alegre, 10 744
+BA,29,06873,Capim Grosso, 33 235
+BA,29,06899,Caraíbas, 9 940
+BA,29,06907,Caravelas, 20 580
+BA,29,07004,Cardeal da Silva, 8 365
+BA,29,07103,Carinhanha, 28 869
+BA,29,07202,Casa Nova, 72 086
+BA,29,07301,Castro Alves, 24 712
+BA,29,07400,Catolândia, 3 434
+BA,29,07509,Catu, 48 148
+BA,29,07558,Caturama, 8 841
+BA,29,07608,Central, 16 348
+BA,29,07707,Chorrochó, 10 579
+BA,29,07806,Cícero Dantas, 30 907
+BA,29,07905,Cipó, 17 230
+BA,29,08002,Coaraci, 17 333
+BA,29,08101,Cocos, 19 151
+BA,29,08200,Conceição da Feira, 20 800
+BA,29,08309,Conceição do Almeida, 15 794
+BA,29,08408,Conceição do Coité, 67 825
+BA,29,08507,Conceição do Jacuípe, 35 308
+BA,29,08606,Conde, 23 654
+BA,29,08705,Condeúba, 17 053
+BA,29,08804,Contendas do Sincorá, 4 333
+BA,29,08903,Coração de Maria, 26 692
+BA,29,09000,Cordeiros, 7 546
+BA,29,09109,Coribe, 13 990
+BA,29,09208,Coronel João Sá, 17 056
+BA,29,09307,Correntina, 32 457
+BA,29,09406,Cotegipe, 13 063
+BA,29,09505,Cravolândia, 4 415
+BA,29,09604,Crisópolis, 19 729
+BA,29,09703,Cristópolis, 13 993
+BA,29,09802,Cruz das Almas, 60 348
+BA,29,09901,Curaçá, 34 180
+BA,29,10008,Dário Meira, 10 820
+BA,29,10057,Dias d'Ávila, 71 485
+BA,29,10107,Dom Basílio, 11 884
+BA,29,10206,Dom Macedo Costa, 4 407
+BA,29,10305,Elísio Medrado, 7 808
+BA,29,10404,Encruzilhada, 19 107
+BA,29,10503,Entre Rios, 38 098
+BA,29,10602,Esplanada, 32 554
+BA,29,10701,Euclides da Cunha, 61 456
+BA,29,10727,Eunápolis, 113 710
+BA,29,10750,Fátima, 17 895
+BA,29,10776,Feira da Mata, 5 631
+BA,29,10800,Feira de Santana, 616 272
+BA,29,10859,Filadélfia, 17 897
+BA,29,10909,Firmino Alves, 4 873
+BA,29,11006,Floresta Azul, 11 059
+BA,29,11105,Formosa do Rio Preto, 25 899
+BA,29,11204,Gandu, 32 178
+BA,29,11253,Gavião, 4 360
+BA,29,11303,Gentio do Ouro, 10 884
+BA,29,11402,Glória, 15 524
+BA,29,11501,Gongogi, 5 555
+BA,29,11600,Governador Mangabeira, 20 605
+BA,29,11659,Guajeru, 8 050
+BA,29,11709,Guanambi, 87 817
+BA,29,11808,Guaratinga, 19 049
+BA,29,11857,Heliópolis, 12 309
+BA,29,11907,Iaçu, 24 607
+BA,29,12004,Ibiassucê, 10 429
+BA,29,12103,Ibicaraí, 21 665
+BA,29,12202,Ibicoara, 20 785
+BA,29,12301,Ibicuí, 13 934
+BA,29,12400,Ibipeba, 16 603
+BA,29,12509,Ibipitanga, 13 863
+BA,29,12608,Ibiquera, 3 725
+BA,29,12707,Ibirapitanga, 25 344
+BA,29,12806,Ibirapuã, 8 896
+BA,29,12905,Ibirataia, 18 792
+BA,29,13002,Ibitiara, 14 637
+BA,29,13101,Ibititá, 16 969
+BA,29,13200,Ibotirama, 26 309
+BA,29,13309,Ichu, 6 190
+BA,29,13408,Igaporã, 15 527
+BA,29,13457,Igrapiúna, 13 151
+BA,29,13507,Iguaí, 21 491
+BA,29,13606,Ilhéus, 178 649
+BA,29,13705,Inhambupe, 33 790
+BA,29,13804,Ipecaetá, 13 709
+BA,29,13903,Ipiaú, 40 706
+BA,29,14000,Ipirá, 56 876
+BA,29,14109,Ipupiara, 9 935
+BA,29,14208,Irajuba, 6 101
+BA,29,14307,Iramaia, 10 752
+BA,29,14406,Iraquara, 23 879
+BA,29,14505,Irará, 28 043
+BA,29,14604,Irecê, 74 507
+BA,29,14653,Itabela, 28 165
+BA,29,14703,Itaberaba, 65 073
+BA,29,14802,Itabuna, 186 708
+BA,29,14901,Itacaré, 27 704
+BA,29,15007,Itaeté, 13 472
+BA,29,15106,Itagi, 13 803
+BA,29,15205,Itagibá, 15 310
+BA,29,15304,Itagimirim, 6 347
+BA,29,15353,Itaguaçu da Bahia, 12 311
+BA,29,15403,Itaju do Colônia, 6 037
+BA,29,15502,Itajuípe, 18 781
+BA,29,15601,Itamaraju, 59 605
+BA,29,15700,Itamari, 7 051
+BA,29,15809,Itambé, 24 394
+BA,29,15908,Itanagra, 5 914
+BA,29,16005,Itanhém, 17 813
+BA,29,16104,Itaparica, 19 789
+BA,29,16203,Itapé, 10 341
+BA,29,16302,Itapebi, 9 174
+BA,29,16401,Itapetinga, 65 897
+BA,29,16500,Itapicuru, 31 679
+BA,29,16609,Itapitanga, 10 279
+BA,29,16708,Itaquara, 8 153
+BA,29,16807,Itarantim, 17 052
+BA,29,16856,Itatim, 15 737
+BA,29,16906,Itiruçu, 10 999
+BA,29,17003,Itiúba, 33 872
+BA,29,17102,Itororó, 16 617
+BA,29,17201,Ituaçu, 17 914
+BA,29,17300,Ituberá, 21 902
+BA,29,17334,Iuiu, 11 118
+BA,29,17359,Jaborandi, 9 275
+BA,29,17409,Jacaraci, 14 436
+BA,29,17508,Jacobina, 82 590
+BA,29,17607,Jaguaquara, 45 964
+BA,29,17706,Jaguarari, 32 703
+BA,29,17805,Jaguaripe, 17 659
+BA,29,17904,Jandaíra, 9 285
+BA,29,18001,Jequié, 158 813
+BA,29,18100,Jeremoabo, 37 626
+BA,29,18209,Jiquiriçá, 13 629
+BA,29,18308,Jitaúna, 14 355
+BA,29,18357,João Dourado, 24 854
+BA,29,18407,Juazeiro, 237 821
+BA,29,18456,Jucuruçu, 9 655
+BA,29,18506,Jussara, 16 354
+BA,29,18555,Jussari, 5 888
+BA,29,18605,Jussiape, 7 379
+BA,29,18704,Lafaiete Coutinho, 4 075
+BA,29,18753,Lagoa Real, 14 105
+BA,29,18803,Laje, 21 052
+BA,29,18902,Lajedão, 3 845
+BA,29,19009,Lajedinho, 3 527
+BA,29,19058,Lajedo do Tabocal, 7 494
+BA,29,19108,Lamarão, 9 015
+BA,29,19157,Lapão, 25 736
+BA,29,19207,Lauro de Freitas, 203 331
+BA,29,19306,Lençóis, 10 774
+BA,29,19405,Licínio de Almeida, 11 834
+BA,29,19504,Livramento de Nossa Senhora, 43 903
+BA,29,19553,Luís Eduardo Magalhães, 107 909
+BA,29,19603,Macajuba, 10 454
+BA,29,19702,Macarani, 21 599
+BA,29,19801,Macaúbas, 41 859
+BA,29,19900,Macururé, 7 256
+BA,29,19926,Madre de Deus, 18 504
+BA,29,19959,Maetinga, 6 973
+BA,29,20007,Maiquinique, 8 731
+BA,29,20106,Mairi, 17 674
+BA,29,20205,Malhada, 15 398
+BA,29,20304,Malhada de Pedras, 8 670
+BA,29,20403,Manoel Vitorino, 13 860
+BA,29,20452,Mansidão, 13 919
+BA,29,20502,Maracás, 27 620
+BA,29,20601,Maragogipe, 35 859
+BA,29,20700,Maraú, 24 527
+BA,29,20809,Marcionílio Souza, 9 267
+BA,29,20908,Mascote, 13 544
+BA,29,21005,Mata de São João, 42 566
+BA,29,21054,Matina, 10 330
+BA,29,21104,Medeiros Neto, 22 194
+BA,29,21203,Miguel Calmon, 24 661
+BA,29,21302,Milagres, 11 071
+BA,29,21401,Mirangaba, 15 734
+BA,29,21450,Mirante, 10 187
+BA,29,21500,Monte Santo, 47 780
+BA,29,21609,Morpará, 7 996
+BA,29,21708,Morro do Chapéu, 33 594
+BA,29,21807,Mortugaba, 11 143
+BA,29,21906,Mucugê, 12 137
+BA,29,22003,Mucuri, 37 977
+BA,29,22052,Mulungu do Morro, 13 152
+BA,29,22102,Mundo Novo, 17 305
+BA,29,22201,Muniz Ferreira, 7 190
+BA,29,22250,Muquém do São Francisco, 10 443
+BA,29,22300,Muritiba, 28 707
+BA,29,22409,Mutuípe, 20 037
+BA,29,22508,Nazaré, 27 060
+BA,29,22607,Nilo Peçanha, 12 063
+BA,29,22656,Nordestina, 18 523
+BA,29,22706,Nova Canaã, 13 715
+BA,29,22730,Nova Fátima, 7 967
+BA,29,22755,Nova Ibiá, 6 501
+BA,29,22805,Nova Itarana, 7 780
+BA,29,22854,Nova Redenção, 7 538
+BA,29,22904,Nova Soure, 24 236
+BA,29,23001,Nova Viçosa, 39 509
+BA,29,23035,Novo Horizonte, 11 162
+BA,29,23050,Novo Triunfo, 10 660
+BA,29,23100,Olindina, 22 633
+BA,29,23209,Oliveira dos Brejinhos, 20 715
+BA,29,23308,Ouriçangas, 7 716
+BA,29,23357,Ourolândia, 19 243
+BA,29,23407,Palmas de Monte Alto, 20 078
+BA,29,23506,Palmeiras, 10 339
+BA,29,23605,Paramirim, 20 351
+BA,29,23704,Paratinga, 29 252
+BA,29,23803,Paripiranga, 26 604
+BA,29,23902,Pau Brasil, 9 370
+BA,29,24009,Paulo Afonso, 112 870
+BA,29,24058,Pé de Serra, 13 243
+BA,29,24108,Pedrão, 6 235
+BA,29,24207,Pedro Alexandre, 13 954
+BA,29,24306,Piatã, 20 086
+BA,29,24405,Pilão Arcado, 35 357
+BA,29,24504,Pindaí, 14 731
+BA,29,24603,Pindobaçu, 19 083
+BA,29,24652,Pintadas, 10 325
+BA,29,24678,Piraí do Norte, 10 974
+BA,29,24702,Piripá, 9 152
+BA,29,24801,Piritiba, 17 566
+BA,29,24900,Planaltino, 8 022
+BA,29,25006,Planalto, 23 334
+BA,29,25105,Poções, 48 293
+BA,29,25204,Pojuca, 32 136
+BA,29,25253,Ponto Novo, 17 938
+BA,29,25303,Porto Seguro, 168 326
+BA,29,25402,Potiraguá, 10 274
+BA,29,25501,Prado, 35 003
+BA,29,25600,Presidente Dutra, 15 130
+BA,29,25709,Presidente Jânio Quadros, 12 621
+BA,29,25758,Presidente Tancredo Neves, 27 734
+BA,29,25808,Queimadas, 25 988
+BA,29,25907,Quijingue, 25 272
+BA,29,25931,Quixabeira, 9 461
+BA,29,25956,Rafael Jambeiro, 19 662
+BA,29,26004,Remanso, 40 586
+BA,29,26103,Retirolândia, 13 651
+BA,29,26202,Riachão das Neves, 21 642
+BA,29,26301,Riachão do Jacuípe, 33 386
+BA,29,26400,Riacho de Santana, 30 711
+BA,29,26509,Ribeira do Amparo, 13 841
+BA,29,26608,Ribeira do Pombal, 54 010
+BA,29,26657,Ribeirão do Largo, 9 740
+BA,29,26707,Rio de Contas, 13 184
+BA,29,26806,Rio do Antônio, 13 146
+BA,29,26905,Rio do Pires, 10 497
+BA,29,27002,Rio Real, 35 362
+BA,29,27101,Rodelas, 10 308
+BA,29,27200,Ruy Barbosa, 28 282
+BA,29,27309,Salinas da Margarida, 14 987
+BA,29,27408,Salvador,2 417 678
+BA,29,27507,Santa Bárbara, 20 952
+BA,29,27606,Santa Brígida, 14 965
+BA,29,27705,Santa Cruz Cabrália, 29 185
+BA,29,27804,Santa Cruz da Vitória, 4 681
+BA,29,27903,Santa Inês, 10 300
+BA,29,28000,Santaluz, 37 834
+BA,29,28059,Santa Luzia, 13 896
+BA,29,28109,Santa Maria da Vitória, 38 604
+BA,29,28208,Santana, 24 755
+BA,29,28307,Santanópolis, 8 716
+BA,29,28406,Santa Rita de Cássia, 27 390
+BA,29,28505,Santa Terezinha, 10 441
+BA,29,28604,Santo Amaro, 56 012
+BA,29,28703,Santo Antônio de Jesus, 103 055
+BA,29,28802,Santo Estêvão, 52 276
+BA,29,28901,São Desidério, 32 828
+BA,29,28950,São Domingos, 8 426
+BA,29,29008,São Félix, 11 026
+BA,29,29057,São Félix do Coribe, 15 194
+BA,29,29107,São Felipe, 20 283
+BA,29,29206,São Francisco do Conde, 38 733
+BA,29,29255,São Gabriel, 18 600
+BA,29,29305,São Gonçalo dos Campos, 39 513
+BA,29,29354,São José da Vitória, 5 315
+BA,29,29370,São José do Jacuípe, 10 187
+BA,29,29404,São Miguel das Matas, 10 334
+BA,29,29503,São Sebastião do Passé, 40 958
+BA,29,29602,Sapeaçu, 17 963
+BA,29,29701,Sátiro Dias, 16 008
+BA,29,29750,Saubara, 11 438
+BA,29,29800,Saúde, 10 478
+BA,29,29909,Seabra, 46 160
+BA,29,30006,Sebastião Laranjeiras, 9 360
+BA,29,30105,Senhor do Bonfim, 74 523
+BA,29,30154,Serra do Ramalho, 34 222
+BA,29,30204,Sento Sé, 38 154
+BA,29,30303,Serra Dourada, 17 066
+BA,29,30402,Serra Preta, 17 996
+BA,29,30501,Serrinha, 80 435
+BA,29,30600,Serrolândia, 13 335
+BA,29,30709,Simões Filho, 114 559
+BA,29,30758,Sítio do Mato, 13 408
+BA,29,30766,Sítio do Quinto, 14 773
+BA,29,30774,Sobradinho, 25 475
+BA,29,30808,Souto Soares, 17 054
+BA,29,30907,Tabocas do Brejo Velho, 11 979
+BA,29,31004,Tanhaçu, 21 006
+BA,29,31053,Tanque Novo, 17 158
+BA,29,31103,Tanquinho, 7 717
+BA,29,31202,Taperoá, 18 044
+BA,29,31301,Tapiramutá, 15 818
+BA,29,31350,Teixeira de Freitas, 145 216
+BA,29,31400,Teodoro Sampaio, 7 110
+BA,29,31509,Teofilândia, 21 176
+BA,29,31608,Teolândia, 15 332
+BA,29,31707,Terra Nova, 10 798
+BA,29,31806,Tremedal, 16 296
+BA,29,31905,Tucano, 48 736
+BA,29,32002,Uauá, 24 665
+BA,29,32101,Ubaíra, 18 626
+BA,29,32200,Ubaitaba, 17 596
+BA,29,32309,Ubatã, 16 094
+BA,29,32408,Uibaí, 13 432
+BA,29,32457,Umburanas, 13 642
+BA,29,32507,Una, 18 131
+BA,29,32606,Urandi, 15 355
+BA,29,32705,Uruçuca, 21 420
+BA,29,32804,Utinga, 16 277
+BA,29,32903,Valença, 85 655
+BA,29,33000,Valente, 24 362
+BA,29,33059,Várzea da Roça, 13 800
+BA,29,33109,Várzea do Poço, 8 101
+BA,29,33158,Várzea Nova, 13 377
+BA,29,33174,Varzedo, 9 913
+BA,29,33208,Vera Cruz, 42 529
+BA,29,33257,Vereda, 6 003
+BA,29,33307,Vitória da Conquista, 370 879
+BA,29,33406,Wagner, 9 503
+BA,29,33455,Wanderley, 12 968
+BA,29,33505,Wenceslau Guimarães, 24 474
+BA,29,33604,Xique-Xique, 44 757
+MG,31,00104,Abadia dos Dourados, 6 272
+MG,31,00203,Abaeté, 22 675
+MG,31,00302,Abre Campo, 13 927
+MG,31,00401,Acaiaca, 3 909
+MG,31,00500,Açucena, 8 943
+MG,31,00609,Água Boa, 12 589
+MG,31,00708,Água Comprida, 2 108
+MG,31,00807,Aguanil, 4 357
+MG,31,00906,Águas Formosas, 18 448
+MG,31,01003,Águas Vermelhas, 14 037
+MG,31,01102,Aimorés, 25 269
+MG,31,01201,Aiuruoca, 6 233
+MG,31,01300,Alagoa, 2 749
+MG,31,01409,Albertina, 2 952
+MG,31,01508,Além Paraíba, 30 717
+MG,31,01607,Alfenas, 78 970
+MG,31,01631,Alfredo Vasconcelos, 6 931
+MG,31,01706,Almenara, 40 364
+MG,31,01805,Alpercata, 6 903
+MG,31,01904,Alpinópolis, 18 300
+MG,31,02001,Alterosa, 13 915
+MG,31,02050,Alto Caparaó, 5 795
+MG,31,02100,Alto Rio Doce, 10 891
+MG,31,02209,Alvarenga, 3 975
+MG,31,02308,Alvinópolis, 15 059
+MG,31,02407,Alvorada de Minas, 4 159
+MG,31,02506,Amparo do Serra, 4 541
+MG,31,02605,Andradas, 40 553
+MG,31,02704,Cachoeira de Pajeú, 9 110
+MG,31,02803,Andrelândia, 11 927
+MG,31,02852,Angelândia, 7 718
+MG,31,02902,Antônio Carlos, 11 095
+MG,31,03009,Antônio Dias, 9 219
+MG,31,03108,Antônio Prado de Minas, 1 538
+MG,31,03207,Araçaí, 2 181
+MG,31,03306,Aracitaba, 2 049
+MG,31,03405,Araçuaí, 34 297
+MG,31,03504,Araguari, 117 808
+MG,31,03603,Arantina, 2 915
+MG,31,03702,Araponga, 8 048
+MG,31,03751,Araporã, 8 479
+MG,31,03801,Arapuá, 2 631
+MG,31,03900,Araújos, 9 199
+MG,31,04007,Araxá, 111 691
+MG,31,04106,Arceburgo, 9 177
+MG,31,04205,Arcos, 41 416
+MG,31,04304,Areado, 13 881
+MG,31,04403,Argirita, 2 688
+MG,31,04452,Aricanduva, 4 719
+MG,31,04502,Arinos, 17 272
+MG,31,04601,Astolfo Dutra, 14 138
+MG,31,04700,Ataléia, 13 736
+MG,31,04809,Augusto de Lima, 4 538
+MG,31,04908,Baependi, 18 366
+MG,31,05004,Baldim, 7 492
+MG,31,05103,Bambuí, 23 546
+MG,31,05202,Bandeira, 4 741
+MG,31,05301,Bandeira do Sul, 5 943
+MG,31,05400,Barão de Cocais, 30 778
+MG,31,05509,Barão de Monte Alto, 4 964
+MG,31,05608,Barbacena, 125 317
+MG,31,05707,Barra Longa, 5 666
+MG,31,05905,Barroso, 20 080
+MG,31,06002,Bela Vista de Minas, 10 167
+MG,31,06101,Belmiro Braga, 3 244
+MG,31,06200,Belo Horizonte,2 315 560
+MG,31,06309,Belo Oriente, 23 928
+MG,31,06408,Belo Vale, 8 627
+MG,31,06507,Berilo, 9 826
+MG,31,06606,Bertópolis, 4 451
+MG,31,06655,Berizal, 4 201
+MG,31,06705,Betim, 411 846
+MG,31,06804,Bias Fortes, 3 361
+MG,31,06903,Bicas, 13 978
+MG,31,07000,Biquinhas, 2 383
+MG,31,07109,Boa Esperança, 39 848
+MG,31,07208,Bocaina de Minas, 5 348
+MG,31,07307,Bocaiúva, 48 032
+MG,31,07406,Bom Despacho, 51 737
+MG,31,07505,Bom Jardim de Minas, 6 783
+MG,31,07604,Bom Jesus da Penha, 4 474
+MG,31,07703,Bom Jesus do Amparo, 5 631
+MG,31,07802,Bom Jesus do Galho, 14 536
+MG,31,07901,Bom Repouso, 12 649
+MG,31,08008,Bom Sucesso, 17 151
+MG,31,08107,Bonfim, 7 434
+MG,31,08206,Bonfinópolis de Minas, 5 528
+MG,31,08255,Bonito de Minas, 10 204
+MG,31,08305,Borda da Mata, 17 404
+MG,31,08404,Botelhos, 14 828
+MG,31,08503,Botumirim, 5 790
+MG,31,08552,Brasilândia de Minas, 15 020
+MG,31,08602,Brasília de Minas, 32 025
+MG,31,08701,Brás Pires, 4 260
+MG,31,08800,Braúnas, 4 441
+MG,31,08909,Brazópolis, 14 246
+MG,31,09006,Brumadinho, 38 915
+MG,31,09105,Bueno Brandão, 10 911
+MG,31,09204,Buenópolis, 9 150
+MG,31,09253,Bugre, 4 041
+MG,31,09303,Buritis, 24 030
+MG,31,09402,Buritizeiro, 23 910
+MG,31,09451,Cabeceira Grande, 6 627
+MG,31,09501,Cabo Verde, 11 410
+MG,31,09600,Cachoeira da Prata, 3 693
+MG,31,09709,Cachoeira de Minas, 11 883
+MG,31,09808,Cachoeira Dourada, 2 315
+MG,31,09907,Caetanópolis, 11 435
+MG,31,10004,Caeté, 38 776
+MG,31,10103,Caiana, 5 304
+MG,31,10202,Cajuri, 4 088
+MG,31,10301,Caldas, 14 217
+MG,31,10400,Camacho, 2 838
+MG,31,10509,Camanducaia, 26 097
+MG,31,10608,Cambuí, 29 536
+MG,31,10707,Cambuquira, 12 313
+MG,31,10806,Campanário, 2 923
+MG,31,10905,Campanha, 15 935
+MG,31,11002,Campestre, 20 696
+MG,31,11101,Campina Verde, 18 011
+MG,31,11150,Campo Azul, 3 714
+MG,31,11200,Campo Belo, 52 277
+MG,31,11309,Campo do Meio, 11 377
+MG,31,11408,Campo Florido, 8 466
+MG,31,11507,Campos Altos, 12 979
+MG,31,11606,Campos Gerais, 26 105
+MG,31,11705,Canaã, 4 715
+MG,31,11804,Canápolis, 10 608
+MG,31,11903,Cana Verde, 5 272
+MG,31,12000,Candeias, 14 001
+MG,31,12059,Cantagalo, 3 974
+MG,31,12109,Caparaó, 5 048
+MG,31,12208,Capela Nova, 4 362
+MG,31,12307,Capelinha, 39 626
+MG,31,12406,Capetinga, 6 562
+MG,31,12505,Capim Branco, 10 663
+MG,31,12604,Capinópolis, 14 655
+MG,31,12653,Capitão Andrade, 4 585
+MG,31,12703,Capitão Enéas, 14 108
+MG,31,12802,Capitólio, 10 380
+MG,31,12901,Caputira, 8 936
+MG,31,13008,Caraí, 19 548
+MG,31,13107,Caranaíba, 2 933
+MG,31,13206,Carandaí, 23 812
+MG,31,13305,Carangola, 31 240
+MG,31,13404,Caratinga, 87 360
+MG,31,13503,Carbonita, 8 512
+MG,31,13602,Careaçu, 6 816
+MG,31,13701,Carlos Chagas, 18 615
+MG,31,13800,Carmésia, 2 605
+MG,31,13909,Carmo da Cachoeira, 11 547
+MG,31,14006,Carmo da Mata, 11 019
+MG,31,14105,Carmo de Minas, 13 797
+MG,31,14204,Carmo do Cajuru, 23 479
+MG,31,14303,Carmo do Paranaíba, 29 011
+MG,31,14402,Carmo do Rio Claro, 20 954
+MG,31,14501,Carmópolis de Minas, 18 003
+MG,31,14550,Carneirinho, 9 422
+MG,31,14600,Carrancas, 4 049
+MG,31,14709,Carvalhópolis, 3 341
+MG,31,14808,Carvalhos, 4 422
+MG,31,14907,Casa Grande, 2 214
+MG,31,15003,Cascalho Rico, 2 712
+MG,31,15102,Cássia, 17 155
+MG,31,15201,Conceição da Barra de Minas, 3 560
+MG,31,15300,Cataguases, 66 261
+MG,31,15359,Catas Altas, 5 473
+MG,31,15409,Catas Altas da Noruega, 3 110
+MG,31,15458,Catuji, 7 030
+MG,31,15474,Catuti, 4 739
+MG,31,15508,Caxambu, 21 056
+MG,31,15607,Cedro do Abaeté, 1 081
+MG,31,15706,Central de Minas, 6 171
+MG,31,15805,Centralina, 10 207
+MG,31,15904,Chácara, 3 075
+MG,31,16001,Chalé, 6 075
+MG,31,16100,Chapada do Norte, 10 337
+MG,31,16159,Chapada Gaúcha, 12 355
+MG,31,16209,Chiador, 2 800
+MG,31,16308,Cipotânea, 5 581
+MG,31,16407,Claraval, 4 658
+MG,31,16506,Claro dos Poções, 7 166
+MG,31,16605,Cláudio, 30 159
+MG,31,16704,Coimbra, 7 117
+MG,31,16803,Coluna, 8 163
+MG,31,16902,Comendador Gomes, 2 773
+MG,31,17009,Comercinho, 6 660
+MG,31,17108,Conceição da Aparecida, 10 371
+MG,31,17207,Conceição das Pedras, 2 772
+MG,31,17306,Conceição das Alagoas, 28 381
+MG,31,17405,Conceição de Ipanema, 4 409
+MG,31,17504,Conceição do Mato Dentro, 23 163
+MG,31,17603,Conceição do Pará, 5 415
+MG,31,17702,Conceição do Rio Verde, 12 541
+MG,31,17801,Conceição dos Ouros, 10 880
+MG,31,17836,Cônego Marinho, 7 237
+MG,31,17876,Confins, 7 350
+MG,31,17900,Congonhal, 11 083
+MG,31,18007,Congonhas, 52 890
+MG,31,18106,Congonhas do Norte, 4 831
+MG,31,18205,Conquista, 6 694
+MG,31,18304,Conselheiro Lafaiete, 131 621
+MG,31,18403,Conselheiro Pena, 20 824
+MG,31,18502,Consolação, 1 563
+MG,31,18601,Contagem, 621 863
+MG,31,18700,Coqueiral, 9 023
+MG,31,18809,Coração de Jesus, 25 377
+MG,31,18908,Cordisburgo, 7 547
+MG,31,19005,Cordislândia, 3 200
+MG,31,19104,Corinto, 23 532
+MG,31,19203,Coroaci, 10 884
+MG,31,19302,Coromandel, 28 894
+MG,31,19401,Coronel Fabriciano, 104 736
+MG,31,19500,Coronel Murta, 8 200
+MG,31,19609,Coronel Pacheco, 2 762
+MG,31,19708,Coronel Xavier Chaves, 3 486
+MG,31,19807,Córrego Danta, 2 960
+MG,31,19906,Córrego do Bom Jesus, 4 272
+MG,31,19955,Córrego Fundo, 6 133
+MG,31,20003,Córrego Novo, 2 875
+MG,31,20102,Couto de Magalhães de Minas, 4 245
+MG,31,20151,Crisólita, 5 265
+MG,31,20201,Cristais, 12 197
+MG,31,20300,Cristália, 5 121
+MG,31,20409,Cristiano Otoni, 4 667
+MG,31,20508,Cristina, 10 374
+MG,31,20607,Crucilândia, 5 434
+MG,31,20706,Cruzeiro da Fortaleza, 3 521
+MG,31,20805,Cruzília, 15 362
+MG,31,20839,Cuparaque, 3 983
+MG,31,20870,Curral de Dentro, 7 406
+MG,31,20904,Curvelo, 80 665
+MG,31,21001,Datas, 5 465
+MG,31,21100,Delfim Moreira, 7 952
+MG,31,21209,Delfinópolis, 8 393
+MG,31,21258,Delta, 10 494
+MG,31,21308,Descoberto, 4 928
+MG,31,21407,Desterro de Entre Rios, 7 653
+MG,31,21506,Desterro do Melo, 2 994
+MG,31,21605,Diamantina, 47 702
+MG,31,21704,Diogo de Vasconcelos, 3 549
+MG,31,21803,Dionísio, 6 847
+MG,31,21902,Divinésia, 4 226
+MG,31,22009,Divino, 20 706
+MG,31,22108,Divino das Laranjeiras, 4 178
+MG,31,22207,Divinolândia de Minas, 6 516
+MG,31,22306,Divinópolis, 231 091
+MG,31,22355,Divisa Alegre, 6 321
+MG,31,22405,Divisa Nova, 5 851
+MG,31,22454,Divisópolis, 10 213
+MG,31,22470,Dom Bosco, 3 697
+MG,31,22504,Dom Cavati, 4 904
+MG,31,22603,Dom Joaquim, 4 899
+MG,31,22702,Dom Silvério, 5 228
+MG,31,22801,Dom Viçoso, 3 095
+MG,31,22900,Dona Euzébia, 6 093
+MG,31,23007,Dores de Campos, 10 007
+MG,31,23106,Dores de Guanhães, 5 029
+MG,31,23205,Dores do Indaiá, 12 630
+MG,31,23304,Dores do Turvo, 4 987
+MG,31,23403,Doresópolis, 1 461
+MG,31,23502,Douradoquara, 1 829
+MG,31,23528,Durandé, 7 817
+MG,31,23601,Elói Mendes, 26 336
+MG,31,23700,Engenheiro Caldas, 13 622
+MG,31,23809,Engenheiro Navarro, 6 354
+MG,31,23858,Entre Folhas, 5 179
+MG,31,23908,Entre Rios de Minas, 14 746
+MG,31,24005,Ervália, 20 255
+MG,31,24104,Esmeraldas, 85 598
+MG,31,24203,Espera Feliz, 24 102
+MG,31,24302,Espinosa, 30 443
+MG,31,24401,Espírito Santo do Dourado, 6 611
+MG,31,24500,Estiva, 11 502
+MG,31,24609,Estrela Dalva, 2 186
+MG,31,24708,Estrela do Indaiá, 2 772
+MG,31,24807,Estrela do Sul, 6 840
+MG,31,24906,Eugenópolis, 10 801
+MG,31,25002,Ewbank da Câmara, 3 875
+MG,31,25101,Extrema, 53 482
+MG,31,25200,Fama, 2 578
+MG,31,25309,Faria Lemos, 3 188
+MG,31,25408,Felício dos Santos, 5 133
+MG,31,25507,São Gonçalo do Rio Preto, 3 032
+MG,31,25606,Felisburgo, 6 489
+MG,31,25705,Felixlândia, 13 978
+MG,31,25804,Fernandes Tourinho, 2 789
+MG,31,25903,Ferros, 9 590
+MG,31,25952,Fervedouro, 10 445
+MG,31,26000,Florestal, 8 045
+MG,31,26109,Formiga, 68 248
+MG,31,26208,Formoso, 7 949
+MG,31,26307,Fortaleza de Minas, 3 477
+MG,31,26406,Fortuna de Minas, 3 093
+MG,31,26505,Francisco Badaró, 7 366
+MG,31,26604,Francisco Dumont, 4 503
+MG,31,26703,Francisco Sá, 23 476
+MG,31,26752,Franciscópolis, 5 034
+MG,31,26802,Frei Gaspar, 5 640
+MG,31,26901,Frei Inocêncio, 8 226
+MG,31,26950,Frei Lagonegro, 3 391
+MG,31,27008,Fronteira, 14 540
+MG,31,27057,Fronteira dos Vales, 4 345
+MG,31,27073,Fruta de Leite, 4 647
+MG,31,27107,Frutal, 58 588
+MG,31,27206,Funilândia, 4 686
+MG,31,27305,Galiléia, 6 222
+MG,31,27339,Gameleiras, 4 793
+MG,31,27354,Glaucilândia, 2 928
+MG,31,27370,Goiabeira, 2 830
+MG,31,27388,Goianá, 4 053
+MG,31,27404,Gonçalves, 4 727
+MG,31,27503,Gonzaga, 5 230
+MG,31,27602,Gouveia, 11 331
+MG,31,27701,Governador Valadares, 257 171
+MG,31,27800,Grão Mogol, 13 901
+MG,31,27909,Grupiara, 1 392
+MG,31,28006,Guanhães, 32 244
+MG,31,28105,Guapé, 13 772
+MG,31,28204,Guaraciaba, 9 753
+MG,31,28253,Guaraciama, 5 051
+MG,31,28303,Guaranésia, 19 150
+MG,31,28402,Guarani, 7 714
+MG,31,28501,Guarará, 3 149
+MG,31,28600,Guarda-Mor, 6 539
+MG,31,28709,Guaxupé, 50 911
+MG,31,28808,Guidoval, 7 131
+MG,31,28907,Guimarânia, 8 478
+MG,31,29004,Guiricema, 7 778
+MG,31,29103,Gurinhatã, 5 192
+MG,31,29202,Heliodora, 6 134
+MG,31,29301,Iapu, 12 030
+MG,31,29400,Ibertioga, 5 198
+MG,31,29509,Ibiá, 22 229
+MG,31,29608,Ibiaí, 6 286
+MG,31,29657,Ibiracatu, 5 081
+MG,31,29707,Ibiraci, 10 948
+MG,31,29806,Ibirité, 170 537
+MG,31,29905,Ibitiúra de Minas, 3 365
+MG,31,30002,Ibituruna, 2 698
+MG,31,30051,Icaraí de Minas, 10 677
+MG,31,30101,Igarapé, 45 847
+MG,31,30200,Igaratinga, 10 830
+MG,31,30309,Iguatama, 6 826
+MG,31,30408,Ijaci, 7 003
+MG,31,30507,Ilicínea, 12 741
+MG,31,30556,Imbé de Minas, 6 986
+MG,31,30606,Inconfidentes, 7 301
+MG,31,30655,Indaiabira, 6 346
+MG,31,30705,Indianópolis, 6 171
+MG,31,30804,Ingaí, 2 580
+MG,31,30903,Inhapim, 22 692
+MG,31,31000,Inhaúma, 6 239
+MG,31,31109,Inimutaba, 7 371
+MG,31,31158,Ipaba, 17 136
+MG,31,31208,Ipanema, 19 522
+MG,31,31307,Ipatinga, 227 731
+MG,31,31406,Ipiaçu, 3 775
+MG,31,31505,Ipuiúna, 9 135
+MG,31,31604,Iraí de Minas, 7 180
+MG,31,31703,Itabira, 113 343
+MG,31,31802,Itabirinha, 10 362
+MG,31,31901,Itabirito, 53 365
+MG,31,32008,Itacambira, 4 252
+MG,31,32107,Itacarambi, 17 208
+MG,31,32206,Itaguara, 13 846
+MG,31,32305,Itaipé, 10 463
+MG,31,32404,Itajubá, 93 073
+MG,31,32503,Itamarandiba, 32 948
+MG,31,32602,Itamarati de Minas, 3 690
+MG,31,32701,Itambacuri, 21 042
+MG,31,32800,Itambé do Mato Dentro, 2 142
+MG,31,32909,Itamogi, 10 770
+MG,31,33006,Itamonte, 14 786
+MG,31,33105,Itanhandu, 15 236
+MG,31,33204,Itanhomi, 11 128
+MG,31,33303,Itaobim, 19 151
+MG,31,33402,Itapagipe, 13 690
+MG,31,33501,Itapecerica, 21 046
+MG,31,33600,Itapeva, 12 692
+MG,31,33709,Itatiaiuçu, 12 966
+MG,31,33758,Itaú de Minas, 14 406
+MG,31,33808,Itaúna, 97 669
+MG,31,33907,Itaverava, 5 642
+MG,31,34004,Itinga, 13 745
+MG,31,34103,Itueta, 6 055
+MG,31,34202,Ituiutaba, 102 217
+MG,31,34301,Itumirim, 6 638
+MG,31,34400,Iturama, 38 295
+MG,31,34509,Itutinga, 4 217
+MG,31,34608,Jaboticatubas, 20 406
+MG,31,34707,Jacinto, 11 042
+MG,31,34806,Jacuí, 7 495
+MG,31,34905,Jacutinga, 25 525
+MG,31,35001,Jaguaraçu, 3 092
+MG,31,35050,Jaíba, 37 660
+MG,31,35076,Jampruca, 4 296
+MG,31,35100,Janaúba, 70 699
+MG,31,35209,Januária, 65 150
+MG,31,35308,Japaraíba, 4 506
+MG,31,35357,Japonvar, 8 127
+MG,31,35407,Jeceaba, 6 197
+MG,31,35456,Jenipapo de Minas, 6 100
+MG,31,35506,Jequeri, 12 419
+MG,31,35605,Jequitaí, 6 484
+MG,31,35704,Jequitibá, 5 883
+MG,31,35803,Jequitinhonha, 24 007
+MG,31,35902,Jesuânia, 5 138
+MG,31,36009,Joaíma, 13 888
+MG,31,36108,Joanésia, 4 329
+MG,31,36207,João Monlevade, 80 187
+MG,31,36306,João Pinheiro, 46 801
+MG,31,36405,Joaquim Felício, 3 854
+MG,31,36504,Jordânia, 10 304
+MG,31,36520,José Gonçalves de Minas, 3 969
+MG,31,36553,José Raydan, 4 268
+MG,31,36579,Josenópolis, 3 630
+MG,31,36603,Nova União, 5 909
+MG,31,36652,Juatuba, 30 716
+MG,31,36702,Juiz de Fora, 540 756
+MG,31,36801,Juramento, 3 768
+MG,31,36900,Juruaia, 11 084
+MG,31,36959,Juvenília, 5 789
+MG,31,37007,Ladainha, 14 383
+MG,31,37106,Lagamar, 6 631
+MG,31,37205,Lagoa da Prata, 51 412
+MG,31,37304,Lagoa dos Patos, 3 313
+MG,31,37403,Lagoa Dourada, 12 769
+MG,31,37502,Lagoa Formosa, 18 904
+MG,31,37536,Lagoa Grande, 8 969
+MG,31,37601,Lagoa Santa, 75 145
+MG,31,37700,Lajinha, 20 835
+MG,31,37809,Lambari, 20 414
+MG,31,37908,Lamim, 3 184
+MG,31,38005,Laranjal, 5 963
+MG,31,38104,Lassance, 7 124
+MG,31,38203,Lavras, 104 761
+MG,31,38302,Leandro Ferreira, 3 199
+MG,31,38351,Leme do Prado, 4 341
+MG,31,38401,Leopoldina, 51 145
+MG,31,38500,Liberdade, 4 737
+MG,31,38609,Lima Duarte, 17 221
+MG,31,38625,Limeira do Oeste, 8 687
+MG,31,38658,Lontra, 8 790
+MG,31,38674,Luisburgo, 6 956
+MG,31,38682,Luislândia, 6 210
+MG,31,38708,Luminárias, 5 586
+MG,31,38807,Luz, 17 875
+MG,31,38906,Machacalis, 6 487
+MG,31,39003,Machado, 37 684
+MG,31,39102,Madre de Deus de Minas, 5 191
+MG,31,39201,Malacacheta, 17 516
+MG,31,39250,Mamonas, 5 997
+MG,31,39300,Manga, 18 886
+MG,31,39409,Manhuaçu, 91 886
+MG,31,39508,Manhumirim, 20 613
+MG,31,39607,Mantena, 26 535
+MG,31,39706,Maravilhas, 7 333
+MG,31,39805,Mar de Espanha, 12 721
+MG,31,39904,Maria da Fé, 14 247
+MG,31,40001,Mariana, 61 387
+MG,31,40100,Marilac, 4 224
+MG,31,40159,Mário Campos, 15 900
+MG,31,40209,Maripá de Minas, 3 387
+MG,31,40308,Marliéria, 4 592
+MG,31,40407,Marmelópolis, 3 200
+MG,31,40506,Martinho Campos, 14 003
+MG,31,40530,Martins Soares, 8 396
+MG,31,40555,Mata Verde, 9 112
+MG,31,40605,Materlândia, 3 963
+MG,31,40704,Mateus Leme, 37 841
+MG,31,40803,Matias Barbosa, 14 121
+MG,31,40852,Matias Cardoso, 8 895
+MG,31,40902,Matipó, 18 552
+MG,31,41009,Mato Verde, 12 038
+MG,31,41108,Matozinhos, 37 618
+MG,31,41207,Matutina, 3 814
+MG,31,41306,Medeiros, 3 900
+MG,31,41405,Medina, 20 156
+MG,31,41504,Mendes Pimentel, 5 606
+MG,31,41603,Mercês, 10 373
+MG,31,41702,Mesquita, 5 040
+MG,31,41801,Minas Novas, 24 405
+MG,31,41900,Minduri, 3 741
+MG,31,42007,Mirabela, 13 651
+MG,31,42106,Miradouro, 8 968
+MG,31,42205,Miraí, 13 633
+MG,31,42254,Miravânia, 3 985
+MG,31,42304,Moeda, 5 125
+MG,31,42403,Moema, 7 548
+MG,31,42502,Monjolos, 2 169
+MG,31,42601,Monsenhor Paulo, 8 340
+MG,31,42700,Montalvânia, 14 060
+MG,31,42809,Monte Alegre de Minas, 20 170
+MG,31,42908,Monte Azul, 20 328
+MG,31,43005,Monte Belo, 13 046
+MG,31,43104,Monte Carmelo, 47 692
+MG,31,43153,Monte Formoso, 4 381
+MG,31,43203,Monte Santo de Minas, 20 890
+MG,31,43302,Montes Claros, 414 240
+MG,31,43401,Monte Sião, 24 089
+MG,31,43450,Montezuma, 6 888
+MG,31,43500,Morada Nova de Minas, 9 067
+MG,31,43609,Morro da Garça, 2 411
+MG,31,43708,Morro do Pilar, 3 133
+MG,31,43807,Munhoz, 7 451
+MG,31,43906,Muriaé, 104 108
+MG,31,44003,Mutum, 27 635
+MG,31,44102,Muzambinho, 21 891
+MG,31,44201,Nacip Raydan, 2 459
+MG,31,44300,Nanuque, 35 038
+MG,31,44359,Naque, 6 303
+MG,31,44375,Natalândia, 3 520
+MG,31,44409,Natércia, 4 691
+MG,31,44508,Nazareno, 8 179
+MG,31,44607,Nepomuceno, 25 018
+MG,31,44656,Ninheira, 10 588
+MG,31,44672,Nova Belém, 3 151
+MG,31,44706,Nova Era, 17 438
+MG,31,44805,Nova Lima, 111 697
+MG,31,44904,Nova Módica, 3 663
+MG,31,45000,Nova Ponte, 14 598
+MG,31,45059,Nova Porteirinha, 6 706
+MG,31,45109,Nova Resende, 16 387
+MG,31,45208,Nova Serrana, 105 552
+MG,31,45307,Novo Cruzeiro, 26 975
+MG,31,45356,Novo Oriente de Minas, 10 275
+MG,31,45372,Novorizonte, 4 571
+MG,31,45406,Olaria, 1 945
+MG,31,45455,Olhos-d'Água, 5 385
+MG,31,45505,Olímpio Noronha, 2 555
+MG,31,45604,Oliveira, 39 262
+MG,31,45703,Oliveira Fortes, 2 027
+MG,31,45802,Onça de Pitangui, 2 969
+MG,31,45851,Oratórios, 4 917
+MG,31,45877,Orizânia, 8 437
+MG,31,45901,Ouro Branco, 38 724
+MG,31,46008,Ouro Fino, 32 094
+MG,31,46107,Ouro Preto, 74 821
+MG,31,46206,Ouro Verde de Minas, 5 757
+MG,31,46255,Padre Carvalho, 5 058
+MG,31,46305,Padre Paraíso, 17 334
+MG,31,46404,Paineiras, 4 224
+MG,31,46503,Pains, 8 142
+MG,31,46552,Pai Pedro, 5 551
+MG,31,46602,Paiva, 1 474
+MG,31,46701,Palma, 5 707
+MG,31,46750,Palmópolis, 6 301
+MG,31,46909,Papagaios, 13 920
+MG,31,47006,Paracatu, 94 023
+MG,31,47105,Pará de Minas, 97 139
+MG,31,47204,Paraguaçu, 21 723
+MG,31,47303,Paraisópolis, 20 445
+MG,31,47402,Paraopeba, 24 107
+MG,31,47501,Passabém, 1 600
+MG,31,47600,Passa Quatro, 15 515
+MG,31,47709,Passa Tempo, 8 473
+MG,31,47808,Passa Vinte, 2 233
+MG,31,47907,Passos, 111 939
+MG,31,47956,Patis, 4 837
+MG,31,48004,Patos de Minas, 159 235
+MG,31,48103,Patrocínio, 89 826
+MG,31,48202,Patrocínio do Muriaé, 5 576
+MG,31,48301,Paula Cândido, 8 659
+MG,31,48400,Paulistas, 4 389
+MG,31,48509,Pavão, 8 047
+MG,31,48608,Peçanha, 17 446
+MG,31,48707,Pedra Azul, 24 410
+MG,31,48756,Pedra Bonita, 7 320
+MG,31,48806,Pedra do Anta, 3 311
+MG,31,48905,Pedra do Indaiá, 4 112
+MG,31,49002,Pedra Dourada, 2 757
+MG,31,49101,Pedralva, 10 760
+MG,31,49150,Pedras de Maria da Cruz, 10 433
+MG,31,49200,Pedrinópolis, 3 344
+MG,31,49309,Pedro Leopoldo, 62 580
+MG,31,49408,Pedro Teixeira, 1 810
+MG,31,49507,Pequeri, 3 351
+MG,31,49606,Pequi, 4 155
+MG,31,49705,Perdigão, 12 268
+MG,31,49804,Perdizes, 17 151
+MG,31,49903,Perdões, 21 384
+MG,31,49952,Periquito, 6 553
+MG,31,50000,Pescador, 3 570
+MG,31,50109,Piau, 2 796
+MG,31,50158,Piedade de Caratinga, 8 529
+MG,31,50208,Piedade de Ponte Nova, 3 976
+MG,31,50307,Piedade do Rio Grande, 4 604
+MG,31,50406,Piedade dos Gerais, 5 019
+MG,31,50505,Pimenta, 8 563
+MG,31,50539,Pingo-d'Água, 4 706
+MG,31,50570,Pintópolis, 7 084
+MG,31,50604,Piracema, 6 700
+MG,31,50703,Pirajuba, 5 537
+MG,31,50802,Piranga, 17 018
+MG,31,50901,Piranguçu, 6 041
+MG,31,51008,Piranguinho, 9 120
+MG,31,51107,Pirapetinga, 11 077
+MG,31,51206,Pirapora, 55 606
+MG,31,51305,Piraúba, 11 610
+MG,31,51404,Pitangui, 26 685
+MG,31,51503,Piumhi, 36 062
+MG,31,51602,Planura, 11 145
+MG,31,51701,Poço Fundo, 16 390
+MG,31,51800,Poços de Caldas, 163 742
+MG,31,51909,Pocrane, 8 350
+MG,31,52006,Pompéu, 31 047
+MG,31,52105,Ponte Nova, 57 776
+MG,31,52131,Ponto Chique, 3 747
+MG,31,52170,Ponto dos Volantes, 10 883
+MG,31,52204,Porteirinha, 37 438
+MG,31,52303,Porto Firme, 10 569
+MG,31,52402,Poté, 13 666
+MG,31,52501,Pouso Alegre, 152 217
+MG,31,52600,Pouso Alto, 6 566
+MG,31,52709,Prados, 9 048
+MG,31,52808,Prata, 28 342
+MG,31,52907,Pratápolis, 8 406
+MG,31,53004,Pratinha, 3 559
+MG,31,53103,Presidente Bernardes, 4 850
+MG,31,53202,Presidente Juscelino, 3 465
+MG,31,53301,Presidente Kubitschek, 3 071
+MG,31,53400,Presidente Olegário, 18 765
+MG,31,53509,Alto Jequitibá, 8 397
+MG,31,53608,Prudente de Morais, 11 466
+MG,31,53707,Quartel Geral, 3 179
+MG,31,53806,Queluzito, 1 770
+MG,31,53905,Raposos, 16 279
+MG,31,54002,Raul Soares, 23 423
+MG,31,54101,Recreio, 11 007
+MG,31,54150,Reduto, 7 848
+MG,31,54200,Resende Costa, 11 230
+MG,31,54309,Resplendor, 17 226
+MG,31,54408,Ressaquinha, 4 548
+MG,31,54457,Riachinho, 6 863
+MG,31,54507,Riacho dos Machados, 8 756
+MG,31,54606,Ribeirão das Neves, 329 794
+MG,31,54705,Ribeirão Vermelho, 4 080
+MG,31,54804,Rio Acima, 10 261
+MG,31,54903,Rio Casca, 12 789
+MG,31,55009,Rio Doce, 2 484
+MG,31,55108,Rio do Prado, 4 639
+MG,31,55207,Rio Espera, 5 429
+MG,31,55306,Rio Manso, 5 568
+MG,31,55405,Rio Novo, 8 518
+MG,31,55504,Rio Paranaíba, 14 532
+MG,31,55603,Rio Pardo de Minas, 28 271
+MG,31,55702,Rio Piracicaba, 14 631
+MG,31,55801,Rio Pomba, 17 443
+MG,31,55900,Rio Preto, 5 141
+MG,31,56007,Rio Vermelho, 12 641
+MG,31,56106,Ritápolis, 4 994
+MG,31,56205,Rochedo de Minas, 2 291
+MG,31,56304,Rodeiro, 8 664
+MG,31,56403,Romaria, 3 386
+MG,31,56452,Rosário da Limeira, 4 734
+MG,31,56502,Rubelita, 5 679
+MG,31,56601,Rubim, 10 298
+MG,31,56700,Sabará, 129 380
+MG,31,56809,Sabinópolis, 14 240
+MG,31,56908,Sacramento, 26 670
+MG,31,57005,Salinas, 40 178
+MG,31,57104,Salto da Divisa, 6 110
+MG,31,57203,Santa Bárbara, 30 466
+MG,31,57252,Santa Bárbara do Leste, 8 458
+MG,31,57278,Santa Bárbara do Monte Verde, 3 095
+MG,31,57302,Santa Bárbara do Tugúrio, 4 208
+MG,31,57336,Santa Cruz de Minas, 8 109
+MG,31,57377,Santa Cruz de Salinas, 3 910
+MG,31,57401,Santa Cruz do Escalvado, 4 673
+MG,31,57500,Santa Efigênia de Minas, 4 039
+MG,31,57609,Santa Fé de Minas, 3 522
+MG,31,57658,Santa Helena de Minas, 5 938
+MG,31,57708,Santa Juliana, 15 734
+MG,31,57807,Santa Luzia, 219 132
+MG,31,57906,Santa Margarida, 16 395
+MG,31,58003,Santa Maria de Itabira, 10 485
+MG,31,58102,Santa Maria do Salto, 4 755
+MG,31,58201,Santa Maria do Suaçuí, 12 788
+MG,31,58300,Santana da Vargem, 6 691
+MG,31,58409,Santana de Cataguases, 3 489
+MG,31,58508,Santana de Pirapama, 7 030
+MG,31,58607,Santana do Deserto, 3 747
+MG,31,58706,Santana do Garambéu, 2 137
+MG,31,58805,Santana do Jacaré, 4 214
+MG,31,58904,Santana do Manhuaçu, 8 987
+MG,31,58953,Santana do Paraíso, 44 800
+MG,31,59001,Santana do Riacho, 5 313
+MG,31,59100,Santana dos Montes, 3 469
+MG,31,59209,Santa Rita de Caldas, 8 460
+MG,31,59308,Santa Rita de Jacutinga, 4 755
+MG,31,59357,Santa Rita de Minas, 6 773
+MG,31,59407,Santa Rita de Ibitipoca, 3 301
+MG,31,59506,Santa Rita do Itueto, 5 826
+MG,31,59605,Santa Rita do Sapucaí, 40 635
+MG,31,59704,Santa Rosa da Serra, 3 382
+MG,31,59803,Santa Vitória, 20 973
+MG,31,59902,Santo Antônio do Amparo, 17 285
+MG,31,60009,Santo Antônio do Aventureiro, 3 769
+MG,31,60108,Santo Antônio do Grama, 4 229
+MG,31,60207,Santo Antônio do Itambé, 3 915
+MG,31,60306,Santo Antônio do Jacinto, 10 327
+MG,31,60405,Santo Antônio do Monte, 27 295
+MG,31,60454,Santo Antônio do Retiro, 6 629
+MG,31,60504,Santo Antônio do Rio Abaixo, 1 808
+MG,31,60603,Santo Hipólito, 2 717
+MG,31,60702,Santos Dumont, 42 406
+MG,31,60801,São Bento Abade, 4 713
+MG,31,60900,São Brás do Suaçuí, 3 989
+MG,31,60959,São Domingos das Dores, 5 626
+MG,31,61007,São Domingos do Prata, 17 392
+MG,31,61056,São Félix de Minas, 3 200
+MG,31,61106,São Francisco, 52 762
+MG,31,61205,São Francisco de Paula, 6 187
+MG,31,61304,São Francisco de Sales, 5 732
+MG,31,61403,São Francisco do Glória, 4 800
+MG,31,61502,São Geraldo, 10 282
+MG,31,61601,São Geraldo da Piedade, 3 305
+MG,31,61650,São Geraldo do Baixio, 3 143
+MG,31,61700,São Gonçalo do Abaeté, 7 375
+MG,31,61809,São Gonçalo do Pará, 11 770
+MG,31,61908,São Gonçalo do Rio Abaixo, 11 850
+MG,31,62005,São Gonçalo do Sapucaí, 23 959
+MG,31,62104,São Gotardo, 40 910
+MG,31,62203,São João Batista do Glória, 7 652
+MG,31,62252,São João da Lagoa, 4 822
+MG,31,62302,São João da Mata, 2 914
+MG,31,62401,São João da Ponte, 23 930
+MG,31,62450,São João das Missões, 13 024
+MG,31,62500,São João del Rei, 90 225
+MG,31,62559,São João do Manhuaçu, 11 246
+MG,31,62575,São João do Manteninha, 5 331
+MG,31,62609,São João do Oriente, 7 070
+MG,31,62658,São João do Pacuí, 3 972
+MG,31,62708,São João do Paraíso, 23 910
+MG,31,62807,São João Evangelista, 15 315
+MG,31,62906,São João Nepomuceno, 25 565
+MG,31,62922,São Joaquim de Bicas, 34 348
+MG,31,62948,São José da Barra, 7 793
+MG,31,62955,São José da Lapa, 26 090
+MG,31,63003,São José da Safira, 3 806
+MG,31,63102,São José da Varginha, 4 536
+MG,31,63201,São José do Alegre, 4 133
+MG,31,63300,São José do Divino, 3 464
+MG,31,63409,São José do Goiabal, 5 396
+MG,31,63508,São José do Jacuri, 6 197
+MG,31,63607,São José do Mantimento, 2 753
+MG,31,63706,São Lourenço, 44 798
+MG,31,63805,São Miguel do Anta, 6 334
+MG,31,63904,São Pedro da União, 4 885
+MG,31,64001,São Pedro dos Ferros, 7 166
+MG,31,64100,São Pedro do Suaçuí, 5 103
+MG,31,64209,São Romão, 10 315
+MG,31,64308,São Roque de Minas, 7 129
+MG,31,64407,São Sebastião da Bela Vista, 6 387
+MG,31,64431,São Sebastião da Vargem Alegre, 3 113
+MG,31,64472,São Sebastião do Anta, 6 194
+MG,31,64506,São Sebastião do Maranhão, 10 079
+MG,31,64605,São Sebastião do Oeste, 8 815
+MG,31,64704,São Sebastião do Paraíso, 71 796
+MG,31,64803,São Sebastião do Rio Preto, 1 259
+MG,31,64902,São Sebastião do Rio Verde, 2 300
+MG,31,65008,São Tiago, 11 192
+MG,31,65107,São Tomás de Aquino, 6 740
+MG,31,65206,São Tomé das Letras, 6 904
+MG,31,65305,São Vicente de Minas, 6 804
+MG,31,65404,Sapucaí-Mirim, 6 311
+MG,31,65503,Sardoá, 5 104
+MG,31,65537,Sarzedo, 36 844
+MG,31,65552,Setubinha, 9 917
+MG,31,65560,Sem-Peixe, 2 433
+MG,31,65578,Senador Amaral, 6 206
+MG,31,65602,Senador Cortes, 2 240
+MG,31,65701,Senador Firmino, 7 716
+MG,31,65800,Senador José Bento, 2 068
+MG,31,65909,Senador Modestino Gonçalves, 4 008
+MG,31,66006,Senhora de Oliveira, 5 483
+MG,31,66105,Senhora do Porto, 3 067
+MG,31,66204,Senhora dos Remédios, 10 384
+MG,31,66303,Sericita, 7 345
+MG,31,66402,Seritinga, 1 819
+MG,31,66501,Serra Azul de Minas, 3 792
+MG,31,66600,Serra da Saudade,  833
+MG,31,66709,Serra dos Aimorés, 6 944
+MG,31,66808,Serra do Salitre, 11 801
+MG,31,66907,Serrania, 7 621
+MG,31,66956,Serranópolis de Minas, 4 399
+MG,31,67004,Serranos, 1 990
+MG,31,67103,Serro, 21 952
+MG,31,67202,Sete Lagoas, 227 397
+MG,31,67301,Silveirânia, 2 323
+MG,31,67400,Silvianópolis, 6 179
+MG,31,67509,Simão Pereira, 2 947
+MG,31,67608,Simonésia, 19 750
+MG,31,67707,Sobrália, 5 137
+MG,31,67806,Soledade de Minas, 5 613
+MG,31,67905,Tabuleiro, 4 014
+MG,31,68002,Taiobeiras, 33 050
+MG,31,68051,Taparuba, 3 387
+MG,31,68101,Tapira, 4 118
+MG,31,68200,Tapiraí, 1 690
+MG,31,68309,Taquaraçu de Minas, 4 224
+MG,31,68408,Tarumirim, 14 709
+MG,31,68507,Teixeiras, 12 255
+MG,31,68606,Teófilo Otoni, 137 418
+MG,31,68705,Timóteo, 81 579
+MG,31,68804,Tiradentes, 7 744
+MG,31,68903,Tiros, 7 883
+MG,31,69000,Tocantins, 16 185
+MG,31,69059,Tocos do Moji, 3 826
+MG,31,69109,Toledo, 7 214
+MG,31,69208,Tombos, 8 609
+MG,31,69307,Três Corações, 75 485
+MG,31,69356,Três Marias, 28 895
+MG,31,69406,Três Pontas, 55 255
+MG,31,69505,Tumiritinga, 5 886
+MG,31,69604,Tupaciguara, 25 470
+MG,31,69703,Turmalina, 20 000
+MG,31,69802,Turvolândia, 4 935
+MG,31,69901,Ubá, 103 365
+MG,31,70008,Ubaí, 11 708
+MG,31,70057,Ubaporanga, 13 017
+MG,31,70107,Uberaba, 337 836
+MG,31,70206,Uberlândia, 713 224
+MG,31,70305,Umburatiba, 2 684
+MG,31,70404,Unaí, 86 619
+MG,31,70438,União de Minas, 3 828
+MG,31,70479,Uruana de Minas, 3 282
+MG,31,70503,Urucânia, 10 600
+MG,31,70529,Urucuia, 17 479
+MG,31,70578,Vargem Alegre, 5 780
+MG,31,70602,Vargem Bonita, 2 158
+MG,31,70651,Vargem Grande do Rio Pardo, 4 633
+MG,31,70701,Varginha, 136 467
+MG,31,70750,Varjão de Minas, 6 969
+MG,31,70800,Várzea da Palma, 33 744
+MG,31,70909,Varzelândia, 18 840
+MG,31,71006,Vazante, 19 975
+MG,31,71030,Verdelândia, 7 672
+MG,31,71071,Veredinha, 5 181
+MG,31,71105,Veríssimo, 3 411
+MG,31,71154,Vermelho Novo, 4 899
+MG,31,71204,Vespasiano, 129 246
+MG,31,71303,Viçosa, 76 430
+MG,31,71402,Vieiras, 3 700
+MG,31,71501,Mathias Lobato, 3 038
+MG,31,71600,Virgem da Lapa, 11 804
+MG,31,71709,Virgínia, 8 908
+MG,31,71808,Virginópolis, 10 314
+MG,31,71907,Virgolândia, 4 552
+MG,31,72004,Visconde do Rio Branco, 39 160
+MG,31,72103,Volta Grande, 4 443
+MG,31,72202,Wenceslau Braz, 2 356
+ES,32,00102,Afonso Cláudio, 30 684
+ES,32,00136,Águia Branca, 9 711
+ES,32,00169,Água Doce do Norte, 12 042
+ES,32,00201,Alegre, 29 177
+ES,32,00300,Alfredo Chaves, 13 836
+ES,32,00359,Alto Rio Novo, 7 434
+ES,32,00409,Anchieta, 29 984
+ES,32,00508,Apiacá, 7 223
+ES,32,00607,Aracruz, 94 765
+ES,32,00706,Atílio Vivácqua, 10 540
+ES,32,00805,Baixo Guandu, 30 674
+ES,32,00904,Barra de São Francisco, 42 498
+ES,32,01001,Boa Esperança, 13 608
+ES,32,01100,Bom Jesus do Norte, 10 254
+ES,32,01159,Brejetuba, 12 985
+ES,32,01209,Cachoeiro de Itapemirim, 185 786
+ES,32,01308,Cariacica, 353 491
+ES,32,01407,Castelo, 36 930
+ES,32,01506,Colatina, 120 033
+ES,32,01605,Conceição da Barra, 27 458
+ES,32,01704,Conceição do Castelo, 11 937
+ES,32,01803,Divino de São Lourenço, 5 083
+ES,32,01902,Domingos Martins, 35 416
+ES,32,02009,Dores do Rio Preto, 6 596
+ES,32,02108,Ecoporanga, 21 992
+ES,32,02207,Fundão, 18 014
+ES,32,02256,Governador Lindenberg, 11 009
+ES,32,02306,Guaçuí, 29 358
+ES,32,02405,Guarapari, 124 656
+ES,32,02454,Ibatiba, 25 380
+ES,32,02504,Ibiraçu, 11 723
+ES,32,02553,Ibitirama, 9 520
+ES,32,02603,Iconha, 12 326
+ES,32,02652,Irupi, 13 710
+ES,32,02702,Itaguaçu, 13 589
+ES,32,02801,Itapemirim, 39 832
+ES,32,02900,Itarana, 10 597
+ES,32,03007,Iúna, 28 590
+ES,32,03056,Jaguaré, 28 931
+ES,32,03106,Jerônimo Monteiro, 11 575
+ES,32,03130,João Neiva, 14 079
+ES,32,03163,Laranja da Terra, 11 094
+ES,32,03205,Linhares, 166 786
+ES,32,03304,Mantenópolis, 12 770
+ES,32,03320,Marataízes, 41 929
+ES,32,03346,Marechal Floriano, 17 641
+ES,32,03353,Marilândia, 12 387
+ES,32,03403,Mimoso do Sul, 24 475
+ES,32,03502,Montanha, 18 900
+ES,32,03601,Mucurici, 5 466
+ES,32,03700,Muniz Freire, 18 153
+ES,32,03809,Muqui, 13 745
+ES,32,03908,Nova Venécia, 49 065
+ES,32,04005,Pancas, 18 893
+ES,32,04054,Pedro Canário, 21 522
+ES,32,04104,Pinheiros, 23 915
+ES,32,04203,Piúma, 22 300
+ES,32,04252,Ponto Belo, 6 497
+ES,32,04302,Presidente Kennedy, 13 696
+ES,32,04351,Rio Bananal, 19 274
+ES,32,04401,Rio Novo do Sul, 11 069
+ES,32,04500,Santa Leopoldina, 13 106
+ES,32,04559,Santa Maria de Jetibá, 41 636
+ES,32,04609,Santa Teresa, 22 808
+ES,32,04658,São Domingos do Norte, 8 589
+ES,32,04708,São Gabriel da Palha, 32 252
+ES,32,04807,São José do Calçado, 10 878
+ES,32,04906,São Mateus, 123 752
+ES,32,04955,São Roque do Canaã, 10 886
+ES,32,05002,Serra, 520 653
+ES,32,05010,Sooretama, 26 502
+ES,32,05036,Vargem Alta, 19 563
+ES,32,05069,Venda Nova do Imigrante, 23 831
+ES,32,05101,Viana, 73 423
+ES,32,05150,Vila Pavão, 8 911
+ES,32,05176,Vila Valério, 13 728
+ES,32,05200,Vila Velha, 467 722
+ES,32,05309,Vitória, 322 869
+RJ,33,00100,Angra dos Reis, 167 434
+RJ,33,00159,Aperibé, 11 034
+RJ,33,00209,Araruama, 129 671
+RJ,33,00225,Areal, 11 828
+RJ,33,00233,Armação dos Búzios, 40 006
+RJ,33,00258,Arraial do Cabo, 30 986
+RJ,33,00308,Barra do Piraí, 92 883
+RJ,33,00407,Barra Mansa, 169 894
+RJ,33,00456,Belford Roxo, 483 087
+RJ,33,00506,Bom Jardim, 28 102
+RJ,33,00605,Bom Jesus do Itabapoana, 35 173
+RJ,33,00704,Cabo Frio, 222 161
+RJ,33,00803,Cachoeiras de Macacu, 56 943
+RJ,33,00902,Cambuci, 14 616
+RJ,33,00936,Carapebus, 13 847
+RJ,33,00951,Comendador Levy Gasparian, 8 741
+RJ,33,01009,Campos dos Goytacazes, 483 540
+RJ,33,01108,Cantagalo, 19 390
+RJ,33,01157,Cardoso Moreira, 12 958
+RJ,33,01207,Carmo, 17 198
+RJ,33,01306,Casimiro de Abreu, 46 110
+RJ,33,01405,Conceição de Macabu, 21 104
+RJ,33,01504,Cordeiro, 20 783
+RJ,33,01603,Duas Barras, 10 980
+RJ,33,01702,Duque de Caxias, 808 161
+RJ,33,01801,Engenheiro Paulo de Frontin, 12 242
+RJ,33,01850,Guapimirim, 51 696
+RJ,33,01876,Iguaba Grande, 27 920
+RJ,33,01900,Itaboraí, 224 267
+RJ,33,02007,Itaguaí, 116 841
+RJ,33,02056,Italva, 14 073
+RJ,33,02106,Itaocara, 22 919
+RJ,33,02205,Itaperuna, 101 041
+RJ,33,02254,Itatiaia, 30 908
+RJ,33,02270,Japeri, 96 289
+RJ,33,02304,Laje do Muriaé, 7 336
+RJ,33,02403,Macaé, 246 391
+RJ,33,02452,Macuco, 5 415
+RJ,33,02502,Magé, 228 127
+RJ,33,02601,Mangaratiba, 41 220
+RJ,33,02700,Maricá, 197 277
+RJ,33,02809,Mendes, 17 502
+RJ,33,02858,Mesquita, 167 127
+RJ,33,02908,Miguel Pereira, 26 582
+RJ,33,03005,Miracema, 26 881
+RJ,33,03104,Natividade, 15 074
+RJ,33,03203,Nilópolis, 146 774
+RJ,33,03302,Niterói, 481 749
+RJ,33,03401,Nova Friburgo, 189 939
+RJ,33,03500,Nova Iguaçu, 785 867
+RJ,33,03609,Paracambi, 41 375
+RJ,33,03708,Paraíba do Sul, 42 063
+RJ,33,03807,Paraty, 45 243
+RJ,33,03856,Paty do Alferes, 29 619
+RJ,33,03906,Petrópolis, 278 881
+RJ,33,03955,Pinheiral, 24 298
+RJ,33,04003,Piraí, 27 474
+RJ,33,04102,Porciúncula, 17 288
+RJ,33,04110,Porto Real, 20 373
+RJ,33,04128,Quatis, 13 682
+RJ,33,04144,Queimados, 140 523
+RJ,33,04151,Quissamã, 22 393
+RJ,33,04201,Resende, 129 612
+RJ,33,04300,Rio Bonito, 56 276
+RJ,33,04409,Rio Claro, 17 401
+RJ,33,04508,Rio das Flores, 8 954
+RJ,33,04524,Rio das Ostras, 156 491
+RJ,33,04557,Rio de Janeiro,6 211 223
+RJ,33,04607,Santa Maria Madalena, 10 232
+RJ,33,04706,Santo Antônio de Pádua, 41 325
+RJ,33,04755,São Francisco de Itabapoana, 45 059
+RJ,33,04805,São Fidélis, 38 961
+RJ,33,04904,São Gonçalo, 896 744
+RJ,33,05000,São João da Barra, 36 573
+RJ,33,05109,São João de Meriti, 440 962
+RJ,33,05133,São José de Ubá, 7 070
+RJ,33,05158,São José do Vale do Rio Preto, 22 080
+RJ,33,05208,São Pedro da Aldeia, 104 029
+RJ,33,05307,São Sebastião do Alto, 7 750
+RJ,33,05406,Sapucaia, 17 729
+RJ,33,05505,Saquarema, 89 559
+RJ,33,05554,Seropédica, 80 596
+RJ,33,05604,Silva Jardim, 21 352
+RJ,33,05703,Sumidouro, 15 206
+RJ,33,05752,Tanguá, 31 086
+RJ,33,05802,Teresópolis, 165 123
+RJ,33,05901,Trajano de Moraes, 10 302
+RJ,33,06008,Três Rios, 78 346
+RJ,33,06107,Valença, 68 088
+RJ,33,06156,Varre-Sai, 10 207
+RJ,33,06206,Vassouras, 33 976
+RJ,33,06305,Volta Redonda, 261 563
+SP,35,00105,Adamantina, 34 687
+SP,35,00204,Adolfo, 4 351
+SP,35,00303,Aguaí, 32 072
+SP,35,00402,Águas da Prata, 7 369
+SP,35,00501,Águas de Lindóia, 17 930
+SP,35,00550,Águas de Santa Bárbara, 7 177
+SP,35,00600,Águas de São Pedro, 2 780
+SP,35,00709,Agudos, 37 680
+SP,35,00758,Alambari, 6 141
+SP,35,00808,Alfredo Marcondes, 4 445
+SP,35,00907,Altair, 3 451
+SP,35,01004,Altinópolis, 16 818
+SP,35,01103,Alto Alegre, 3 841
+SP,35,01152,Alumínio, 17 301
+SP,35,01202,Álvares Florence, 3 915
+SP,35,01301,Álvares Machado, 27 255
+SP,35,01400,Álvaro de Carvalho, 4 808
+SP,35,01509,Alvinlândia, 2 885
+SP,35,01608,Americana, 237 240
+SP,35,01707,Américo Brasiliense, 33 019
+SP,35,01806,Américo de Campos, 5 870
+SP,35,01905,Amparo, 68 008
+SP,35,02002,Analândia, 4 589
+SP,35,02101,Andradina, 59 783
+SP,35,02200,Angatuba, 24 022
+SP,35,02309,Anhembi, 5 674
+SP,35,02408,Anhumas, 4 023
+SP,35,02507,Aparecida, 32 569
+SP,35,02606,Aparecida d'Oeste, 4 086
+SP,35,02705,Apiaí, 24 585
+SP,35,02754,Araçariguama, 21 522
+SP,35,02804,Araçatuba, 200 124
+SP,35,02903,Araçoiaba da Serra, 32 443
+SP,35,03000,Aramina, 5 420
+SP,35,03109,Arandu, 6 885
+SP,35,03158,Arapeí, 2 330
+SP,35,03208,Araraquara, 242 228
+SP,35,03307,Araras, 130 866
+SP,35,03356,Arco-Íris, 2 044
+SP,35,03406,Arealva, 8 130
+SP,35,03505,Areias, 3 577
+SP,35,03604,Areiópolis, 10 130
+SP,35,03703,Ariranha, 7 602
+SP,35,03802,Artur Nogueira, 51 456
+SP,35,03901,Arujá, 86 678
+SP,35,03950,Aspásia, 1 842
+SP,35,04008,Assis, 101 409
+SP,35,04107,Atibaia, 158 647
+SP,35,04206,Auriflama, 13 692
+SP,35,04305,Avaí, 4 483
+SP,35,04404,Avanhandava, 11 263
+SP,35,04503,Avaré, 92 805
+SP,35,04602,Bady Bassitt, 27 260
+SP,35,04701,Balbinos, 3 887
+SP,35,04800,Bálsamo, 9 596
+SP,35,04909,Bananal, 9 969
+SP,35,05005,Barão de Antonina, 3 531
+SP,35,05104,Barbosa, 5 640
+SP,35,05203,Bariri, 31 595
+SP,35,05302,Barra Bonita, 34 346
+SP,35,05351,Barra do Chapéu, 5 179
+SP,35,05401,Barra do Turvo, 6 876
+SP,35,05500,Barretos, 122 485
+SP,35,05609,Barrinha, 32 092
+SP,35,05708,Barueri, 316 473
+SP,35,05807,Bastos, 21 503
+SP,35,05906,Batatais, 58 402
+SP,35,06003,Bauru, 379 146
+SP,35,06102,Bebedouro, 76 373
+SP,35,06201,Bento de Abreu, 2 606
+SP,35,06300,Bernardino de Campos, 11 607
+SP,35,06359,Bertioga, 64 188
+SP,35,06409,Bilac, 7 319
+SP,35,06508,Birigui, 118 979
+SP,35,06607,Biritiba Mirim, 29 683
+SP,35,06706,Boa Esperança do Sul, 12 978
+SP,35,06805,Bocaina, 11 259
+SP,35,06904,Bofete, 10 460
+SP,35,07001,Boituva, 61 081
+SP,35,07100,Bom Jesus dos Perdões, 22 006
+SP,35,07159,Bom Sucesso de Itararé, 3 555
+SP,35,07209,Borá,  907
+SP,35,07308,Boracéia, 4 715
+SP,35,07407,Borborema, 14 226
+SP,35,07456,Borebi, 2 713
+SP,35,07506,Botucatu, 145 155
+SP,35,07605,Bragança Paulista, 176 811
+SP,35,07704,Braúna, 5 356
+SP,35,07753,Brejo Alegre, 2 565
+SP,35,07803,Brodowski, 25 201
+SP,35,07902,Brotas, 23 898
+SP,35,08009,Buri, 20 250
+SP,35,08108,Buritama, 17 210
+SP,35,08207,Buritizal, 4 356
+SP,35,08306,Cabrália Paulista, 4 299
+SP,35,08405,Cabreúva, 47 011
+SP,35,08504,Caçapava, 96 202
+SP,35,08603,Cachoeira Paulista, 31 564
+SP,35,08702,Caconde, 17 101
+SP,35,08801,Cafelândia, 16 654
+SP,35,08900,Caiabu, 3 712
+SP,35,09007,Caieiras, 95 032
+SP,35,09106,Caiuá, 5 466
+SP,35,09205,Cajamar, 92 689
+SP,35,09254,Cajati, 28 515
+SP,35,09304,Cajobi, 9 133
+SP,35,09403,Cajuru, 23 830
+SP,35,09452,Campina do Monte Alegre, 5 954
+SP,35,09502,Campinas,1 139 047
+SP,35,09601,Campo Limpo Paulista, 77 632
+SP,35,09700,Campos do Jordão, 46 974
+SP,35,09809,Campos Novos Paulista, 4 888
+SP,35,09908,Cananéia, 12 289
+SP,35,09957,Canas, 4 931
+SP,35,10005,Cândido Mota, 29 449
+SP,35,10104,Cândido Rodrigues, 2 889
+SP,35,10153,Canitar, 6 283
+SP,35,10203,Capão Bonito, 46 337
+SP,35,10302,Capela do Alto, 22 866
+SP,35,10401,Capivari, 50 068
+SP,35,10500,Caraguatatuba, 134 873
+SP,35,10609,Carapicuíba, 386 984
+SP,35,10708,Cardoso, 11 345
+SP,35,10807,Casa Branca, 28 083
+SP,35,10906,Cássia dos Coqueiros, 2 799
+SP,35,11003,Castilho, 19 977
+SP,35,11102,Catanduva, 115 791
+SP,35,11201,Catiguá, 7 003
+SP,35,11300,Cedral, 12 618
+SP,35,11409,Cerqueira César, 21 469
+SP,35,11508,Cerquilho, 44 695
+SP,35,11607,Cesário Lange, 19 048
+SP,35,11706,Charqueada, 15 535
+SP,35,11904,Clementina, 6 982
+SP,35,12001,Colina, 18 486
+SP,35,12100,Colômbia, 6 629
+SP,35,12209,Conchal, 28 101
+SP,35,12308,Conchas, 15 232
+SP,35,12407,Cordeirópolis, 24 514
+SP,35,12506,Coroados, 5 400
+SP,35,12605,Coronel Macedo, 4 280
+SP,35,12704,Corumbataí, 4 195
+SP,35,12803,Cosmópolis, 59 773
+SP,35,12902,Cosmorama, 8 719
+SP,35,13009,Cotia, 274 413
+SP,35,13108,Cravinhos, 33 281
+SP,35,13207,Cristais Paulista, 9 272
+SP,35,13306,Cruzália, 2 108
+SP,35,13405,Cruzeiro, 74 961
+SP,35,13504,Cubatão, 112 476
+SP,35,13603,Cunha, 22 110
+SP,35,13702,Descalvado, 31 756
+SP,35,13801,Diadema, 393 237
+SP,35,13850,Dirce Reis, 1 620
+SP,35,13900,Divinolândia, 11 158
+SP,35,14007,Dobrada, 8 759
+SP,35,14106,Dois Córregos, 24 510
+SP,35,14205,Dolcinópolis, 2 207
+SP,35,14304,Dourado, 8 096
+SP,35,14403,Dracena, 45 474
+SP,35,14502,Duartina, 12 328
+SP,35,14601,Dumont, 9 471
+SP,35,14700,Echaporã, 6 205
+SP,35,14809,Eldorado, 13 069
+SP,35,14908,Elias Fausto, 17 699
+SP,35,14924,Elisiário, 3 138
+SP,35,14957,Embaúba, 2 323
+SP,35,15004,Embu das Artes, 250 691
+SP,35,15103,Embu-Guaçu, 66 970
+SP,35,15129,Emilianópolis, 3 014
+SP,35,15152,Engenheiro Coelho, 19 566
+SP,35,15186,Espírito Santo do Pinhal, 39 816
+SP,35,15194,Espírito Santo do Turvo, 4 157
+SP,35,15202,Estrela d'Oeste, 9 417
+SP,35,15301,Estrela do Norte, 2 703
+SP,35,15350,Euclides da Cunha Paulista, 7 924
+SP,35,15400,Fartura, 16 641
+SP,35,15509,Fernandópolis, 71 186
+SP,35,15608,Fernando Prestes, 5 942
+SP,35,15657,Fernão, 1 656
+SP,35,15707,Ferraz de Vasconcelos, 179 198
+SP,35,15806,Flora Rica, 1 487
+SP,35,15905,Floreal, 2 733
+SP,35,16002,Flórida Paulista, 12 958
+SP,35,16101,Florínea, 3 851
+SP,35,16200,Franca, 352 536
+SP,35,16309,Francisco Morato, 165 139
+SP,35,16408,Franco da Rocha, 144 849
+SP,35,16507,Gabriel Monteiro, 2 763
+SP,35,16606,Gália, 6 380
+SP,35,16705,Garça, 42 110
+SP,35,16804,Gastão Vidigal, 3 252
+SP,35,16853,Gavião Peixoto, 4 702
+SP,35,16903,General Salgado, 10 312
+SP,35,17000,Getulina, 10 232
+SP,35,17109,Glicério, 4 138
+SP,35,17208,Guaiçara, 11 239
+SP,35,17307,Guaimbê, 5 512
+SP,35,17406,Guaíra, 39 279
+SP,35,17505,Guapiaçu, 21 711
+SP,35,17604,Guapiara, 17 071
+SP,35,17703,Guará, 18 606
+SP,35,17802,Guaraçaí, 7 441
+SP,35,17901,Guaraci, 10 350
+SP,35,18008,Guarani d'Oeste, 1 968
+SP,35,18107,Guarantã, 6 427
+SP,35,18206,Guararapes, 31 043
+SP,35,18305,Guararema, 31 236
+SP,35,18404,Guaratinguetá, 118 044
+SP,35,18503,Guareí, 15 013
+SP,35,18602,Guariba, 37 498
+SP,35,18701,Guarujá, 287 634
+SP,35,18800,Guarulhos,1 291 771
+SP,35,18859,Guatapará, 7 320
+SP,35,18909,Guzolândia, 4 246
+SP,35,19006,Herculândia, 9 125
+SP,35,19055,Holambra, 15 094
+SP,35,19071,Hortolândia, 236 641
+SP,35,19105,Iacanga, 10 437
+SP,35,19204,Iacri, 6 131
+SP,35,19253,Iaras, 8 010
+SP,35,19303,Ibaté, 32 178
+SP,35,19402,Ibirá, 11 690
+SP,35,19501,Ibirarema, 6 385
+SP,35,19600,Ibitinga, 60 033
+SP,35,19709,Ibiúna, 75 605
+SP,35,19808,Icém, 7 819
+SP,35,19907,Iepê, 7 619
+SP,35,20004,Igaraçu do Tietê, 23 106
+SP,35,20103,Igarapava, 26 212
+SP,35,20202,Igaratá, 10 605
+SP,35,20301,Iguape, 29 115
+SP,35,20400,Ilhabela, 34 934
+SP,35,20426,Ilha Comprida, 13 419
+SP,35,20442,Ilha Solteira, 25 549
+SP,35,20509,Indaiatuba, 255 748
+SP,35,20608,Indiana, 5 090
+SP,35,20707,Indiaporã, 4 035
+SP,35,20806,Inúbia Paulista, 3 615
+SP,35,20905,Ipaussu, 13 712
+SP,35,21002,Iperó, 36 459
+SP,35,21101,Ipeúna, 6 831
+SP,35,21150,Ipiguá, 6 761
+SP,35,21200,Iporanga, 4 046
+SP,35,21309,Ipuã, 14 454
+SP,35,21408,Iracemápolis, 21 967
+SP,35,21507,Irapuã, 6 867
+SP,35,21606,Irapuru, 7 085
+SP,35,21705,Itaberá, 17 983
+SP,35,21804,Itaí, 25 180
+SP,35,21903,Itajobi, 16 989
+SP,35,22000,Itaju, 3 618
+SP,35,22109,Itanhaém, 112 476
+SP,35,22158,Itaoca, 3 422
+SP,35,22208,Itapecerica da Serra, 158 522
+SP,35,22307,Itapetininga, 157 790
+SP,35,22406,Itapeva, 89 728
+SP,35,22505,Itapevi, 232 297
+SP,35,22604,Itapira, 72 022
+SP,35,22653,Itapirapuã Paulista, 4 306
+SP,35,22703,Itápolis, 39 493
+SP,35,22802,Itaporanga, 14 085
+SP,35,22901,Itapuí, 13 659
+SP,35,23008,Itapura, 3 979
+SP,35,23107,Itaquaquecetuba, 369 275
+SP,35,23206,Itararé, 44 438
+SP,35,23305,Itariri, 15 528
+SP,35,23404,Itatiba, 121 590
+SP,35,23503,Itatinga, 19 070
+SP,35,23602,Itirapina, 16 148
+SP,35,23701,Itirapuã, 5 779
+SP,35,23800,Itobi, 8 046
+SP,35,23909,Itu, 168 240
+SP,35,24006,Itupeva, 70 616
+SP,35,24105,Ituverava, 37 571
+SP,35,24204,Jaborandi, 6 221
+SP,35,24303,Jaboticabal, 71 821
+SP,35,24402,Jacareí, 240 275
+SP,35,24501,Jaci, 7 613
+SP,35,24600,Jacupiranga, 16 097
+SP,35,24709,Jaguariúna, 59 347
+SP,35,24808,Jales, 48 776
+SP,35,24907,Jambeiro, 6 397
+SP,35,25003,Jandira, 118 045
+SP,35,25102,Jardinópolis, 45 282
+SP,35,25201,Jarinu, 37 535
+SP,35,25300,Jaú, 133 497
+SP,35,25409,Jeriquara, 3 863
+SP,35,25508,Joanópolis, 12 815
+SP,35,25607,João Ramalho, 4 371
+SP,35,25706,José Bonifácio, 36 633
+SP,35,25805,Júlio Mesquita, 4 254
+SP,35,25854,Jumirim, 3 056
+SP,35,25904,Jundiaí, 443 221
+SP,35,26001,Junqueirópolis, 20 448
+SP,35,26100,Juquiá, 17 154
+SP,35,26209,Juquitiba, 27 404
+SP,35,26308,Lagoinha, 5 083
+SP,35,26407,Laranjal Paulista, 26 261
+SP,35,26506,Lavínia, 9 689
+SP,35,26605,Lavrinhas, 7 171
+SP,35,26704,Leme, 98 161
+SP,35,26803,Lençóis Paulista, 66 505
+SP,35,26902,Limeira, 291 869
+SP,35,27009,Lindóia, 7 014
+SP,35,27108,Lins, 74 779
+SP,35,27207,Lorena, 84 855
+SP,35,27256,Lourdes, 1 950
+SP,35,27306,Louveira, 51 847
+SP,35,27405,Lucélia, 20 061
+SP,35,27504,Lucianópolis, 2 372
+SP,35,27603,Luís Antônio, 12 265
+SP,35,27702,Luiziânia, 4 701
+SP,35,27801,Lupércio, 3 981
+SP,35,27900,Lutécia, 2 661
+SP,35,28007,Macatuba, 16 829
+SP,35,28106,Macaubal, 7 481
+SP,35,28205,Macedônia, 3 963
+SP,35,28304,Magda, 3 165
+SP,35,28403,Mairinque, 50 027
+SP,35,28502,Mairiporã, 93 853
+SP,35,28601,Manduri, 9 871
+SP,35,28700,Marabá Paulista, 4 573
+SP,35,28809,Maracaí, 12 673
+SP,35,28858,Marapoama, 3 292
+SP,35,28908,Mariápolis, 3 513
+SP,35,29005,Marília, 237 627
+SP,35,29104,Marinópolis, 1 860
+SP,35,29203,Martinópolis, 24 881
+SP,35,29302,Matão, 79 033
+SP,35,29401,Mauá, 418 261
+SP,35,29500,Mendonça, 6 159
+SP,35,29609,Meridiano, 4 572
+SP,35,29658,Mesópolis, 1 952
+SP,35,29708,Miguelópolis, 19 441
+SP,35,29807,Mineiros do Tietê, 11 230
+SP,35,29906,Miracatu, 18 553
+SP,35,30003,Mira Estrela, 3 126
+SP,35,30102,Mirandópolis, 27 983
+SP,35,30201,Mirante do Paranapanema, 15 917
+SP,35,30300,Mirassol, 63 337
+SP,35,30409,Mirassolândia, 4 669
+SP,35,30508,Mococa, 67 681
+SP,35,30607,Mogi das Cruzes, 451 505
+SP,35,30706,Mogi Guaçu, 153 658
+SP,35,30805,Mogi Mirim, 92 558
+SP,35,30904,Mombuca, 3 722
+SP,35,31001,Monções, 1 937
+SP,35,31100,Mongaguá, 61 951
+SP,35,31209,Monte Alegre do Sul, 8 627
+SP,35,31308,Monte Alto, 47 574
+SP,35,31407,Monte Aprazível, 22 280
+SP,35,31506,Monte Azul Paulista, 18 151
+SP,35,31605,Monte Castelo, 4 222
+SP,35,31704,Monteiro Lobato, 4 138
+SP,35,31803,Monte Mor, 64 662
+SP,35,31902,Morro Agudo, 27 933
+SP,35,32009,Morungaba, 13 720
+SP,35,32058,Motuca, 4 034
+SP,35,32108,Murutinga do Sul, 3 737
+SP,35,32157,Nantes, 2 660
+SP,35,32207,Narandiba, 5 713
+SP,35,32306,Natividade da Serra, 6 999
+SP,35,32405,Nazaré Paulista, 18 217
+SP,35,32504,Neves Paulista, 9 699
+SP,35,32603,Nhandeara, 9 852
+SP,35,32702,Nipoã, 4 750
+SP,35,32801,Nova Aliança, 6 693
+SP,35,32827,Nova Campina, 8 497
+SP,35,32843,Nova Canaã Paulista, 2 032
+SP,35,32868,Nova Castilho, 1 062
+SP,35,32900,Nova Europa, 9 311
+SP,35,33007,Nova Granada, 19 419
+SP,35,33106,Nova Guataporanga, 2 156
+SP,35,33205,Nova Independência, 4 609
+SP,35,33254,Novais, 4 412
+SP,35,33304,Nova Luzitânia, 2 837
+SP,35,33403,Nova Odessa, 62 019
+SP,35,33502,Novo Horizonte, 38 324
+SP,35,33601,Nuporanga, 7 391
+SP,35,33700,Ocauçu, 4 331
+SP,35,33809,Óleo, 2 512
+SP,35,33908,Olímpia, 55 074
+SP,35,34005,Onda Verde, 4 771
+SP,35,34104,Oriente, 6 085
+SP,35,34203,Orindiúva, 6 024
+SP,35,34302,Orlândia, 38 319
+SP,35,34401,Osasco, 728 615
+SP,35,34500,Oscar Bressane, 2 470
+SP,35,34609,Osvaldo Cruz, 31 272
+SP,35,34708,Ourinhos, 103 970
+SP,35,34757,Ouroeste, 10 294
+SP,35,34807,Ouro Verde, 7 779
+SP,35,34906,Pacaembu, 14 877
+SP,35,35002,Palestina, 11 476
+SP,35,35101,Palmares Paulista, 9 650
+SP,35,35200,Palmeira d'Oeste, 8 903
+SP,35,35309,Palmital, 19 594
+SP,35,35408,Panorama, 14 964
+SP,35,35507,Paraguaçu Paulista, 41 120
+SP,35,35606,Paraibuna, 17 667
+SP,35,35705,Paraíso, 6 099
+SP,35,35804,Paranapanema, 19 395
+SP,35,35903,Paranapuã, 4 031
+SP,35,36000,Parapuã, 10 580
+SP,35,36109,Pardinho, 7 153
+SP,35,36208,Pariquera-Açu, 19 233
+SP,35,36257,Parisi, 2 892
+SP,35,36307,Patrocínio Paulista, 14 512
+SP,35,36406,Paulicéia, 7 955
+SP,35,36505,Paulínia, 110 537
+SP,35,36570,Paulistânia, 2 090
+SP,35,36604,Paulo de Faria, 7 400
+SP,35,36703,Pederneiras, 44 827
+SP,35,36802,Pedra Bela, 6 557
+SP,35,36901,Pedranópolis, 2 787
+SP,35,37008,Pedregulho, 15 525
+SP,35,37107,Pedreira, 43 112
+SP,35,37156,Pedrinhas Paulista, 2 804
+SP,35,37206,Pedro de Toledo, 11 281
+SP,35,37305,Penápolis, 61 679
+SP,35,37404,Pereira Barreto, 24 095
+SP,35,37503,Pereiras, 8 737
+SP,35,37602,Peruíbe, 68 352
+SP,35,37701,Piacatu, 5 519
+SP,35,37800,Piedade, 52 970
+SP,35,37909,Pilar do Sul, 27 619
+SP,35,38006,Pindamonhangaba, 165 428
+SP,35,38105,Pindorama, 14 542
+SP,35,38204,Pinhalzinho, 15 224
+SP,35,38303,Piquerobi, 3 264
+SP,35,38501,Piquete, 12 490
+SP,35,38600,Piracaia, 26 029
+SP,35,38709,Piracicaba, 423 323
+SP,35,38808,Piraju, 29 436
+SP,35,38907,Pirajuí, 22 431
+SP,35,39004,Pirangi, 10 885
+SP,35,39103,Pirapora do Bom Jesus, 18 370
+SP,35,39202,Pirapozinho, 25 348
+SP,35,39301,Pirassununga, 73 545
+SP,35,39400,Piratininga, 15 108
+SP,35,39509,Pitangueiras, 33 674
+SP,35,39608,Planalto, 4 389
+SP,35,39707,Platina, 3 025
+SP,35,39806,Poá, 103 765
+SP,35,39905,Poloni, 5 592
+SP,35,40002,Pompéia, 20 196
+SP,35,40101,Pongaí, 3 395
+SP,35,40200,Pontal, 37 607
+SP,35,40259,Pontalinda, 4 127
+SP,35,40309,Pontes Gestal, 2 387
+SP,35,40408,Populina, 4 127
+SP,35,40507,Porangaba, 10 451
+SP,35,40606,Porto Feliz, 56 497
+SP,35,40705,Porto Ferreira, 52 649
+SP,35,40754,Potim, 20 392
+SP,35,40804,Potirendaba, 18 496
+SP,35,40853,Pracinha, 2 578
+SP,35,40903,Pradópolis, 17 078
+SP,35,41000,Praia Grande, 349 935
+SP,35,41059,Pratânia, 5 126
+SP,35,41109,Presidente Alves, 3 804
+SP,35,41208,Presidente Bernardes, 14 490
+SP,35,41307,Presidente Epitácio, 39 505
+SP,35,41406,Presidente Prudente, 225 668
+SP,35,41505,Presidente Venceslau, 35 201
+SP,35,41604,Promissão, 35 131
+SP,35,41653,Quadra, 3 405
+SP,35,41703,Quatá, 13 163
+SP,35,41802,Queiroz, 3 265
+SP,35,41901,Queluz, 9 159
+SP,35,42008,Quintana, 7 038
+SP,35,42107,Rafard, 8 965
+SP,35,42206,Rancharia, 28 588
+SP,35,42305,Redenção da Serra, 4 494
+SP,35,42404,Regente Feijó, 20 145
+SP,35,42503,Reginópolis, 7 662
+SP,35,42602,Registro, 59 947
+SP,35,42701,Restinga, 6 404
+SP,35,42800,Ribeira, 3 132
+SP,35,42909,Ribeirão Bonito, 10 989
+SP,35,43006,Ribeirão Branco, 18 627
+SP,35,43105,Ribeirão Corrente, 4 608
+SP,35,43204,Ribeirão do Sul, 4 677
+SP,35,43238,Ribeirão dos Índios, 2 025
+SP,35,43253,Ribeirão Grande, 7 450
+SP,35,43303,Ribeirão Pires, 115 559
+SP,35,43402,Ribeirão Preto, 698 642
+SP,35,43501,Riversul, 5 599
+SP,35,43600,Rifaina, 4 049
+SP,35,43709,Rincão, 9 098
+SP,35,43808,Rinópolis, 9 259
+SP,35,43907,Rio Claro, 201 418
+SP,35,44004,Rio das Pedras, 31 328
+SP,35,44103,Rio Grande da Serra, 44 170
+SP,35,44202,Riolândia, 10 309
+SP,35,44251,Rosana, 17 440
+SP,35,44301,Roseira, 10 832
+SP,35,44400,Rubiácea, 2 700
+SP,35,44509,Rubinéia, 3 833
+SP,35,44608,Sabino, 5 112
+SP,35,44707,Sagres, 2 474
+SP,35,44806,Sales, 6 437
+SP,35,44905,Sales Oliveira, 11 411
+SP,35,45001,Salesópolis, 15 202
+SP,35,45100,Salmourão, 4 808
+SP,35,45159,Saltinho, 8 161
+SP,35,45209,Salto, 134 319
+SP,35,45308,Salto de Pirapora, 43 748
+SP,35,45407,Salto Grande, 9 050
+SP,35,45506,Sandovalina, 3 645
+SP,35,45605,Santa Adélia, 14 018
+SP,35,45704,Santa Albertina, 6 393
+SP,35,45803,Santa Bárbara d'Oeste, 183 347
+SP,35,46009,Santa Branca, 13 975
+SP,35,46108,Santa Clara d'Oeste, 2 598
+SP,35,46207,Santa Cruz da Conceição, 4 277
+SP,35,46256,Santa Cruz da Esperança, 2 116
+SP,35,46306,Santa Cruz das Palmeiras, 28 864
+SP,35,46405,Santa Cruz do Rio Pardo, 46 442
+SP,35,46504,Santa Ernestina, 6 118
+SP,35,46603,Santa Fé do Sul, 34 794
+SP,35,46702,Santa Gertrudes, 23 611
+SP,35,46801,Santa Isabel, 53 174
+SP,35,46900,Santa Lúcia, 7 149
+SP,35,47007,Santa Maria da Serra, 5 243
+SP,35,47106,Santa Mercedes, 2 956
+SP,35,47205,Santana da Ponte Pensa, 1 670
+SP,35,47304,Santana de Parnaíba, 154 105
+SP,35,47403,Santa Rita d'Oeste, 2 733
+SP,35,47502,Santa Rita do Passa Quatro, 24 833
+SP,35,47601,Santa Rosa de Viterbo, 23 411
+SP,35,47650,Santa Salete, 1 645
+SP,35,47700,Santo Anastácio, 17 963
+SP,35,47809,Santo André, 748 919
+SP,35,47908,Santo Antônio da Alegria, 6 775
+SP,35,48005,Santo Antônio de Posse, 23 244
+SP,35,48054,Santo Antônio do Aracanguá, 8 379
+SP,35,48104,Santo Antônio do Jardim, 6 126
+SP,35,48203,Santo Antônio do Pinhal, 7 133
+SP,35,48302,Santo Expedito, 3 000
+SP,35,48401,Santópolis do Aguapeí, 3 899
+SP,35,48500,Santos, 418 608
+SP,35,48609,São Bento do Sapucaí, 11 674
+SP,35,48708,São Bernardo do Campo, 810 729
+SP,35,48807,São Caetano do Sul, 165 655
+SP,35,48906,São Carlos, 254 857
+SP,35,49003,São Francisco, 2 602
+SP,35,49102,São João da Boa Vista, 92 547
+SP,35,49201,São João das Duas Pontes, 2 580
+SP,35,49250,São João de Iracema, 1 846
+SP,35,49300,São João do Pau d'Alho, 2 242
+SP,35,49409,São Joaquim da Barra, 48 558
+SP,35,49508,São José da Bela Vista, 7 626
+SP,35,49607,São José do Barreiro, 3 853
+SP,35,49706,São José do Rio Pardo, 52 205
+SP,35,49805,São José do Rio Preto, 480 393
+SP,35,49904,São José dos Campos, 697 054
+SP,35,49953,São Lourenço da Serra, 16 067
+SP,35,50001,São Luiz do Paraitinga, 10 337
+SP,35,50100,São Manuel, 37 289
+SP,35,50209,São Miguel Arcanjo, 32 039
+SP,35,50308,São Paulo,11 451 999
+SP,35,50407,São Pedro, 38 256
+SP,35,50506,São Pedro do Turvo, 7 217
+SP,35,50605,São Roque, 79 484
+SP,35,50704,São Sebastião, 81 595
+SP,35,50803,São Sebastião da Grama, 10 441
+SP,35,50902,São Simão, 13 442
+SP,35,51009,São Vicente, 329 911
+SP,35,51108,Sarapuí, 10 369
+SP,35,51207,Sarutaiá, 3 704
+SP,35,51306,Sebastianópolis do Sul, 3 130
+SP,35,51405,Serra Azul, 12 746
+SP,35,51504,Serrana, 43 909
+SP,35,51603,Serra Negra, 29 894
+SP,35,51702,Sertãozinho, 126 887
+SP,35,51801,Sete Barras, 12 730
+SP,35,51900,Severínia, 14 576
+SP,35,52007,Silveiras, 6 186
+SP,35,52106,Socorro, 40 122
+SP,35,52205,Sorocaba, 723 682
+SP,35,52304,Sud Mennucci, 7 355
+SP,35,52403,Sumaré, 279 545
+SP,35,52502,Suzano, 307 429
+SP,35,52551,Suzanápolis, 3 408
+SP,35,52601,Tabapuã, 11 323
+SP,35,52700,Tabatinga, 14 769
+SP,35,52809,Taboão da Serra, 273 542
+SP,35,52908,Taciba, 6 260
+SP,35,53005,Taguaí, 12 669
+SP,35,53104,Taiaçu, 5 677
+SP,35,53203,Taiúva, 6 548
+SP,35,53302,Tambaú, 21 435
+SP,35,53401,Tanabi, 25 265
+SP,35,53500,Tapiraí, 7 996
+SP,35,53609,Tapiratiba, 11 816
+SP,35,53658,Taquaral, 2 619
+SP,35,53708,Taquaritinga, 52 260
+SP,35,53807,Taquarituba, 24 350
+SP,35,53856,Taquarivaí, 6 876
+SP,35,53906,Tarabai, 6 536
+SP,35,53955,Tarumã, 14 882
+SP,35,54003,Tatuí, 123 942
+SP,35,54102,Taubaté, 310 739
+SP,35,54201,Tejupá, 4 127
+SP,35,54300,Teodoro Sampaio, 22 173
+SP,35,54409,Terra Roxa, 7 904
+SP,35,54508,Tietê, 37 663
+SP,35,54607,Timburi, 2 464
+SP,35,54656,Torre de Pedra, 2 046
+SP,35,54706,Torrinha, 9 335
+SP,35,54755,Trabiju, 1 682
+SP,35,54805,Tremembé, 51 173
+SP,35,54904,Três Fronteiras, 6 804
+SP,35,54953,Tuiuti, 6 778
+SP,35,55000,Tupã, 63 928
+SP,35,55109,Tupi Paulista, 15 854
+SP,35,55208,Turiúba, 1 818
+SP,35,55307,Turmalina, 1 669
+SP,35,55356,Ubarana, 5 365
+SP,35,55406,Ubatuba, 92 981
+SP,35,55505,Ubirajara, 5 132
+SP,35,55604,Uchoa, 10 394
+SP,35,55703,União Paulista, 1 603
+SP,35,55802,Urânia, 8 833
+SP,35,55901,Uru, 1 387
+SP,35,56008,Urupês, 13 744
+SP,35,56107,Valentim Gentil, 14 098
+SP,35,56206,Valinhos, 126 373
+SP,35,56305,Valparaíso, 24 241
+SP,35,56354,Vargem, 10 512
+SP,35,56404,Vargem Grande do Sul, 40 133
+SP,35,56453,Vargem Grande Paulista, 50 415
+SP,35,56503,Várzea Paulista, 115 771
+SP,35,56602,Vera Cruz, 10 176
+SP,35,56701,Vinhedo, 76 540
+SP,35,56800,Viradouro, 17 414
+SP,35,56909,Vista Alegre do Alto, 8 109
+SP,35,56958,Vitória Brasil, 1 794
+SP,35,57006,Votorantim, 127 923
+SP,35,57105,Votuporanga, 96 634
+SP,35,57154,Zacarias, 2 692
+SP,35,57204,Chavantes, 12 211
+SP,35,57303,Estiva Gerbi, 11 295
+PR,41,00103,Abatiá, 7 241
+PR,41,00202,Adrianópolis, 6 256
+PR,41,00301,Agudos do Sul, 10 233
+PR,41,00400,Almirante Tamandaré, 119 825
+PR,41,00459,Altamira do Paraná, 3 590
+PR,41,00509,Altônia, 18 742
+PR,41,00608,Alto Paraná, 13 909
+PR,41,00707,Alto Piquiri, 9 727
+PR,41,00806,Alvorada do Sul, 10 326
+PR,41,00905,Amaporã, 4 762
+PR,41,01002,Ampére, 19 620
+PR,41,01051,Anahy, 2 918
+PR,41,01101,Andirá, 19 878
+PR,41,01150,Ângulo, 3 235
+PR,41,01200,Antonina, 18 091
+PR,41,01309,Antônio Olinto, 7 018
+PR,41,01408,Apucarana, 130 134
+PR,41,01507,Arapongas, 119 138
+PR,41,01606,Arapoti, 25 777
+PR,41,01655,Arapuã, 3 527
+PR,41,01705,Araruna, 14 485
+PR,41,01804,Araucária, 151 666
+PR,41,01853,Ariranha do Ivaí, 2 329
+PR,41,01903,Assaí, 13 797
+PR,41,02000,Assis Chateaubriand, 36 808
+PR,41,02109,Astorga, 25 475
+PR,41,02208,Atalaia, 3 980
+PR,41,02307,Balsa Nova, 13 395
+PR,41,02406,Bandeirantes, 31 273
+PR,41,02505,Barbosa Ferraz, 10 795
+PR,41,02604,Barracão, 9 759
+PR,41,02703,Barra do Jacaré, 2 814
+PR,41,02752,Bela Vista da Caroba, 4 031
+PR,41,02802,Bela Vista do Paraíso, 14 833
+PR,41,02901,Bituruna, 15 533
+PR,41,03008,Boa Esperança, 4 558
+PR,41,03024,Boa Esperança do Iguaçu, 2 455
+PR,41,03040,Boa Ventura de São Roque, 6 378
+PR,41,03057,Boa Vista da Aparecida, 7 924
+PR,41,03107,Bocaiúva do Sul, 13 299
+PR,41,03156,Bom Jesus do Sul, 3 980
+PR,41,03206,Bom Sucesso, 6 581
+PR,41,03222,Bom Sucesso do Sul, 3 202
+PR,41,03305,Borrazópolis, 7 735
+PR,41,03354,Braganey, 4 854
+PR,41,03370,Brasilândia do Sul, 3 708
+PR,41,03404,Cafeara, 2 627
+PR,41,03453,Cafelândia, 18 997
+PR,41,03479,Cafezal do Sul, 4 473
+PR,41,03503,Califórnia, 8 710
+PR,41,03602,Cambará, 23 212
+PR,41,03701,Cambé, 107 208
+PR,41,03800,Cambira, 9 460
+PR,41,03909,Campina da Lagoa, 15 723
+PR,41,03958,Campina do Simão, 3 936
+PR,41,04006,Campina Grande do Sul, 47 825
+PR,41,04055,Campo Bonito, 4 027
+PR,41,04105,Campo do Tenente, 7 508
+PR,41,04204,Campo Largo, 136 327
+PR,41,04253,Campo Magro, 30 160
+PR,41,04303,Campo Mourão, 99 432
+PR,41,04402,Cândido de Abreu, 15 244
+PR,41,04428,Candói, 14 973
+PR,41,04451,Cantagalo, 10 933
+PR,41,04501,Capanema, 20 481
+PR,41,04600,Capitão Leônidas Marques, 14 648
+PR,41,04659,Carambeí, 23 283
+PR,41,04709,Carlópolis, 16 905
+PR,41,04808,Cascavel, 348 051
+PR,41,04907,Castro, 73 075
+PR,41,05003,Catanduvas, 10 446
+PR,41,05102,Centenário do Sul, 10 832
+PR,41,05201,Cerro Azul, 16 134
+PR,41,05300,Céu Azul, 11 087
+PR,41,05409,Chopinzinho, 21 085
+PR,41,05508,Cianorte, 79 527
+PR,41,05607,Cidade Gaúcha, 11 467
+PR,41,05706,Clevelândia, 15 070
+PR,41,05805,Colombo, 232 212
+PR,41,05904,Colorado, 22 896
+PR,41,06001,Congonhinhas, 8 320
+PR,41,06100,Conselheiro Mairinck, 3 461
+PR,41,06209,Contenda, 19 128
+PR,41,06308,Corbélia, 17 470
+PR,41,06407,Cornélio Procópio, 45 206
+PR,41,06456,Coronel Domingos Soares, 5 649
+PR,41,06506,Coronel Vivida, 23 331
+PR,41,06555,Corumbataí do Sul, 3 760
+PR,41,06571,Cruzeiro do Iguaçu, 4 133
+PR,41,06605,Cruzeiro do Oeste, 23 831
+PR,41,06704,Cruzeiro do Sul, 4 494
+PR,41,06803,Cruz Machado, 15 978
+PR,41,06852,Cruzmaltina, 2 892
+PR,41,06902,Curitiba,1 773 718
+PR,41,07009,Curiúva, 13 647
+PR,41,07108,Diamante do Norte, 5 142
+PR,41,07124,Diamante do Sul, 3 171
+PR,41,07157,Diamante D'Oeste, 4 557
+PR,41,07207,Dois Vizinhos, 44 869
+PR,41,07256,Douradina, 9 161
+PR,41,07306,Doutor Camargo, 6 327
+PR,41,07405,Enéas Marques, 5 999
+PR,41,07504,Engenheiro Beltrão, 12 454
+PR,41,07520,Esperança Nova, 1 849
+PR,41,07538,Entre Rios do Oeste, 4 575
+PR,41,07546,Espigão Alto do Iguaçu, 4 797
+PR,41,07553,Farol, 3 039
+PR,41,07603,Faxinal, 16 389
+PR,41,07652,Fazenda Rio Grande, 148 873
+PR,41,07702,Fênix, 4 492
+PR,41,07736,Fernandes Pinheiro, 6 255
+PR,41,07751,Figueira, 8 062
+PR,41,07801,Floraí, 4 792
+PR,41,07850,Flor da Serra do Sul, 4 364
+PR,41,07900,Floresta, 10 458
+PR,41,08007,Florestópolis, 11 446
+PR,41,08106,Flórida, 2 652
+PR,41,08205,Formosa do Oeste, 7 635
+PR,41,08304,Foz do Iguaçu, 285 415
+PR,41,08320,Francisco Alves, 8 116
+PR,41,08403,Francisco Beltrão, 96 666
+PR,41,08452,Foz do Jordão, 4 926
+PR,41,08502,General Carneiro, 11 062
+PR,41,08551,Godoy Moreira, 2 977
+PR,41,08601,Goioerê, 28 437
+PR,41,08650,Goioxim, 6 566
+PR,41,08700,Grandes Rios, 5 641
+PR,41,08809,Guaíra, 32 097
+PR,41,08908,Guairaçá, 6 587
+PR,41,08957,Guamiranga, 7 856
+PR,41,09005,Guapirama, 4 626
+PR,41,09104,Guaporema, 2 191
+PR,41,09203,Guaraci, 4 748
+PR,41,09302,Guaraniaçu, 13 735
+PR,41,09401,Guarapuava, 182 093
+PR,41,09500,Guaraqueçaba, 7 430
+PR,41,09609,Guaratuba, 42 062
+PR,41,09658,Honório Serpa, 4 941
+PR,41,09708,Ibaiti, 28 830
+PR,41,09757,Ibema, 6 218
+PR,41,09807,Ibiporã, 51 603
+PR,41,09906,Icaraíma, 8 991
+PR,41,10003,Iguaraçu, 5 338
+PR,41,10052,Iguatu, 2 144
+PR,41,10078,Imbaú, 14 249
+PR,41,10102,Imbituva, 29 924
+PR,41,10201,Inácio Martins, 9 670
+PR,41,10300,Inajá, 2 536
+PR,41,10409,Indianópolis, 4 448
+PR,41,10508,Ipiranga, 14 142
+PR,41,10607,Iporã, 15 746
+PR,41,10656,Iracema do Oeste, 2 343
+PR,41,10706,Irati, 59 250
+PR,41,10805,Iretama, 10 684
+PR,41,10904,Itaguajé, 4 481
+PR,41,10953,Itaipulândia, 11 485
+PR,41,11001,Itambaracá, 5 908
+PR,41,11100,Itambé, 6 111
+PR,41,11209,Itapejara d'Oeste, 12 344
+PR,41,11258,Itaperuçu, 31 217
+PR,41,11308,Itaúna do Sul, 3 572
+PR,41,11407,Ivaí, 13 229
+PR,41,11506,Ivaiporã, 32 720
+PR,41,11555,Ivaté, 6 831
+PR,41,11605,Ivatuba, 2 708
+PR,41,11704,Jaboti, 5 427
+PR,41,11803,Jacarezinho, 40 375
+PR,41,11902,Jaguapitã, 15 122
+PR,41,12009,Jaguariaíva, 35 141
+PR,41,12108,Jandaia do Sul, 21 408
+PR,41,12207,Janiópolis, 5 870
+PR,41,12306,Japira, 4 972
+PR,41,12405,Japurá, 9 144
+PR,41,12504,Jardim Alegre, 12 004
+PR,41,12603,Jardim Olinda, 1 343
+PR,41,12702,Jataizinho, 11 813
+PR,41,12751,Jesuítas, 10 506
+PR,41,12801,Joaquim Távora, 11 945
+PR,41,12900,Jundiaí do Sul, 3 333
+PR,41,12959,Juranda, 7 771
+PR,41,13007,Jussara, 6 690
+PR,41,13106,Kaloré, 4 582
+PR,41,13205,Lapa, 45 003
+PR,41,13254,Laranjal, 5 600
+PR,41,13304,Laranjeiras do Sul, 32 227
+PR,41,13403,Leópolis, 3 752
+PR,41,13429,Lidianópolis, 3 938
+PR,41,13452,Lindoeste, 5 175
+PR,41,13502,Loanda, 23 225
+PR,41,13601,Lobato, 4 601
+PR,41,13700,Londrina, 555 965
+PR,41,13734,Luiziana, 6 690
+PR,41,13759,Lunardelli, 4 872
+PR,41,13809,Lupionópolis, 4 813
+PR,41,13908,Mallet, 13 428
+PR,41,14005,Mamborê, 13 452
+PR,41,14104,Mandaguaçu, 31 457
+PR,41,14203,Mandaguari, 36 716
+PR,41,14302,Mandirituba, 27 439
+PR,41,14351,Manfrinópolis, 2 770
+PR,41,14401,Mangueirinha, 16 603
+PR,41,14500,Manoel Ribas, 14 240
+PR,41,14609,Marechal Cândido Rondon, 55 836
+PR,41,14708,Maria Helena, 5 865
+PR,41,14807,Marialva, 41 851
+PR,41,14906,Marilândia do Sul, 8 677
+PR,41,15002,Marilena, 7 253
+PR,41,15101,Mariluz, 9 847
+PR,41,15200,Maringá, 409 657
+PR,41,15309,Mariópolis, 6 371
+PR,41,15358,Maripá, 6 555
+PR,41,15408,Marmeleiro, 15 901
+PR,41,15457,Marquinho, 4 504
+PR,41,15507,Marumbi, 4 699
+PR,41,15606,Matelândia, 18 450
+PR,41,15705,Matinhos, 39 259
+PR,41,15739,Mato Rico, 3 267
+PR,41,15754,Mauá da Serra, 9 383
+PR,41,15804,Medianeira, 54 369
+PR,41,15853,Mercedes, 5 931
+PR,41,15903,Mirador, 2 238
+PR,41,16000,Miraselva, 1 966
+PR,41,16059,Missal, 11 064
+PR,41,16109,Moreira Sales, 11 175
+PR,41,16208,Morretes, 18 309
+PR,41,16307,Munhoz de Melo, 3 951
+PR,41,16406,Nossa Senhora das Graças, 3 669
+PR,41,16505,Nova Aliança do Ivaí, 1 323
+PR,41,16604,Nova América da Colina, 3 280
+PR,41,16703,Nova Aurora, 13 765
+PR,41,16802,Nova Cantu, 6 790
+PR,41,16901,Nova Esperança, 26 585
+PR,41,16950,Nova Esperança do Sudoeste, 5 597
+PR,41,17008,Nova Fátima, 7 225
+PR,41,17057,Nova Laranjeiras, 12 074
+PR,41,17107,Nova Londrina, 12 923
+PR,41,17206,Nova Olímpia, 5 833
+PR,41,17214,Nova Santa Bárbara, 4 184
+PR,41,17222,Nova Santa Rosa, 8 322
+PR,41,17255,Nova Prata do Iguaçu, 12 699
+PR,41,17271,Nova Tebas, 6 848
+PR,41,17297,Novo Itacolomi, 3 125
+PR,41,17305,Ortigueira, 24 192
+PR,41,17404,Ourizona, 3 187
+PR,41,17453,Ouro Verde do Oeste, 6 785
+PR,41,17503,Paiçandu, 45 962
+PR,41,17602,Palmas, 48 247
+PR,41,17701,Palmeira, 33 855
+PR,41,17800,Palmital, 13 033
+PR,41,17909,Palotina, 35 011
+PR,41,18006,Paraíso do Norte, 13 245
+PR,41,18105,Paranacity, 9 557
+PR,41,18204,Paranaguá, 145 829
+PR,41,18303,Paranapoema, 2 398
+PR,41,18402,Paranavaí, 92 001
+PR,41,18451,Pato Bragado, 5 733
+PR,41,18501,Pato Branco, 91 836
+PR,41,18600,Paula Freitas, 5 666
+PR,41,18709,Paulo Frontin, 6 343
+PR,41,18808,Peabiru, 13 346
+PR,41,18857,Perobal, 7 189
+PR,41,18907,Pérola, 11 878
+PR,41,19004,Pérola d'Oeste, 6 221
+PR,41,19103,Piên, 13 655
+PR,41,19152,Pinhais, 127 019
+PR,41,19202,Pinhalão, 6 566
+PR,41,19251,Pinhal de São Bento, 2 761
+PR,41,19301,Pinhão, 29 886
+PR,41,19400,Piraí do Sul, 23 651
+PR,41,19509,Piraquara, 118 730
+PR,41,19608,Pitanga, 33 567
+PR,41,19657,Pitangueiras, 3 046
+PR,41,19707,Planaltina do Paraná, 4 070
+PR,41,19806,Planalto, 14 374
+PR,41,19905,Ponta Grossa, 358 371
+PR,41,19954,Pontal do Paraná, 30 425
+PR,41,20002,Porecatu, 11 624
+PR,41,20101,Porto Amazonas, 4 098
+PR,41,20150,Porto Barreiro, 3 110
+PR,41,20200,Porto Rico, 3 182
+PR,41,20309,Porto Vitória, 3 562
+PR,41,20333,Prado Ferreira, 3 709
+PR,41,20358,Pranchita, 5 737
+PR,41,20408,Presidente Castelo Branco, 4 336
+PR,41,20507,Primeiro de Maio, 10 082
+PR,41,20606,Prudentópolis, 49 393
+PR,41,20655,Quarto Centenário, 4 201
+PR,41,20705,Quatiguá, 8 099
+PR,41,20804,Quatro Barras, 24 191
+PR,41,20853,Quatro Pontes, 4 480
+PR,41,20903,Quedas do Iguaçu, 30 738
+PR,41,21000,Querência do Norte, 10 685
+PR,41,21109,Quinta do Sol, 5 001
+PR,41,21208,Quitandinha, 18 398
+PR,41,21257,Ramilândia, 4 221
+PR,41,21307,Rancho Alegre, 3 512
+PR,41,21356,Rancho Alegre D'Oeste, 2 618
+PR,41,21406,Realeza, 19 247
+PR,41,21505,Rebouças, 14 514
+PR,41,21604,Renascença, 6 845
+PR,41,21703,Reserva, 24 573
+PR,41,21752,Reserva do Iguaçu, 6 553
+PR,41,21802,Ribeirão Claro, 12 364
+PR,41,21901,Ribeirão do Pinhal, 13 060
+PR,41,22008,Rio Azul, 14 025
+PR,41,22107,Rio Bom, 3 197
+PR,41,22156,Rio Bonito do Iguaçu, 13 929
+PR,41,22172,Rio Branco do Ivaí, 3 808
+PR,41,22206,Rio Branco do Sul, 37 558
+PR,41,22305,Rio Negro, 31 324
+PR,41,22404,Rolândia, 71 670
+PR,41,22503,Roncador, 11 251
+PR,41,22602,Rondon, 9 097
+PR,41,22651,Rosário do Ivaí, 5 435
+PR,41,22701,Sabáudia, 8 822
+PR,41,22800,Salgado Filho, 4 075
+PR,41,22909,Salto do Itararé, 5 192
+PR,41,23006,Salto do Lontra, 15 223
+PR,41,23105,Santa Amélia, 3 394
+PR,41,23204,Santa Cecília do Pavão, 3 365
+PR,41,23303,Santa Cruz de Monte Castelo, 8 613
+PR,41,23402,Santa Fé, 11 378
+PR,41,23501,Santa Helena, 25 492
+PR,41,23600,Santa Inês, 1 748
+PR,41,23709,Santa Isabel do Ivaí, 8 912
+PR,41,23808,Santa Izabel do Oeste, 14 070
+PR,41,23824,Santa Lúcia, 3 644
+PR,41,23857,Santa Maria do Oeste, 9 934
+PR,41,23907,Santa Mariana, 11 066
+PR,41,23956,Santa Mônica, 3 356
+PR,41,24004,Santana do Itararé, 5 514
+PR,41,24020,Santa Tereza do Oeste, 13 174
+PR,41,24053,Santa Terezinha de Itaipu, 24 262
+PR,41,24103,Santo Antônio da Platina, 44 369
+PR,41,24202,Santo Antônio do Caiuá, 2 493
+PR,41,24301,Santo Antônio do Paraíso, 2 125
+PR,41,24400,Santo Antônio do Sudoeste, 23 673
+PR,41,24509,Santo Inácio, 6 181
+PR,41,24608,São Carlos do Ivaí, 6 587
+PR,41,24707,São Jerônimo da Serra, 10 830
+PR,41,24806,São João, 11 886
+PR,41,24905,São João do Caiuá, 5 586
+PR,41,25001,São João do Ivaí, 10 667
+PR,41,25100,São João do Triunfo, 13 726
+PR,41,25209,São Jorge d'Oeste, 9 378
+PR,41,25308,São Jorge do Ivaí, 5 168
+PR,41,25357,São Jorge do Patrocínio, 6 504
+PR,41,25407,São José da Boa Vista, 6 040
+PR,41,25456,São José das Palmeiras, 3 957
+PR,41,25506,São José dos Pinhais, 329 628
+PR,41,25555,São Manoel do Paraná, 2 138
+PR,41,25605,São Mateus do Sul, 42 366
+PR,41,25704,São Miguel do Iguaçu, 29 122
+PR,41,25753,São Pedro do Iguaçu, 5 784
+PR,41,25803,São Pedro do Ivaí, 8 690
+PR,41,25902,São Pedro do Paraná, 2 661
+PR,41,26009,São Sebastião da Amoreira, 8 063
+PR,41,26108,São Tomé, 5 232
+PR,41,26207,Sapopema, 6 695
+PR,41,26256,Sarandi, 118 455
+PR,41,26272,Saudade do Iguaçu, 6 108
+PR,41,26306,Sengés, 17 270
+PR,41,26355,Serranópolis do Iguaçu, 5 007
+PR,41,26405,Sertaneja, 5 616
+PR,41,26504,Sertanópolis, 15 930
+PR,41,26603,Siqueira Campos, 22 811
+PR,41,26652,Sulina, 3 440
+PR,41,26678,Tamarana, 10 707
+PR,41,26702,Tamboara, 4 880
+PR,41,26801,Tapejara, 15 869
+PR,41,26900,Tapira, 5 745
+PR,41,27007,Teixeira Soares, 9 547
+PR,41,27106,Telêmaco Borba, 75 042
+PR,41,27205,Terra Boa, 17 568
+PR,41,27304,Terra Rica, 14 842
+PR,41,27403,Terra Roxa, 18 119
+PR,41,27502,Tibagi, 19 961
+PR,41,27601,Tijucas do Sul, 17 621
+PR,41,27700,Toledo, 150 470
+PR,41,27809,Tomazina, 8 426
+PR,41,27858,Três Barras do Paraná, 11 135
+PR,41,27882,Tunas do Paraná, 6 219
+PR,41,27908,Tuneiras do Oeste, 8 067
+PR,41,27957,Tupãssi, 8 077
+PR,41,27965,Turvo, 14 231
+PR,41,28005,Ubiratã, 24 749
+PR,41,28104,Umuarama, 117 095
+PR,41,28203,União da Vitória, 55 033
+PR,41,28302,Uniflor, 2 136
+PR,41,28401,Uraí, 10 406
+PR,41,28500,Wenceslau Braz, 19 188
+PR,41,28534,Ventania, 9 681
+PR,41,28559,Vera Cruz do Oeste, 8 215
+PR,41,28609,Verê, 7 932
+PR,41,28625,Alto Paraíso, 3 055
+PR,41,28633,Doutor Ulysses, 5 697
+PR,41,28658,Virmond, 3 811
+PR,41,28708,Vitorino, 9 706
+PR,41,28807,Xambrê, 5 798
+SC,42,00051,Abdon Batista, 2 598
+SC,42,00101,Abelardo Luz, 17 392
+SC,42,00200,Agrolândia, 10 990
+SC,42,00309,Agronômica, 6 055
+SC,42,00408,Água Doce, 6 508
+SC,42,00507,Águas de Chapecó, 6 036
+SC,42,00556,Águas Frias, 2 839
+SC,42,00606,Águas Mornas, 6 743
+SC,42,00705,Alfredo Wagner, 10 481
+SC,42,00754,Alto Bela Vista, 1 856
+SC,42,00804,Anchieta, 5 943
+SC,42,00903,Angelina, 5 358
+SC,42,01000,Anita Garibaldi, 8 285
+SC,42,01109,Anitápolis, 3 593
+SC,42,01208,Antônio Carlos, 11 224
+SC,42,01257,Apiúna, 9 811
+SC,42,01273,Arabutã, 4 378
+SC,42,01307,Araquari, 45 283
+SC,42,01406,Araranguá, 71 922
+SC,42,01505,Armazém, 8 834
+SC,42,01604,Arroio Trinta, 3 556
+SC,42,01653,Arvoredo, 2 510
+SC,42,01703,Ascurra, 8 319
+SC,42,01802,Atalanta, 3 227
+SC,42,01901,Aurora, 6 780
+SC,42,01950,Balneário Arroio do Silva, 15 820
+SC,42,02008,Balneário Camboriú, 139 155
+SC,42,02057,Balneário Barra do Sul, 14 912
+SC,42,02073,Balneário Gaivota, 15 669
+SC,42,02081,Bandeirante, 3 144
+SC,42,02099,Barra Bonita, 1 668
+SC,42,02107,Barra Velha, 45 369
+SC,42,02131,Bela Vista do Toldo, 5 872
+SC,42,02156,Belmonte, 2 658
+SC,42,02206,Benedito Novo, 10 520
+SC,42,02305,Biguaçu, 76 773
+SC,42,02404,Blumenau, 361 261
+SC,42,02438,Bocaina do Sul, 3 515
+SC,42,02453,Bombinhas, 25 058
+SC,42,02503,Bom Jardim da Serra, 4 026
+SC,42,02537,Bom Jesus, 2 777
+SC,42,02578,Bom Jesus do Oeste, 2 187
+SC,42,02602,Bom Retiro, 8 418
+SC,42,02701,Botuverá, 5 363
+SC,42,02800,Braço do Norte, 33 773
+SC,42,02859,Braço do Trombudo, 4 026
+SC,42,02875,Brunópolis, 2 489
+SC,42,02909,Brusque, 141 385
+SC,42,03006,Caçador, 73 720
+SC,42,03105,Caibi, 6 304
+SC,42,03154,Calmon, 3 443
+SC,42,03204,Camboriú, 103 074
+SC,42,03253,Capão Alto, 2 625
+SC,42,03303,Campo Alegre, 12 501
+SC,42,03402,Campo Belo do Sul, 7 257
+SC,42,03501,Campo Erê, 9 623
+SC,42,03600,Campos Novos, 36 932
+SC,42,03709,Canelinha, 12 821
+SC,42,03808,Canoinhas, 55 016
+SC,42,03907,Capinzal, 23 314
+SC,42,03956,Capivari de Baixo, 23 975
+SC,42,04004,Catanduvas, 10 566
+SC,42,04103,Caxambu do Sul, 4 614
+SC,42,04152,Celso Ramos, 2 805
+SC,42,04178,Cerro Negro, 3 317
+SC,42,04194,Chapadão do Lageado, 2 950
+SC,42,04202,Chapecó, 254 785
+SC,42,04251,Cocal do Sul, 17 240
+SC,42,04301,Concórdia, 81 646
+SC,42,04350,Cordilheira Alta, 4 781
+SC,42,04400,Coronel Freitas, 10 388
+SC,42,04459,Coronel Martins, 2 065
+SC,42,04509,Corupá, 15 267
+SC,42,04558,Correia Pinto, 15 727
+SC,42,04608,Criciúma, 214 493
+SC,42,04707,Cunha Porã, 10 953
+SC,42,04756,Cunhataí, 1 968
+SC,42,04806,Curitibanos, 40 045
+SC,42,04905,Descanso, 8 530
+SC,42,05001,Dionísio Cerqueira, 15 008
+SC,42,05100,Dona Emma, 4 221
+SC,42,05159,Doutor Pedrinho, 3 637
+SC,42,05175,Entre Rios, 3 402
+SC,42,05191,Ermo, 2 269
+SC,42,05209,Erval Velho, 4 885
+SC,42,05308,Faxinal dos Guedes, 11 192
+SC,42,05357,Flor do Sertão, 1 783
+SC,42,05407,Florianópolis, 537 211
+SC,42,05431,Formosa do Sul, 2 682
+SC,42,05456,Forquilhinha, 31 431
+SC,42,05506,Fraiburgo, 33 481
+SC,42,05555,Frei Rogério, 2 411
+SC,42,05605,Galvão, 3 210
+SC,42,05704,Garopaba, 29 959
+SC,42,05803,Garuva, 18 545
+SC,42,05902,Gaspar, 72 570
+SC,42,06009,Governador Celso Ramos, 16 915
+SC,42,06108,Grão-Pará, 6 277
+SC,42,06207,Gravatal, 12 435
+SC,42,06306,Guabiruba, 24 543
+SC,42,06405,Guaraciaba, 10 796
+SC,42,06504,Guaramirim, 46 711
+SC,42,06603,Guarujá do Sul, 4 829
+SC,42,06652,Guatambú, 8 425
+SC,42,06702,Herval d'Oeste, 21 724
+SC,42,06751,Ibiam, 2 008
+SC,42,06801,Ibicaré, 3 269
+SC,42,06900,Ibirama, 19 862
+SC,42,07007,Içara, 59 035
+SC,42,07106,Ilhota, 17 046
+SC,42,07205,Imaruí, 11 881
+SC,42,07304,Imbituba, 52 579
+SC,42,07403,Imbuia, 5 982
+SC,42,07502,Indaial, 71 549
+SC,42,07577,Iomerê, 2 877
+SC,42,07601,Ipira, 4 578
+SC,42,07650,Iporã do Oeste, 9 335
+SC,42,07684,Ipuaçu, 7 730
+SC,42,07700,Ipumirim, 7 816
+SC,42,07759,Iraceminha, 3 986
+SC,42,07809,Irani, 10 195
+SC,42,07858,Irati, 2 069
+SC,42,07908,Irineópolis, 10 285
+SC,42,08005,Itá, 7 067
+SC,42,08104,Itaiópolis, 22 051
+SC,42,08203,Itajaí, 264 054
+SC,42,08302,Itapema, 75 940
+SC,42,08401,Itapiranga, 16 638
+SC,42,08450,Itapoá, 30 750
+SC,42,08500,Ituporanga, 26 525
+SC,42,08609,Jaborá, 4 310
+SC,42,08708,Jacinto Machado, 10 624
+SC,42,08807,Jaguaruna, 20 375
+SC,42,08906,Jaraguá do Sul, 182 660
+SC,42,08955,Jardinópolis, 1 776
+SC,42,09003,Joaçaba, 30 146
+SC,42,09102,Joinville, 616 317
+SC,42,09151,José Boiteux, 5 985
+SC,42,09177,Jupiá, 2 555
+SC,42,09201,Lacerdópolis, 2 248
+SC,42,09300,Lages, 164 981
+SC,42,09409,Laguna, 42 785
+SC,42,09458,Lajeado Grande, 1 702
+SC,42,09508,Laurentino, 7 932
+SC,42,09607,Lauro Müller, 14 381
+SC,42,09706,Lebon Régis, 11 472
+SC,42,09805,Leoberto Leal, 3 330
+SC,42,09854,Lindóia do Sul, 4 549
+SC,42,09904,Lontras, 12 873
+SC,42,10001,Luiz Alves, 11 684
+SC,42,10035,Luzerna, 5 794
+SC,42,10050,Macieira, 1 778
+SC,42,10100,Mafra, 55 286
+SC,42,10209,Major Gercino, 3 214
+SC,42,10308,Major Vieira, 7 425
+SC,42,10407,Maracajá, 7 815
+SC,42,10506,Maravilha, 28 251
+SC,42,10555,Marema, 2 184
+SC,42,10605,Massaranduba, 17 162
+SC,42,10704,Matos Costa, 2 761
+SC,42,10803,Meleiro, 7 006
+SC,42,10852,Mirim Doce, 2 511
+SC,42,10902,Modelo, 4 080
+SC,42,11009,Mondaí, 10 066
+SC,42,11058,Monte Carlo, 9 117
+SC,42,11108,Monte Castelo, 7 736
+SC,42,11207,Morro da Fumaça, 18 537
+SC,42,11256,Morro Grande, 3 010
+SC,42,11306,Navegantes, 86 401
+SC,42,11405,Nova Erechim, 5 155
+SC,42,11454,Nova Itaberaba, 4 536
+SC,42,11504,Nova Trento, 13 727
+SC,42,11603,Nova Veneza, 13 664
+SC,42,11652,Novo Horizonte, 2 643
+SC,42,11702,Orleans, 23 661
+SC,42,11751,Otacílio Costa, 17 312
+SC,42,11801,Ouro, 7 032
+SC,42,11850,Ouro Verde, 2 181
+SC,42,11876,Paial, 1 927
+SC,42,11892,Painel, 2 215
+SC,42,11900,Palhoça, 222 598
+SC,42,12007,Palma Sola, 7 605
+SC,42,12056,Palmeira, 2 561
+SC,42,12106,Palmitos, 15 626
+SC,42,12205,Papanduva, 19 150
+SC,42,12239,Paraíso, 4 267
+SC,42,12254,Passo de Torres, 12 897
+SC,42,12270,Passos Maia, 4 034
+SC,42,12304,Paulo Lopes, 9 063
+SC,42,12403,Pedras Grandes, 4 245
+SC,42,12502,Penha, 33 663
+SC,42,12601,Peritiba, 2 992
+SC,42,12650,Pescaria Brava, 10 190
+SC,42,12700,Petrolândia, 6 716
+SC,42,12809,Balneário Piçarras, 27 127
+SC,42,12908,Pinhalzinho, 21 972
+SC,42,13005,Pinheiro Preto, 3 473
+SC,42,13104,Piratuba, 5 769
+SC,42,13153,Planalto Alegre, 2 946
+SC,42,13203,Pomerode, 34 289
+SC,42,13302,Ponte Alta, 4 437
+SC,42,13351,Ponte Alta do Norte, 3 210
+SC,42,13401,Ponte Serrada, 10 649
+SC,42,13500,Porto Belo, 27 688
+SC,42,13609,Porto União, 32 970
+SC,42,13708,Pouso Redondo, 17 123
+SC,42,13807,Praia Grande, 8 270
+SC,42,13906,Presidente Castello Branco, 1 689
+SC,42,14003,Presidente Getúlio, 20 010
+SC,42,14102,Presidente Nereu, 2 301
+SC,42,14151,Princesa, 2 964
+SC,42,14201,Quilombo, 11 022
+SC,42,14300,Rancho Queimado, 3 279
+SC,42,14409,Rio das Antas, 6 253
+SC,42,14508,Rio do Campo, 6 452
+SC,42,14607,Rio do Oeste, 7 747
+SC,42,14706,Rio dos Cedros, 10 865
+SC,42,14805,Rio do Sul, 72 587
+SC,42,14904,Rio Fortuna, 4 847
+SC,42,15000,Rio Negrinho, 39 261
+SC,42,15059,Rio Rufino, 2 397
+SC,42,15075,Riqueza, 4 768
+SC,42,15109,Rodeio, 12 757
+SC,42,15208,Romelândia, 4 823
+SC,42,15307,Salete, 7 489
+SC,42,15356,Saltinho, 3 632
+SC,42,15406,Salto Veloso, 4 390
+SC,42,15455,Sangão, 12 882
+SC,42,15505,Santa Cecília, 15 546
+SC,42,15554,Santa Helena, 2 425
+SC,42,15604,Santa Rosa de Lima, 2 088
+SC,42,15653,Santa Rosa do Sul, 9 792
+SC,42,15679,Santa Terezinha, 8 066
+SC,42,15687,Santa Terezinha do Progresso, 2 576
+SC,42,15695,Santiago do Sul, 1 651
+SC,42,15703,Santo Amaro da Imperatriz, 27 272
+SC,42,15752,São Bernardino, 2 684
+SC,42,15802,São Bento do Sul, 83 277
+SC,42,15901,São Bonifácio, 2 946
+SC,42,16008,São Carlos, 10 282
+SC,42,16057,São Cristóvão do Sul, 6 084
+SC,42,16107,São Domingos, 9 226
+SC,42,16206,São Francisco do Sul, 52 674
+SC,42,16255,São João do Oeste, 6 295
+SC,42,16305,São João Batista, 32 687
+SC,42,16354,São João do Itaperiú, 4 463
+SC,42,16404,São João do Sul, 8 668
+SC,42,16503,São Joaquim, 25 939
+SC,42,16602,São José, 270 299
+SC,42,16701,São José do Cedro, 14 167
+SC,42,16800,São José do Cerrito, 8 708
+SC,42,16909,São Lourenço do Oeste, 24 791
+SC,42,17006,São Ludgero, 13 509
+SC,42,17105,São Martinho, 3 405
+SC,42,17154,São Miguel da Boa Vista, 1 781
+SC,42,17204,São Miguel do Oeste, 44 330
+SC,42,17253,São Pedro de Alcântara, 5 776
+SC,42,17303,Saudades, 10 265
+SC,42,17402,Schroeder, 20 061
+SC,42,17501,Seara, 18 620
+SC,42,17550,Serra Alta, 3 303
+SC,42,17600,Siderópolis, 13 714
+SC,42,17709,Sombrio, 29 991
+SC,42,17758,Sul Brasil, 2 832
+SC,42,17808,Taió, 18 310
+SC,42,17907,Tangará, 8 143
+SC,42,17956,Tigrinhos, 2 329
+SC,42,18004,Tijucas, 51 592
+SC,42,18103,Timbé do Sul, 5 386
+SC,42,18202,Timbó, 46 099
+SC,42,18251,Timbó Grande, 7 342
+SC,42,18301,Três Barras, 19 746
+SC,42,18350,Treviso, 3 782
+SC,42,18400,Treze de Maio, 7 362
+SC,42,18509,Treze Tílias, 8 787
+SC,42,18608,Trombudo Central, 7 274
+SC,42,18707,Tubarão, 110 088
+SC,42,18756,Tunápolis, 4 916
+SC,42,18806,Turvo, 13 043
+SC,42,18855,União do Oeste, 2 774
+SC,42,18905,Urubici, 10 834
+SC,42,18954,Urupema, 2 656
+SC,42,19002,Urussanga, 20 919
+SC,42,19101,Vargeão, 3 634
+SC,42,19150,Vargem, 2 627
+SC,42,19176,Vargem Bonita, 4 576
+SC,42,19200,Vidal Ramos, 6 189
+SC,42,19309,Videira, 55 466
+SC,42,19358,Vitor Meireles, 5 370
+SC,42,19408,Witmarsum, 4 255
+SC,42,19507,Xanxerê, 51 607
+SC,42,19606,Xavantina, 3 653
+SC,42,19705,Xaxim, 31 918
+SC,42,19853,Zortéa, 3 930
+SC,42,20000,Balneário Rincão, 15 981
+RS,43,00034,Aceguá, 4 170
+RS,43,00059,Água Santa, 3 912
+RS,43,00109,Agudo, 16 041
+RS,43,00208,Ajuricaba, 6 720
+RS,43,00307,Alecrim, 6 123
+RS,43,00406,Alegrete, 72 409
+RS,43,00455,Alegria, 3 651
+RS,43,00471,Almirante Tamandaré do Sul, 1 969
+RS,43,00505,Alpestre, 7 117
+RS,43,00554,Alto Alegre, 1 800
+RS,43,00570,Alto Feliz, 3 072
+RS,43,00604,Alvorada, 187 315
+RS,43,00638,Amaral Ferrador, 5 310
+RS,43,00646,Ametista do Sul, 7 650
+RS,43,00661,André da Rocha, 1 135
+RS,43,00703,Anta Gorda, 5 957
+RS,43,00802,Antônio Prado, 13 045
+RS,43,00851,Arambaré, 4 112
+RS,43,00877,Araricá, 8 525
+RS,43,00901,Aratiba, 6 483
+RS,43,01008,Arroio do Meio, 21 958
+RS,43,01057,Arroio do Sal, 11 057
+RS,43,01073,Arroio do Padre, 2 599
+RS,43,01107,Arroio dos Ratos, 14 601
+RS,43,01206,Arroio do Tigre, 12 058
+RS,43,01305,Arroio Grande, 17 558
+RS,43,01404,Arvorezinha, 10 322
+RS,43,01503,Augusto Pestana, 7 149
+RS,43,01552,Áurea, 3 396
+RS,43,01602,Bagé, 117 938
+RS,43,01636,Balneário Pinhal, 14 955
+RS,43,01651,Barão, 6 461
+RS,43,01701,Barão de Cotegipe, 7 144
+RS,43,01750,Barão do Triunfo, 5 889
+RS,43,01800,Barracão, 4 831
+RS,43,01859,Barra do Guarita, 3 161
+RS,43,01875,Barra do Quaraí, 4 241
+RS,43,01909,Barra do Ribeiro, 12 225
+RS,43,01925,Barra do Rio Azul, 1 696
+RS,43,01958,Barra Funda, 2 498
+RS,43,02006,Barros Cassal, 9 296
+RS,43,02055,Benjamin Constant do Sul, 2 082
+RS,43,02105,Bento Gonçalves, 123 151
+RS,43,02154,Boa Vista das Missões, 1 933
+RS,43,02204,Boa Vista do Buricá, 6 966
+RS,43,02220,Boa Vista do Cadeado, 2 229
+RS,43,02238,Boa Vista do Incra, 2 271
+RS,43,02253,Boa Vista do Sul, 2 779
+RS,43,02303,Bom Jesus, 11 202
+RS,43,02352,Bom Princípio, 13 142
+RS,43,02378,Bom Progresso, 2 096
+RS,43,02402,Bom Retiro do Sul, 12 294
+RS,43,02451,Boqueirão do Leão, 6 247
+RS,43,02501,Bossoroca, 5 890
+RS,43,02584,Bozano, 2 151
+RS,43,02600,Braga, 3 268
+RS,43,02659,Brochier, 4 966
+RS,43,02709,Butiá, 19 084
+RS,43,02808,Caçapava do Sul, 32 515
+RS,43,02907,Cacequi, 11 157
+RS,43,03004,Cachoeira do Sul, 80 070
+RS,43,03103,Cachoeirinha, 136 258
+RS,43,03202,Cacique Doble, 4 603
+RS,43,03301,Caibaté, 4 704
+RS,43,03400,Caiçara, 4 836
+RS,43,03509,Camaquã, 62 200
+RS,43,03558,Camargo, 2 981
+RS,43,03608,Cambará do Sul, 6 361
+RS,43,03673,Campestre da Serra, 3 242
+RS,43,03707,Campina das Missões, 5 882
+RS,43,03806,Campinas do Sul, 5 284
+RS,43,03905,Campo Bom, 62 886
+RS,43,04002,Campo Novo, 4 975
+RS,43,04101,Campos Borges, 3 613
+RS,43,04200,Candelária, 28 906
+RS,43,04309,Cândido Godói, 6 294
+RS,43,04358,Candiota, 10 710
+RS,43,04408,Canela, 48 946
+RS,43,04507,Canguçu, 49 680
+RS,43,04606,Canoas, 347 657
+RS,43,04614,Canudos do Vale, 1 656
+RS,43,04622,Capão Bonito do Sul, 1 733
+RS,43,04630,Capão da Canoa, 63 594
+RS,43,04655,Capão do Cipó, 3 119
+RS,43,04663,Capão do Leão, 26 487
+RS,43,04671,Capivari do Sul, 3 991
+RS,43,04689,Capela de Santana, 11 159
+RS,43,04697,Capitão, 2 921
+RS,43,04705,Carazinho, 61 804
+RS,43,04713,Caraá, 7 394
+RS,43,04804,Carlos Barbosa, 30 420
+RS,43,04853,Carlos Gomes, 1 368
+RS,43,04903,Casca, 9 465
+RS,43,04952,Caseiros, 3 000
+RS,43,05009,Catuípe, 8 674
+RS,43,05108,Caxias do Sul, 463 501
+RS,43,05116,Centenário, 2 721
+RS,43,05124,Cerrito, 5 808
+RS,43,05132,Cerro Branco, 3 802
+RS,43,05157,Cerro Grande, 2 379
+RS,43,05173,Cerro Grande do Sul, 9 178
+RS,43,05207,Cerro Largo, 13 705
+RS,43,05306,Chapada, 9 540
+RS,43,05355,Charqueadas, 35 012
+RS,43,05371,Charrua, 2 768
+RS,43,05405,Chiapetta, 3 913
+RS,43,05439,Chuí, 6 262
+RS,43,05447,Chuvisca, 4 597
+RS,43,05454,Cidreira, 17 071
+RS,43,05504,Ciríaco, 4 149
+RS,43,05587,Colinas, 2 423
+RS,43,05603,Colorado, 3 258
+RS,43,05702,Condor, 6 406
+RS,43,05801,Constantina, 10 385
+RS,43,05835,Coqueiro Baixo, 1 290
+RS,43,05850,Coqueiros do Sul, 2 211
+RS,43,05871,Coronel Barros, 2 822
+RS,43,05900,Coronel Bicaco, 6 144
+RS,43,05934,Coronel Pilar, 1 607
+RS,43,05959,Cotiporã, 3 846
+RS,43,05975,Coxilha, 2 667
+RS,43,06007,Crissiumal, 12 886
+RS,43,06056,Cristal, 7 299
+RS,43,06072,Cristal do Sul, 2 692
+RS,43,06106,Cruz Alta, 58 913
+RS,43,06130,Cruzaltense, 1 635
+RS,43,06205,Cruzeiro do Sul, 11 600
+RS,43,06304,David Canabarro, 4 321
+RS,43,06320,Derrubadas, 2 751
+RS,43,06353,Dezesseis de Novembro, 2 507
+RS,43,06379,Dilermando de Aguiar, 2 806
+RS,43,06403,Dois Irmãos, 30 709
+RS,43,06429,Dois Irmãos das Missões, 2 090
+RS,43,06452,Dois Lajeados, 3 097
+RS,43,06502,Dom Feliciano, 13 051
+RS,43,06551,Dom Pedro de Alcântara, 2 562
+RS,43,06601,Dom Pedrito, 36 981
+RS,43,06700,Dona Francisca, 3 079
+RS,43,06734,Doutor Maurício Cardoso, 4 470
+RS,43,06759,Doutor Ricardo, 1 888
+RS,43,06767,Eldorado do Sul, 39 559
+RS,43,06809,Encantado, 22 962
+RS,43,06908,Encruzilhada do Sul, 23 819
+RS,43,06924,Engenho Velho, 1 296
+RS,43,06932,Entre-Ijuís, 9 158
+RS,43,06957,Entre Rios do Sul, 2 685
+RS,43,06973,Erebango, 3 054
+RS,43,07005,Erechim, 105 705
+RS,43,07054,Ernestina, 3 034
+RS,43,07104,Herval, 6 191
+RS,43,07203,Erval Grande, 4 930
+RS,43,07302,Erval Seco, 6 787
+RS,43,07401,Esmeralda, 3 195
+RS,43,07450,Esperança do Sul, 3 226
+RS,43,07500,Espumoso, 15 173
+RS,43,07559,Estação, 5 582
+RS,43,07609,Estância Velha, 47 924
+RS,43,07708,Esteio, 76 137
+RS,43,07807,Estrela, 32 183
+RS,43,07815,Estrela Velha, 3 070
+RS,43,07831,Eugênio de Castro, 2 633
+RS,43,07864,Fagundes Varela, 2 566
+RS,43,07906,Farroupilha, 70 286
+RS,43,08003,Faxinal do Soturno, 6 702
+RS,43,08052,Faxinalzinho, 2 520
+RS,43,08078,Fazenda Vilanova, 4 291
+RS,43,08102,Feliz, 13 764
+RS,43,08201,Flores da Cunha, 30 892
+RS,43,08250,Floriano Peixoto, 1 668
+RS,43,08300,Fontoura Xavier, 9 550
+RS,43,08409,Formigueiro, 6 413
+RS,43,08433,Forquetinha, 2 393
+RS,43,08458,Fortaleza dos Valos, 4 477
+RS,43,08508,Frederico Westphalen, 32 627
+RS,43,08607,Garibaldi, 34 335
+RS,43,08656,Garruchos, 2 688
+RS,43,08706,Gaurama, 5 665
+RS,43,08805,General Câmara, 7 612
+RS,43,08854,Gentil, 1 744
+RS,43,08904,Getúlio Vargas, 16 602
+RS,43,09001,Giruá, 16 013
+RS,43,09050,Glorinha, 7 658
+RS,43,09100,Gramado, 40 134
+RS,43,09126,Gramado dos Loureiros, 2 014
+RS,43,09159,Gramado Xavier, 3 304
+RS,43,09209,Gravataí, 265 074
+RS,43,09258,Guabiju, 1 417
+RS,43,09308,Guaíba, 92 924
+RS,43,09407,Guaporé, 25 268
+RS,43,09506,Guarani das Missões, 7 415
+RS,43,09555,Harmonia, 5 378
+RS,43,09571,Herveiras, 2 565
+RS,43,09605,Horizontina, 18 851
+RS,43,09654,Hulha Negra, 5 976
+RS,43,09704,Humaitá, 4 681
+RS,43,09753,Ibarama, 3 732
+RS,43,09803,Ibiaçá, 4 527
+RS,43,09902,Ibiraiaras, 6 776
+RS,43,09951,Ibirapuitã, 3 723
+RS,43,10009,Ibirubá, 21 583
+RS,43,10108,Igrejinha, 32 808
+RS,43,10207,Ijuí, 84 780
+RS,43,10306,Ilópolis, 4 157
+RS,43,10330,Imbé, 26 824
+RS,43,10363,Imigrante, 3 080
+RS,43,10405,Independência, 6 427
+RS,43,10413,Inhacorá, 2 014
+RS,43,10439,Ipê, 5 399
+RS,43,10462,Ipiranga do Sul, 1 720
+RS,43,10504,Iraí, 7 482
+RS,43,10538,Itaara, 5 572
+RS,43,10553,Itacurubi, 2 995
+RS,43,10579,Itapuca, 1 937
+RS,43,10603,Itaqui, 35 768
+RS,43,10652,Itati, 2 638
+RS,43,10702,Itatiba do Sul, 3 208
+RS,43,10751,Ivorá, 1 929
+RS,43,10801,Ivoti, 22 983
+RS,43,10850,Jaboticaba, 3 779
+RS,43,10876,Jacuizinho, 2 040
+RS,43,10900,Jacutinga, 3 338
+RS,43,11007,Jaguarão, 26 603
+RS,43,11106,Jaguari, 10 579
+RS,43,11122,Jaquirana, 3 690
+RS,43,11130,Jari, 3 349
+RS,43,11155,Jóia, 7 184
+RS,43,11205,Júlio de Castilhos, 18 226
+RS,43,11239,Lagoa Bonita do Sul, 2 251
+RS,43,11254,Lagoão, 5 341
+RS,43,11270,Lagoa dos Três Cantos, 1 738
+RS,43,11304,Lagoa Vermelha, 27 659
+RS,43,11403,Lajeado, 93 646
+RS,43,11429,Lajeado do Bugre, 2 601
+RS,43,11502,Lavras do Sul, 7 157
+RS,43,11601,Liberato Salzano, 4 781
+RS,43,11627,Lindolfo Collor, 6 248
+RS,43,11643,Linha Nova, 1 683
+RS,43,11700,Machadinho, 5 735
+RS,43,11718,Maçambará, 4 425
+RS,43,11734,Mampituba, 3 131
+RS,43,11759,Manoel Viana, 6 801
+RS,43,11775,Maquiné, 7 418
+RS,43,11791,Maratá, 2 470
+RS,43,11809,Marau, 45 124
+RS,43,11908,Marcelino Ramos, 4 320
+RS,43,11981,Mariana Pimentel, 3 916
+RS,43,12005,Mariano Moro, 1 858
+RS,43,12054,Marques de Souza, 3 969
+RS,43,12104,Mata, 4 698
+RS,43,12138,Mato Castelhano, 2 553
+RS,43,12153,Mato Leitão, 4 859
+RS,43,12179,Mato Queimado, 1 795
+RS,43,12203,Maximiliano de Almeida, 4 191
+RS,43,12252,Minas do Leão, 7 505
+RS,43,12302,Miraguaí, 4 427
+RS,43,12351,Montauri, 1 499
+RS,43,12377,Monte Alegre dos Campos, 3 180
+RS,43,12385,Monte Belo do Sul, 2 557
+RS,43,12401,Montenegro, 64 322
+RS,43,12427,Mormaço, 2 756
+RS,43,12443,Morrinhos do Sul, 3 071
+RS,43,12450,Morro Redondo, 6 046
+RS,43,12476,Morro Reuter, 6 029
+RS,43,12500,Mostardas, 12 090
+RS,43,12609,Muçum, 4 601
+RS,43,12617,Muitos Capões, 2 879
+RS,43,12625,Muliterno, 1 721
+RS,43,12658,Não-Me-Toque, 17 898
+RS,43,12674,Nicolau Vergueiro, 1 932
+RS,43,12708,Nonoai, 13 719
+RS,43,12757,Nova Alvorada, 3 163
+RS,43,12807,Nova Araçá, 4 954
+RS,43,12906,Nova Bassano, 9 649
+RS,43,12955,Nova Boa Vista, 2 042
+RS,43,13003,Nova Bréscia, 3 044
+RS,43,13011,Nova Candelária, 3 061
+RS,43,13037,Nova Esperança do Sul, 4 865
+RS,43,13060,Nova Hartz, 20 088
+RS,43,13086,Nova Pádua, 2 343
+RS,43,13102,Nova Palma, 5 586
+RS,43,13201,Nova Petrópolis, 23 300
+RS,43,13300,Nova Prata, 25 692
+RS,43,13334,Nova Ramada, 2 163
+RS,43,13359,Nova Roma do Sul, 3 466
+RS,43,13375,Nova Santa Rita, 29 024
+RS,43,13391,Novo Cabrais, 3 568
+RS,43,13409,Novo Hamburgo, 227 646
+RS,43,13425,Novo Machado, 3 198
+RS,43,13441,Novo Tiradentes, 2 146
+RS,43,13466,Novo Xingu, 1 646
+RS,43,13490,Novo Barreiro, 4 272
+RS,43,13508,Osório, 47 396
+RS,43,13607,Paim Filho, 3 629
+RS,43,13656,Palmares do Sul, 12 844
+RS,43,13706,Palmeira das Missões, 33 216
+RS,43,13805,Palmitinho, 7 839
+RS,43,13904,Panambi, 43 515
+RS,43,13953,Pantano Grande, 10 212
+RS,43,14001,Paraí, 7 194
+RS,43,14027,Paraíso do Sul, 6 519
+RS,43,14035,Pareci Novo, 4 319
+RS,43,14050,Parobé, 52 058
+RS,43,14068,Passa Sete, 3 983
+RS,43,14076,Passo do Sobrado, 6 025
+RS,43,14100,Passo Fundo, 206 215
+RS,43,14134,Paulo Bento, 2 144
+RS,43,14159,Paverama, 7 978
+RS,43,14175,Pedras Altas, 2 061
+RS,43,14209,Pedro Osório, 7 484
+RS,43,14308,Pejuçara, 3 745
+RS,43,14407,Pelotas, 325 685
+RS,43,14423,Picada Café, 5 351
+RS,43,14456,Pinhal, 2 959
+RS,43,14464,Pinhal da Serra, 2 248
+RS,43,14472,Pinhal Grande, 3 805
+RS,43,14498,Pinheirinho do Vale, 4 540
+RS,43,14506,Pinheiro Machado, 11 214
+RS,43,14548,Pinto Bandeira, 2 723
+RS,43,14555,Pirapó, 2 260
+RS,43,14605,Piratini, 17 504
+RS,43,14704,Planalto, 10 406
+RS,43,14753,Poço das Antas, 2 171
+RS,43,14779,Pontão, 3 296
+RS,43,14787,Ponte Preta, 1 575
+RS,43,14803,Portão, 34 071
+RS,43,14902,Porto Alegre,1 332 845
+RS,43,15008,Porto Lucena, 4 360
+RS,43,15057,Porto Mauá, 2 142
+RS,43,15073,Porto Vera Cruz, 1 560
+RS,43,15107,Porto Xavier, 9 938
+RS,43,15131,Pouso Novo, 1 739
+RS,43,15149,Presidente Lucena, 3 077
+RS,43,15156,Progresso, 5 340
+RS,43,15172,Protásio Alves, 2 025
+RS,43,15206,Putinga, 3 747
+RS,43,15305,Quaraí, 23 500
+RS,43,15313,Quatro Irmãos, 1 552
+RS,43,15321,Quevedos, 2 507
+RS,43,15354,Quinze de Novembro, 3 910
+RS,43,15404,Redentora, 9 738
+RS,43,15453,Relvado, 1 796
+RS,43,15503,Restinga Sêca, 14 939
+RS,43,15552,Rio dos Índios, 2 835
+RS,43,15602,Rio Grande, 191 900
+RS,43,15701,Rio Pardo, 34 654
+RS,43,15750,Riozinho, 4 473
+RS,43,15800,Roca Sales, 10 418
+RS,43,15909,Rodeio Bonito, 6 654
+RS,43,15958,Rolador, 2 291
+RS,43,16006,Rolante, 21 253
+RS,43,16105,Ronda Alta, 9 777
+RS,43,16204,Rondinha, 4 991
+RS,43,16303,Roque Gonzales, 6 576
+RS,43,16402,Rosário do Sul, 36 630
+RS,43,16428,Sagrada Família, 2 480
+RS,43,16436,Saldanha Marinho, 2 575
+RS,43,16451,Salto do Jacuí, 10 203
+RS,43,16477,Salvador das Missões, 2 877
+RS,43,16501,Salvador do Sul, 6 879
+RS,43,16600,Sananduva, 16 399
+RS,43,16709,Santa Bárbara do Sul, 8 122
+RS,43,16733,Santa Cecília do Sul, 1 674
+RS,43,16758,Santa Clara do Sul, 6 887
+RS,43,16808,Santa Cruz do Sul, 133 230
+RS,43,16907,Santa Maria, 271 735
+RS,43,16956,Santa Maria do Herval, 6 340
+RS,43,16972,Santa Margarida do Sul, 2 596
+RS,43,17004,Santana da Boa Vista, 7 024
+RS,43,17103,Sant'Ana do Livramento, 84 421
+RS,43,17202,Santa Rosa, 76 963
+RS,43,17251,Santa Tereza, 1 505
+RS,43,17301,Santa Vitória do Palmar, 30 983
+RS,43,17400,Santiago, 48 938
+RS,43,17509,Santo Ângelo, 76 917
+RS,43,17558,Santo Antônio do Palma, 2 091
+RS,43,17608,Santo Antônio da Patrulha, 42 947
+RS,43,17707,Santo Antônio das Missões, 10 300
+RS,43,17756,Santo Antônio do Planalto, 2 089
+RS,43,17806,Santo Augusto, 13 902
+RS,43,17905,Santo Cristo, 15 320
+RS,43,17954,Santo Expedito do Sul, 2 349
+RS,43,18002,São Borja, 59 676
+RS,43,18051,São Domingos do Sul, 2 754
+RS,43,18101,São Francisco de Assis, 17 618
+RS,43,18200,São Francisco de Paula, 21 893
+RS,43,18309,São Gabriel, 58 487
+RS,43,18408,São Jerônimo, 21 028
+RS,43,18424,São João da Urtiga, 4 461
+RS,43,18432,São João do Polêsine, 2 649
+RS,43,18440,São Jorge, 2 912
+RS,43,18457,São José das Missões, 2 362
+RS,43,18465,São José do Herval, 1 902
+RS,43,18481,São José do Hortêncio, 4 447
+RS,43,18499,São José do Inhacorá, 2 406
+RS,43,18507,São José do Norte, 25 443
+RS,43,18606,São José do Ouro, 6 834
+RS,43,18614,São José do Sul, 2 380
+RS,43,18622,São José dos Ausentes, 4 172
+RS,43,18705,São Leopoldo, 217 409
+RS,43,18804,São Lourenço do Sul, 41 989
+RS,43,18903,São Luiz Gonzaga, 34 752
+RS,43,19000,São Marcos, 21 084
+RS,43,19109,São Martinho, 5 481
+RS,43,19125,São Martinho da Serra, 2 860
+RS,43,19158,São Miguel das Missões, 7 056
+RS,43,19208,São Nicolau, 5 118
+RS,43,19307,São Paulo das Missões, 5 846
+RS,43,19356,São Pedro da Serra, 3 548
+RS,43,19364,São Pedro das Missões, 1 757
+RS,43,19372,São Pedro do Butiá, 3 070
+RS,43,19406,São Pedro do Sul, 15 577
+RS,43,19505,São Sebastião do Caí, 24 428
+RS,43,19604,São Sepé, 21 219
+RS,43,19703,São Valentim, 3 264
+RS,43,19711,São Valentim do Sul, 2 207
+RS,43,19737,São Valério do Sul, 2 543
+RS,43,19752,São Vendelino, 2 251
+RS,43,19802,São Vicente do Sul, 8 097
+RS,43,19901,Sapiranga, 75 648
+RS,43,20008,Sapucaia do Sul, 132 107
+RS,43,20107,Sarandi, 22 851
+RS,43,20206,Seberi, 11 950
+RS,43,20230,Sede Nova, 2 704
+RS,43,20263,Segredo, 6 009
+RS,43,20305,Selbach, 5 107
+RS,43,20321,Senador Salgado Filho, 2 673
+RS,43,20354,Sentinela do Sul, 5 306
+RS,43,20404,Serafina Corrêa, 16 961
+RS,43,20453,Sério, 1 941
+RS,43,20503,Sertão, 5 541
+RS,43,20552,Sertão Santana, 5 863
+RS,43,20578,Sete de Setembro, 1 830
+RS,43,20602,Severiano de Almeida, 3 406
+RS,43,20651,Silveira Martins, 2 028
+RS,43,20677,Sinimbu, 8 578
+RS,43,20701,Sobradinho, 14 226
+RS,43,20800,Soledade, 29 991
+RS,43,20859,Tabaí, 4 461
+RS,43,20909,Tapejara, 24 557
+RS,43,21006,Tapera, 10 592
+RS,43,21105,Tapes, 14 695
+RS,43,21204,Taquara, 53 242
+RS,43,21303,Taquari, 25 198
+RS,43,21329,Taquaruçu do Sul, 3 119
+RS,43,21352,Tavares, 5 212
+RS,43,21402,Tenente Portela, 14 497
+RS,43,21436,Terra de Areia, 10 334
+RS,43,21451,Teutônia, 32 797
+RS,43,21469,Tio Hugo, 3 267
+RS,43,21477,Tiradentes do Sul, 5 129
+RS,43,21493,Toropi, 2 554
+RS,43,21501,Torres, 41 751
+RS,43,21600,Tramandaí, 54 387
+RS,43,21626,Travesseiro, 2 152
+RS,43,21634,Três Arroios, 2 591
+RS,43,21667,Três Cachoeiras, 10 962
+RS,43,21709,Três Coroas, 24 425
+RS,43,21808,Três de Maio, 24 916
+RS,43,21832,Três Forquilhas, 2 760
+RS,43,21857,Três Palmeiras, 4 716
+RS,43,21907,Três Passos, 25 436
+RS,43,21956,Trindade do Sul, 7 556
+RS,43,22004,Triunfo, 27 498
+RS,43,22103,Tucunduva, 5 542
+RS,43,22152,Tunas, 3 681
+RS,43,22186,Tupanci do Sul, 1 374
+RS,43,22202,Tupanciretã, 20 005
+RS,43,22251,Tupandi, 5 029
+RS,43,22301,Tuparendi, 8 363
+RS,43,22327,Turuçu, 3 419
+RS,43,22343,Ubiretama, 1 994
+RS,43,22350,União da Serra, 1 170
+RS,43,22376,Unistalda, 1 995
+RS,43,22400,Uruguaiana, 117 210
+RS,43,22509,Vacaria, 64 197
+RS,43,22525,Vale Verde, 3 150
+RS,43,22533,Vale do Sol, 9 897
+RS,43,22541,Vale Real, 6 058
+RS,43,22558,Vanini, 2 004
+RS,43,22608,Venâncio Aires, 68 763
+RS,43,22707,Vera Cruz, 26 710
+RS,43,22806,Veranópolis, 24 021
+RS,43,22855,Vespasiano Corrêa, 1 818
+RS,43,22905,Viadutos, 4 769
+RS,43,23002,Viamão, 224 112
+RS,43,23101,Vicente Dutra, 4 665
+RS,43,23200,Victor Graeff, 2 780
+RS,43,23309,Vila Flores, 3 646
+RS,43,23358,Vila Lângaro, 2 079
+RS,43,23408,Vila Maria, 4 413
+RS,43,23457,Vila Nova do Sul, 3 863
+RS,43,23507,Vista Alegre, 2 660
+RS,43,23606,Vista Alegre do Prata, 1 590
+RS,43,23705,Vista Gaúcha, 2 783
+RS,43,23754,Vitória das Missões, 3 260
+RS,43,23770,Westfália, 3 098
+RS,43,23804,Xangri-lá, 16 463
+MS,50,00203,Água Clara, 16 741
+MS,50,00252,Alcinópolis, 4 537
+MS,50,00609,Amambai, 39 325
+MS,50,00708,Anastácio, 24 114
+MS,50,00807,Anaurilândia, 7 653
+MS,50,00856,Angélica, 10 729
+MS,50,00906,Antônio João, 9 303
+MS,50,01003,Aparecida do Taboado, 27 674
+MS,50,01102,Aquidauana, 46 803
+MS,50,01243,Aral Moreira, 10 748
+MS,50,01508,Bandeirantes, 7 940
+MS,50,01904,Bataguassu, 23 031
+MS,50,02001,Batayporã, 10 712
+MS,50,02100,Bela Vista, 21 613
+MS,50,02159,Bodoquena, 8 567
+MS,50,02209,Bonito, 23 659
+MS,50,02308,Brasilândia, 11 579
+MS,50,02407,Caarapó, 30 612
+MS,50,02605,Camapuã, 13 583
+MS,50,02704,Campo Grande, 898 100
+MS,50,02803,Caracol, 5 036
+MS,50,02902,Cassilândia, 20 988
+MS,50,02951,Chapadão do Sul, 30 993
+MS,50,03108,Corguinho, 4 783
+MS,50,03157,Coronel Sapucaia, 14 289
+MS,50,03207,Corumbá, 96 268
+MS,50,03256,Costa Rica, 26 037
+MS,50,03306,Coxim, 32 151
+MS,50,03454,Deodápolis, 13 663
+MS,50,03488,Dois Irmãos do Buriti, 11 100
+MS,50,03504,Douradina, 5 578
+MS,50,03702,Dourados, 243 367
+MS,50,03751,Eldorado, 11 386
+MS,50,03801,Fátima do Sul, 20 609
+MS,50,03900,Figueirão, 3 539
+MS,50,04007,Glória de Dourados, 10 444
+MS,50,04106,Guia Lopes da Laguna, 9 940
+MS,50,04304,Iguatemi, 13 808
+MS,50,04403,Inocência, 8 404
+MS,50,04502,Itaporã, 24 137
+MS,50,04601,Itaquiraí, 19 423
+MS,50,04700,Ivinhema, 27 821
+MS,50,04809,Japorã, 8 148
+MS,50,04908,Jaraguari, 7 139
+MS,50,05004,Jardim, 23 981
+MS,50,05103,Jateí, 3 586
+MS,50,05152,Juti, 6 729
+MS,50,05202,Ladário, 21 522
+MS,50,05251,Laguna Carapã, 6 799
+MS,50,05400,Maracaju, 45 047
+MS,50,05608,Miranda, 25 536
+MS,50,05681,Mundo Novo, 19 193
+MS,50,05707,Naviraí, 50 457
+MS,50,05806,Nioaque, 13 220
+MS,50,06002,Nova Alvorada do Sul, 21 822
+MS,50,06200,Nova Andradina, 48 563
+MS,50,06259,Novo Horizonte do Sul, 4 721
+MS,50,06275,Paraíso das Águas, 5 510
+MS,50,06309,Paranaíba, 40 957
+MS,50,06358,Paranhos, 12 921
+MS,50,06408,Pedro Gomes, 6 941
+MS,50,06606,Ponta Porã, 92 017
+MS,50,06903,Porto Murtinho, 12 859
+MS,50,07109,Ribas do Rio Pardo, 23 150
+MS,50,07208,Rio Brilhante, 37 601
+MS,50,07307,Rio Negro, 4 841
+MS,50,07406,Rio Verde de Mato Grosso, 19 818
+MS,50,07505,Rochedo, 5 199
+MS,50,07554,Santa Rita do Pardo, 7 027
+MS,50,07695,São Gabriel do Oeste, 29 579
+MS,50,07703,Sete Quedas, 10 994
+MS,50,07802,Selvíria, 8 142
+MS,50,07901,Sidrolândia, 47 118
+MS,50,07935,Sonora, 14 516
+MS,50,07950,Tacuru, 10 808
+MS,50,07976,Taquarussu, 3 625
+MS,50,08008,Terenos, 17 652
+MS,50,08305,Três Lagoas, 132 152
+MS,50,08404,Vicentina, 6 336
+MT,51,00102,Acorizal, 5 014
+MT,51,00201,Água Boa, 29 219
+MT,51,00250,Alta Floresta, 58 613
+MT,51,00300,Alto Araguaia, 17 193
+MT,51,00359,Alto Boa Vista, 5 715
+MT,51,00409,Alto Garças, 13 052
+MT,51,00508,Alto Paraguai, 8 009
+MT,51,00607,Alto Taquari, 10 904
+MT,51,00805,Apiacás, 8 590
+MT,51,01001,Araguaiana, 3 795
+MT,51,01209,Araguainha, 1 010
+MT,51,01258,Araputanga, 14 786
+MT,51,01308,Arenápolis, 10 576
+MT,51,01407,Aripuanã, 24 626
+MT,51,01605,Barão de Melgaço, 7 253
+MT,51,01704,Barra do Bugres, 29 403
+MT,51,01803,Barra do Garças, 69 210
+MT,51,01852,Bom Jesus do Araguaia, 7 280
+MT,51,01902,Brasnorte, 17 004
+MT,51,02504,Cáceres, 89 681
+MT,51,02603,Campinápolis, 15 347
+MT,51,02637,Campo Novo do Parecis, 45 899
+MT,51,02678,Campo Verde, 44 585
+MT,51,02686,Campos de Júlio, 8 822
+MT,51,02694,Canabrava do Norte, 4 485
+MT,51,02702,Canarana, 25 858
+MT,51,02793,Carlinda, 10 332
+MT,51,02850,Castanheira, 7 506
+MT,51,03007,Chapada dos Guimarães, 18 990
+MT,51,03056,Cláudia, 9 593
+MT,51,03106,Cocalinho, 6 220
+MT,51,03205,Colíder, 31 370
+MT,51,03254,Colniza, 25 766
+MT,51,03304,Comodoro, 18 238
+MT,51,03353,Confresa, 35 075
+MT,51,03361,Conquista D'Oeste, 3 760
+MT,51,03379,Cotriguaçu, 11 011
+MT,51,03403,Cuiabá, 650 877
+MT,51,03437,Curvelândia, 4 903
+MT,51,03452,Denise, 7 014
+MT,51,03502,Diamantino, 21 941
+MT,51,03601,Dom Aquino, 7 872
+MT,51,03700,Feliz Natal, 10 521
+MT,51,03809,Figueirópolis D'Oeste, 3 187
+MT,51,03858,Gaúcha do Norte, 8 642
+MT,51,03908,General Carneiro, 6 037
+MT,51,03957,Glória D'Oeste, 2 905
+MT,51,04104,Guarantã do Norte, 31 024
+MT,51,04203,Guiratinga, 10 966
+MT,51,04500,Indiavaí, 2 213
+MT,51,04526,Ipiranga do Norte, 7 815
+MT,51,04542,Itanhangá, 7 539
+MT,51,04559,Itaúba, 5 020
+MT,51,04609,Itiquira, 12 236
+MT,51,04807,Jaciara, 28 569
+MT,51,04906,Jangada, 7 426
+MT,51,05002,Jauru, 8 367
+MT,51,05101,Juara, 34 906
+MT,51,05150,Juína, 45 869
+MT,51,05176,Juruena, 10 213
+MT,51,05200,Juscimeira, 11 480
+MT,51,05234,Lambari D'Oeste, 4 790
+MT,51,05259,Lucas do Rio Verde, 83 798
+MT,51,05309,Luciara, 2 509
+MT,51,05507,Vila Bela da Santíssima Trindade, 16 774
+MT,51,05580,Marcelândia, 11 396
+MT,51,05606,Matupá, 20 091
+MT,51,05622,Mirassol d'Oeste, 26 785
+MT,51,05903,Nobres, 15 492
+MT,51,06000,Nortelândia, 5 956
+MT,51,06109,Nossa Senhora do Livramento, 12 940
+MT,51,06158,Nova Bandeirantes, 13 635
+MT,51,06174,Nova Nazaré, 4 200
+MT,51,06182,Nova Lacerda, 6 670
+MT,51,06190,Nova Santa Helena, 4 239
+MT,51,06208,Nova Brasilândia, 3 932
+MT,51,06216,Nova Canaã do Norte, 11 707
+MT,51,06224,Nova Mutum, 55 839
+MT,51,06232,Nova Olímpia, 16 352
+MT,51,06240,Nova Ubiratã, 11 530
+MT,51,06257,Nova Xavantina, 24 345
+MT,51,06265,Novo Mundo, 6 520
+MT,51,06273,Novo Horizonte do Norte, 3 349
+MT,51,06281,Novo São Joaquim, 6 919
+MT,51,06299,Paranaíta, 11 671
+MT,51,06307,Paranatinga, 26 423
+MT,51,06315,Novo Santo Antônio, 2 015
+MT,51,06372,Pedra Preta, 18 066
+MT,51,06422,Peixoto de Azevedo, 32 714
+MT,51,06455,Planalto da Serra, 3 166
+MT,51,06505,Poconé, 31 217
+MT,51,06653,Pontal do Araguaia, 6 932
+MT,51,06703,Ponte Branca, 2 008
+MT,51,06752,Pontes e Lacerda, 52 018
+MT,51,06778,Porto Alegre do Norte, 12 127
+MT,51,06802,Porto dos Gaúchos, 5 593
+MT,51,06828,Porto Esperidião, 10 204
+MT,51,06851,Porto Estrela, 3 224
+MT,51,07008,Poxoréu, 23 283
+MT,51,07040,Primavera do Leste, 85 146
+MT,51,07065,Querência, 26 769
+MT,51,07107,São José dos Quatro Marcos, 17 849
+MT,51,07156,Reserva do Cabaçal, 2 122
+MT,51,07180,Ribeirão Cascalheira, 10 089
+MT,51,07198,Ribeirãozinho, 2 593
+MT,51,07206,Rio Branco, 4 535
+MT,51,07248,Santa Carmem, 5 374
+MT,51,07263,Santo Afonso, 2 519
+MT,51,07297,São José do Povo, 2 875
+MT,51,07305,São José do Rio Claro, 14 911
+MT,51,07354,São José do Xingu, 5 964
+MT,51,07404,São Pedro da Cipa, 4 191
+MT,51,07578,Rondolândia, 3 505
+MT,51,07602,Rondonópolis, 244 911
+MT,51,07701,Rosário Oeste, 15 453
+MT,51,07743,Santa Cruz do Xingu, 2 661
+MT,51,07750,Salto do Céu, 3 679
+MT,51,07768,Santa Rita do Trivelato, 3 276
+MT,51,07776,Santa Terezinha, 7 596
+MT,51,07792,Santo Antônio do Leste, 4 099
+MT,51,07800,Santo Antônio do Leverger, 15 246
+MT,51,07859,São Félix do Araguaia, 13 621
+MT,51,07875,Sapezal, 28 944
+MT,51,07883,Serra Nova Dourada, 1 800
+MT,51,07909,Sinop, 196 312
+MT,51,07925,Sorriso, 110 635
+MT,51,07941,Tabaporã, 9 818
+MT,51,07958,Tangará da Serra, 106 434
+MT,51,08006,Tapurah, 14 370
+MT,51,08055,Terra Nova do Norte, 10 616
+MT,51,08105,Tesouro, 3 025
+MT,51,08204,Torixoréu, 4 164
+MT,51,08303,União do Sul, 3 838
+MT,51,08352,Vale de São Domingos, 2 904
+MT,51,08402,Várzea Grande, 300 078
+MT,51,08501,Vera, 12 800
+MT,51,08600,Vila Rica, 19 888
+MT,51,08808,Nova Guarita, 4 590
+MT,51,08857,Nova Marilândia, 3 529
+MT,51,08907,Nova Maringá, 5 846
+MT,51,08956,Nova Monte Verde, 8 313
+GO,52,00050,Abadia de Goiás, 19 128
+GO,52,00100,Abadiânia, 17 232
+GO,52,00134,Acreúna, 21 568
+GO,52,00159,Adelândia, 2 297
+GO,52,00175,Água Fria de Goiás, 4 954
+GO,52,00209,Água Limpa, 1 858
+GO,52,00258,Águas Lindas de Goiás, 225 693
+GO,52,00308,Alexânia, 27 008
+GO,52,00506,Aloândia, 1 973
+GO,52,00555,Alto Horizonte, 6 072
+GO,52,00605,Alto Paraíso de Goiás, 10 306
+GO,52,00803,Alvorada do Norte, 8 446
+GO,52,00829,Amaralina, 3 268
+GO,52,00852,Americano do Brasil, 5 259
+GO,52,00902,Amorinópolis, 3 007
+GO,52,01108,Anápolis, 398 869
+GO,52,01207,Anhanguera,  924
+GO,52,01306,Anicuns, 18 503
+GO,52,01405,Aparecida de Goiânia, 527 796
+GO,52,01454,Aparecida do Rio Doce, 2 907
+GO,52,01504,Aporé, 4 325
+GO,52,01603,Araçu, 3 799
+GO,52,01702,Aragarças, 18 390
+GO,52,01801,Aragoiânia, 11 890
+GO,52,02155,Araguapaz, 7 153
+GO,52,02353,Arenópolis, 2 946
+GO,52,02502,Aruanã, 8 300
+GO,52,02601,Aurilândia, 3 284
+GO,52,02809,Avelinópolis, 2 868
+GO,52,03104,Baliza, 3 351
+GO,52,03203,Barro Alto, 10 371
+GO,52,03302,Bela Vista de Goiás, 34 445
+GO,52,03401,Bom Jardim de Goiás, 7 826
+GO,52,03500,Bom Jesus de Goiás, 23 958
+GO,52,03559,Bonfinópolis, 10 296
+GO,52,03575,Bonópolis, 3 299
+GO,52,03609,Brazabrantes, 3 992
+GO,52,03807,Britânia, 5 695
+GO,52,03906,Buriti Alegre, 10 495
+GO,52,03939,Buriti de Goiás, 2 732
+GO,52,03962,Buritinópolis, 3 145
+GO,52,04003,Cabeceiras, 7 560
+GO,52,04102,Cachoeira Alta, 11 513
+GO,52,04201,Cachoeira de Goiás, 1 405
+GO,52,04250,Cachoeira Dourada, 7 782
+GO,52,04300,Caçu, 13 774
+GO,52,04409,Caiapônia, 16 513
+GO,52,04508,Caldas Novas, 98 622
+GO,52,04557,Caldazinha, 4 507
+GO,52,04607,Campestre de Goiás, 3 755
+GO,52,04656,Campinaçu, 3 708
+GO,52,04706,Campinorte, 12 510
+GO,52,04805,Campo Alegre de Goiás, 7 422
+GO,52,04854,Campo Limpo de Goiás, 8 081
+GO,52,04904,Campos Belos, 18 108
+GO,52,04953,Campos Verdes, 4 005
+GO,52,05000,Carmo do Rio Verde, 9 710
+GO,52,05059,Castelândia, 2 985
+GO,52,05109,Catalão, 114 427
+GO,52,05208,Caturaí, 5 184
+GO,52,05307,Cavalcante, 9 583
+GO,52,05406,Ceres, 22 046
+GO,52,05455,Cezarina, 8 090
+GO,52,05471,Chapadão do Céu, 12 870
+GO,52,05497,Cidade Ocidental, 91 767
+GO,52,05513,Cocalzinho de Goiás, 25 016
+GO,52,05521,Colinas do Sul, 4 030
+GO,52,05703,Córrego do Ouro, 2 454
+GO,52,05802,Corumbá de Goiás, 10 562
+GO,52,05901,Corumbaíba, 9 164
+GO,52,06206,Cristalina, 62 337
+GO,52,06305,Cristianópolis, 3 504
+GO,52,06404,Crixás, 17 065
+GO,52,06503,Cromínia, 3 883
+GO,52,06602,Cumari, 2 927
+GO,52,06701,Damianópolis, 3 770
+GO,52,06800,Damolândia, 2 724
+GO,52,06909,Davinópolis, 1 902
+GO,52,07105,Diorama, 2 062
+GO,52,07253,Doverlândia, 6 956
+GO,52,07352,Edealina, 4 001
+GO,52,07402,Edéia, 11 747
+GO,52,07501,Estrela do Norte, 3 205
+GO,52,07535,Faina, 7 070
+GO,52,07600,Fazenda Nova, 5 877
+GO,52,07808,Firminópolis, 10 419
+GO,52,07907,Flores de Goiás, 13 744
+GO,52,08004,Formosa, 115 901
+GO,52,08103,Formoso, 4 660
+GO,52,08152,Gameleira de Goiás, 3 456
+GO,52,08301,Divinópolis de Goiás, 4 457
+GO,52,08400,Goianápolis, 13 967
+GO,52,08509,Goiandira, 4 973
+GO,52,08608,Goianésia, 73 707
+GO,52,08707,Goiânia,1 437 366
+GO,52,08806,Goianira, 71 916
+GO,52,08905,Goiás, 24 071
+GO,52,09101,Goiatuba, 35 664
+GO,52,09150,Gouvelândia, 4 390
+GO,52,09200,Guapó, 19 545
+GO,52,09291,Guaraíta, 2 188
+GO,52,09408,Guarani de Goiás, 4 085
+GO,52,09457,Guarinos, 2 161
+GO,52,09606,Heitoraí, 3 354
+GO,52,09705,Hidrolândia, 27 742
+GO,52,09804,Hidrolina, 3 545
+GO,52,09903,Iaciara, 10 584
+GO,52,09937,Inaciolândia, 5 954
+GO,52,09952,Indiara, 17 061
+GO,52,10000,Inhumas, 52 204
+GO,52,10109,Ipameri, 25 548
+GO,52,10158,Ipiranga de Goiás, 2 919
+GO,52,10208,Iporá, 35 684
+GO,52,10307,Israelândia, 2 560
+GO,52,10406,Itaberaí, 44 734
+GO,52,10562,Itaguari, 4 963
+GO,52,10604,Itaguaru, 4 904
+GO,52,10802,Itajá, 4 380
+GO,52,10901,Itapaci, 21 087
+GO,52,11008,Itapirapuã, 8 007
+GO,52,11206,Itapuranga, 26 113
+GO,52,11305,Itarumã, 6 101
+GO,52,11404,Itauçu, 7 736
+GO,52,11503,Itumbiara, 107 970
+GO,52,11602,Ivolândia, 2 693
+GO,52,11701,Jandaia, 6 272
+GO,52,11800,Jaraguá, 45 223
+GO,52,11909,Jataí, 105 729
+GO,52,12006,Jaupaci, 2 924
+GO,52,12055,Jesúpolis, 2 123
+GO,52,12105,Joviânia, 7 159
+GO,52,12204,Jussara, 19 620
+GO,52,12253,Lagoa Santa, 1 390
+GO,52,12303,Leopoldo de Bulhões, 8 745
+GO,52,12501,Luziânia, 209 129
+GO,52,12600,Mairipotaba, 2 561
+GO,52,12709,Mambaí, 8 124
+GO,52,12808,Mara Rosa, 10 700
+GO,52,12907,Marzagão, 2 758
+GO,52,12956,Matrinchã, 4 042
+GO,52,13004,Maurilândia, 10 304
+GO,52,13053,Mimoso de Goiás, 2 614
+GO,52,13087,Minaçu, 27 075
+GO,52,13103,Mineiros, 70 081
+GO,52,13400,Moiporá, 1 685
+GO,52,13509,Monte Alegre de Goiás, 6 692
+GO,52,13707,Montes Claros de Goiás, 8 756
+GO,52,13756,Montividiu, 12 521
+GO,52,13772,Montividiu do Norte, 3 779
+GO,52,13806,Morrinhos, 51 351
+GO,52,13855,Morro Agudo de Goiás, 2 456
+GO,52,13905,Mossâmedes, 4 654
+GO,52,14002,Mozarlândia, 14 750
+GO,52,14051,Mundo Novo, 6 189
+GO,52,14101,Mutunópolis, 3 564
+GO,52,14408,Nazário, 8 189
+GO,52,14507,Nerópolis, 31 932
+GO,52,14606,Niquelândia, 34 964
+GO,52,14705,Nova América, 2 337
+GO,52,14804,Nova Aurora, 2 101
+GO,52,14838,Nova Crixás, 12 815
+GO,52,14861,Nova Glória, 8 310
+GO,52,14879,Nova Iguaçu de Goiás, 3 010
+GO,52,14903,Nova Roma, 3 076
+GO,52,15009,Nova Veneza, 9 481
+GO,52,15207,Novo Brasil, 3 527
+GO,52,15231,Novo Gama, 103 804
+GO,52,15256,Novo Planalto, 3 716
+GO,52,15306,Orizona, 16 399
+GO,52,15405,Ouro Verde de Goiás, 4 057
+GO,52,15504,Ouvidor, 7 200
+GO,52,15603,Padre Bernardo, 34 967
+GO,52,15652,Palestina de Goiás, 3 132
+GO,52,15702,Palmeiras de Goiás, 31 858
+GO,52,15801,Palmelo, 2 259
+GO,52,15900,Palminópolis, 3 851
+GO,52,16007,Panamá, 2 455
+GO,52,16304,Paranaiguara, 7 607
+GO,52,16403,Paraúna, 10 659
+GO,52,16452,Perolândia, 2 964
+GO,52,16809,Petrolina de Goiás, 9 573
+GO,52,16908,Pilar de Goiás, 2 328
+GO,52,17104,Piracanjuba, 24 883
+GO,52,17203,Piranhas, 11 712
+GO,52,17302,Pirenópolis, 26 690
+GO,52,17401,Pires do Rio, 32 373
+GO,52,17609,Planaltina, 105 031
+GO,52,17708,Pontalina, 18 309
+GO,52,18003,Porangatu, 44 317
+GO,52,18052,Porteirão, 4 070
+GO,52,18102,Portelândia, 3 280
+GO,52,18300,Posse, 34 914
+GO,52,18391,Professor Jamil, 3 649
+GO,52,18508,Quirinópolis, 48 447
+GO,52,18607,Rialma, 12 165
+GO,52,18706,Rianápolis, 3 980
+GO,52,18789,Rio Quente, 3 864
+GO,52,18805,Rio Verde, 225 696
+GO,52,18904,Rubiataba, 19 788
+GO,52,19001,Sanclerlândia, 7 918
+GO,52,19100,Santa Bárbara de Goiás, 6 149
+GO,52,19209,Santa Cruz de Goiás, 3 002
+GO,52,19258,Santa Fé de Goiás, 4 951
+GO,52,19308,Santa Helena de Goiás, 38 492
+GO,52,19357,Santa Isabel, 3 538
+GO,52,19407,Santa Rita do Araguaia, 5 924
+GO,52,19456,Santa Rita do Novo Destino, 2 689
+GO,52,19506,Santa Rosa de Goiás, 2 820
+GO,52,19605,Santa Tereza de Goiás, 3 293
+GO,52,19704,Santa Terezinha de Goiás, 10 645
+GO,52,19712,Santo Antônio da Barra, 4 267
+GO,52,19738,Santo Antônio de Goiás, 7 386
+GO,52,19753,Santo Antônio do Descoberto, 72 127
+GO,52,19803,São Domingos, 9 711
+GO,52,19902,São Francisco de Goiás, 6 378
+GO,52,20009,São João d'Aliança, 14 041
+GO,52,20058,São João da Paraúna, 1 774
+GO,52,20108,São Luís de Montes Belos, 33 852
+GO,52,20157,São Luiz do Norte, 4 837
+GO,52,20207,São Miguel do Araguaia, 21 900
+GO,52,20264,São Miguel do Passa Quatro, 4 464
+GO,52,20280,São Patrício, 2 143
+GO,52,20405,São Simão, 17 020
+GO,52,20454,Senador Canedo, 155 635
+GO,52,20504,Serranópolis, 8 027
+GO,52,20603,Silvânia, 22 245
+GO,52,20686,Simolândia, 5 742
+GO,52,20702,Sítio d'Abadia, 2 927
+GO,52,21007,Taquaral de Goiás, 4 026
+GO,52,21080,Teresina de Goiás, 2 701
+GO,52,21197,Terezópolis de Goiás, 7 944
+GO,52,21304,Três Ranchos, 2 921
+GO,52,21403,Trindade, 142 431
+GO,52,21452,Trombas, 3 120
+GO,52,21502,Turvânia, 4 480
+GO,52,21551,Turvelândia, 4 985
+GO,52,21577,Uirapuru, 2 798
+GO,52,21601,Uruaçu, 42 546
+GO,52,21700,Uruana, 13 729
+GO,52,21809,Urutaí, 3 553
+GO,52,21858,Valparaíso de Goiás, 198 861
+GO,52,21908,Varjão, 3 716
+GO,52,22005,Vianópolis, 14 956
+GO,52,22054,Vicentinópolis, 8 768
+GO,52,22203,Vila Boa, 4 215
+GO,52,22302,Vila Propício, 5 815
+DF,53,00108,Brasília,2 817 381
